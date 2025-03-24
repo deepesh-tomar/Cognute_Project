@@ -1,0 +1,210 @@
+/* Animation Keyframes */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInUp {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-20px); }
+  60% { transform: translateY(-10px); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+  20%, 40%, 60%, 80% { transform: translateX(5px); }
+}
+
+/* Applied Animations */
+.animate {
+  animation: fadeIn 0.6s ease-out, slideInUp 0.8s ease-out;
+  animation-fill-mode: both;
+}
+
+.animate-shake {
+  animation: shake 0.5s ease-in-out;
+}
+
+.welcome-logo i {
+  animation: float 3s ease-in-out infinite;
+  font-size: 4rem;
+  color: #4CAF50;
+}
+
+.welcome-title {
+  animation: fadeIn 1s ease forwards, slideInUp 1s ease forwards;
+  animation-fill-mode: both;
+}
+
+.welcome-subtitle {
+  animation: fadeIn 1s ease 0.3s forwards, slideInUp 1s ease 0.3s forwards;
+  opacity: 0;
+}
+
+.welcome-text {
+  animation: fadeIn 1s ease 0.6s forwards, slideInUp 1s ease 0.6s forwards;
+  opacity: 0;
+}
+
+.features {
+  animation: fadeIn 1s ease 0.9s forwards;
+  opacity: 0;
+}
+
+.feature i {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.login-btn, .register-btn {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.login-btn:hover, .register-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.company-logo {
+  animation: spin 10s linear infinite;
+}
+
+.welcome-message {
+  animation: fadeIn 1s ease-out;
+}
+
+.card-header {
+  animation: slideInUp 0.8s ease-out;
+}
+
+.form-group {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.form-group:hover {
+  transform: translateY(-3px);
+}
+
+.form-group:nth-child(1) {
+  animation-delay: 0.2s;
+}
+
+.form-group:nth-child(2) {
+  animation-delay: 0.4s;
+}
+
+.login-button {
+  animation: pulse 2s infinite;
+}
+
+/* Login button pulse on hover */
+.login-btn:hover {
+  animation: pulse 1s infinite;
+}
+
+/* Dashboard sections */
+.search-section, .add-customer-section, .results-section {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.search-section.animate, .add-customer-section.animate, .results-section.animate {
+  animation: fadeIn 0.8s ease-out, slideInUp 0.8s ease-out;
+  animation-fill-mode: forwards;
+}
+
+/* Customer result cards */
+.result-card.animate {
+  animation: fadeIn 0.5s ease-out, slideInUp 0.5s ease-out;
+  animation-fill-mode: forwards;
+}
+
+/* Modal details groups */
+.detail-group.animate {
+  animation: fadeIn 0.5s ease-out, slideInUp 0.5s ease-out;
+  animation-fill-mode: forwards;
+}
+
+/* Success message */
+.success-message {
+  color: var(--success-color);
+  text-align: center;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: rgba(67, 160, 71, 0.1);
+  border-left: 4px solid var(--success-color);
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-weight: 500;
+}
+
+.success-message i {
+  font-size: 1.2rem;
+}
+
+.success-message.animate {
+  animation: fadeIn 0.5s ease-out;
+  animation-fill-mode: forwards;
+}
+
+/* Make sure input fields have no animations */
+#customer-id, 
+#new-customer-id, 
+#new-age, 
+#new-income, 
+#new-frequency, 
+#new-loan-id, 
+#new-loan-amount, 
+#new-interest-rate, 
+#new-tenure, 
+#new-tenure-type, 
+#new-credit-score {
+  animation: none !important;
+  transition: border-color 0.3s, box-shadow 0.3s !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  position: relative !important;
+  z-index: 10 !important;
+}
+
+/* NEVER apply animations to input fields */
+input, select, textarea {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  transition: none !important;
+  animation: none !important;
+} 
