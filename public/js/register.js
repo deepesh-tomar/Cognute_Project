@@ -27,6 +27,44 @@ document.addEventListener('DOMContentLoaded', () => {
     // Clear previous error
     errorMessage.textContent = '';
     
+    // Validate email format
+    if (!email.includes('@') || !/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/.test(email)) {
+      errorMessage.textContent = 'Please enter a valid email address';
+      errorMessage.classList.add('animate-shake');
+      setTimeout(() => {
+        errorMessage.classList.remove('animate-shake');
+      }, 500);
+      return;
+    }
+
+    // Validate password requirements
+    if (password.length < 6) {
+      errorMessage.textContent = 'Password must be at least 6 characters long';
+      errorMessage.classList.add('animate-shake');
+      setTimeout(() => {
+        errorMessage.classList.remove('animate-shake');
+      }, 500);
+      return;
+    }
+
+    if (!/[A-Z]/.test(password)) {
+      errorMessage.textContent = 'Password must contain at least one uppercase letter';
+      errorMessage.classList.add('animate-shake');
+      setTimeout(() => {
+        errorMessage.classList.remove('animate-shake');
+      }, 500);
+      return;
+    }
+
+    if (!/\d/.test(password)) {
+      errorMessage.textContent = 'Password must contain at least one number';
+      errorMessage.classList.add('animate-shake');
+      setTimeout(() => {
+        errorMessage.classList.remove('animate-shake');
+      }, 500);
+      return;
+    }
+    
     // Check if passwords match
     if (password !== confirmPassword) {
       errorMessage.textContent = 'Passwords do not match';

@@ -1,0 +1,1001 @@
+Customer_ID,Age,Salary_Net_Income,Social_security_net_income,Self_employed_net_income,Salary_frequency,Months_current_job,Total_experience_months,Current_Bankruptcy_status,Ever_Bankrupt,Loan_ID,Loan_Amount,Interest_rate,Tenure,Tenure_type,Fee,Recurring_payment_amount,Total_Due,No_of_days_since_last_payment,Missed_payments,On_time_payments,Penalty,Current_due,Current_delinquent,Current_default,Past_Collection_Success,Past_delinquencies,Credit_Score,Past_to_be_collected,Past_Collection_amount,Refinance,Extended_payment_plan,Settlement_plans_with_waive_off,Accepted_option,Promised_to_pay,Promised_to_pay_status
+C1,27,978,0,0,weekly,41.0,88.0,False,True,1000,2181,13.75,12,weekly,100,184.89,2318.68,20,2,6,241.87,1451.21,True,False,True,9,477,7767,3586,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C2,78,0,4627,0,,,,False,False,1001,3427,12.2,21,weekly,100,167.43,3616.03,105,15,4,2651.68,5597.99,True,True,True,14,593,1775,241,False,True,True,Extended_payment_plan,No,Partially kept
+C3,18,0,3408,3944,,,,False,False,1002,3848,24.87,24,monthly,100,205.12,5022.88,193,6,14,1936.08,4087.28,True,True,False,18,631,7827,0,True,False,False,Refinance,No,not kept
+C4,79,0,929,0,,,,False,False,1003,2178,14.47,18,monthly,100,135.33,2535.94,29,0,16,107.49,478.15,False,False,False,13,659,2620,0,False,True,True,Extended_payment_plan,Yes,not kept
+C5,85,984,0,3911,monthly,23.0,290.0,False,True,1004,1943,12.44,12,weekly,100,164.45,2073.4,48,6,4,679.49,2095.09,True,False,N/A,8,401,0,0,False,False,False,N/A,N/A,N/A
+C6,31,1667,0,0,biweekly,0.0,5.0,False,False,1005,4356,19.91,7,monthly,100,664.26,4749.82,186,6,1,3677.0,7762.56,True,True,False,8,736,4712,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C7,35,3389,0,0,biweekly,20.0,184.0,False,False,1006,4147,21.8,14,biweekly,100,315.18,4512.52,187,13,1,3777.61,7974.95,True,True,N/A,1,300,0,0,False,False,False,N/A,N/A,N/A
+C8,68,1930,0,1692,weekly,49.0,513.0,False,False,1007,3696,25.87,13,biweekly,100,304.5,4058.5,160,11,0,3652.65,7711.15,True,True,False,3,464,9425,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C9,51,4803,0,0,monthly,74.0,105.0,False,False,1008,1670,24.44,20,monthly,100,102.49,2149.8,537,17,1,1842.58,3889.89,True,True,N/A,8,575,0,0,False,False,False,N/A,N/A,N/A
+C10,55,1901,0,0,monthly,63.0,346.0,False,False,1009,2738,13.31,23,biweekly,100,126.49,3009.27,214,15,7,1911.46,4035.3,True,True,N/A,7,475,0,0,False,False,False,N/A,N/A,N/A
+C11,22,1520,0,0,weekly,17.0,40.0,False,False,1010,2490,25.9,20,monthly,100,154.62,3192.4,378,12,5,2177.37,4596.67,True,True,N/A,8,306,0,0,False,False,False,N/A,N/A,N/A
+C12,86,2702,0,0,monthly,81.0,695.0,False,False,1011,399,27.82,24,monthly,50,21.86,574.64,362,12,3,458.15,967.21,True,True,N/A,14,684,0,0,False,False,False,N/A,N/A,N/A
+C13,40,3933,0,0,monthly,70.0,262.0,False,False,1012,1672,16.82,13,weekly,100,131.55,1810.15,49,7,5,564.68,1717.08,True,False,False,18,759,5704,0,True,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C14,84,1662,0,0,biweekly,19.0,46.0,False,False,1013,2790,16.66,23,weekly,100,126.02,2998.46,45,6,8,895.64,2885.94,True,False,N/A,14,829,0,0,False,False,False,N/A,N/A,N/A
+C15,19,3107,0,0,weekly,4.0,7.0,False,False,1014,4561,21.92,20,biweekly,100,248.77,5075.4,27,1,14,430.01,2022.63,True,False,N/A,7,427,0,0,False,False,False,N/A,N/A,N/A
+C16,50,1792,0,0,biweekly,19.0,302.0,False,False,1015,3381,11.9,7,weekly,100,487.43,3512.01,39,5,2,989.49,3526.64,True,False,True,15,659,1980,1874,True,False,True,Refinance,No,Partially kept
+C17,38,0,1331,0,,,,False,False,1016,4502,25.81,7,monthly,100,699.65,4997.55,83,2,5,1244.42,2743.72,True,False,N/A,2,374,0,0,False,False,False,N/A,N/A,N/A
+C18,25,3244,0,0,biweekly,10.0,74.0,False,False,1017,3832,12.19,16,monthly,100,260.7,4271.2,69,2,0,2947.13,7218.33,True,False,True,9,626,1467,557,False,True,False,Extended_payment_plan,Yes,Partially kept
+C19,71,1107,0,0,monthly,50.0,503.0,False,False,1018,1433,11.7,18,monthly,100,87.19,1669.42,98,3,8,874.71,1846.61,True,True,N/A,12,380,0,0,False,False,False,N/A,N/A,N/A
+C20,20,0,2905,0,,,,False,False,1019,424,17.47,21,monthly,50,23.58,545.18,378,12,2,448.22,946.24,True,True,True,18,310,3986,751,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C21,51,2686,0,0,weekly,20.0,21.0,False,False,1020,4004,11.76,9,biweekly,100,455.01,4195.09,47,3,4,1116.27,3491.32,True,False,N/A,18,418,0,0,False,False,False,N/A,N/A,N/A
+C22,23,2348,0,0,biweekly,29.0,58.0,False,False,1021,2033,18.78,12,weekly,100,173.42,2181.04,61,8,1,1224.65,3232.27,True,False,N/A,5,462,0,0,False,False,False,N/A,N/A,N/A
+C23,94,2521,0,4569,biweekly,68.0,836.0,False,False,1022,3130,20.75,16,monthly,100,225.61,3709.76,189,6,3,2729.64,5762.57,True,True,False,7,783,5807,0,False,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C24,72,4613,0,0,biweekly,2.0,352.0,False,False,1023,761,13.32,16,monthly,50,52.17,884.72,26,0,1,216.46,1049.01,False,False,N/A,1,613,0,0,False,False,False,N/A,N/A,N/A
+C25,88,0,1760,0,,,,False,False,1024,1265,10.96,7,weekly,100,182.24,1375.68,39,5,2,394.37,1405.57,True,False,N/A,4,585,0,0,False,False,False,N/A,N/A,N/A
+C26,100,0,905,2839,,,,False,False,1025,4518,24.15,10,biweekly,100,475.2,4852.0,137,9,1,3939.12,8315.92,True,True,False,19,760,5842,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C27,33,956,0,0,weekly,14.0,33.0,False,False,1026,4372,13.96,10,weekly,100,443.68,4536.8,3,0,5,69.55,2387.95,False,False,False,15,576,4539,0,True,True,False,Extended_payment_plan,Yes,not kept
+C28,89,0,1942,504,,,,False,True,1027,488,13.39,12,monthly,50,43.68,574.16,217,7,5,320.18,675.94,True,True,True,10,759,3765,1463,True,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C29,50,858,0,0,monthly,88.0,134.0,False,False,1028,3917,27.33,20,weekly,100,206.84,4236.8,49,7,5,1569.27,4771.87,True,False,N/A,10,839,0,0,False,False,False,N/A,N/A,N/A
+C30,76,4600,0,3688,monthly,40.0,603.0,False,False,1029,897,11.02,10,monthly,50,94.29,992.9,102,3,4,554.17,1169.91,True,True,N/A,4,601,0,0,False,False,False,N/A,N/A,N/A
+C31,69,944,0,0,monthly,29.0,75.0,False,False,1030,2584,10.3,11,weekly,100,237.71,2714.81,39,5,6,502.53,1791.08,True,False,False,2,540,4583,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C32,85,1219,0,0,monthly,141.0,321.0,False,True,1031,3568,13.71,20,monthly,100,200.57,4111.4,436,14,4,2978.21,6287.33,True,True,True,10,317,7913,6377,True,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C33,34,4500,0,2858,weekly,64.0,165.0,False,False,1032,1817,24.44,20,weekly,100,95.4,2008.0,136,19,0,1807.2,3815.2,True,True,True,10,716,8712,1832,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C34,89,690,0,0,biweekly,99.0,101.0,True,True,1033,1952,19.34,14,weekly,100,143.35,2106.9,41,5,7,452.41,1555.86,True,False,N/A,19,602,0,0,False,False,False,N/A,N/A,N/A
+C35,93,1392,0,0,monthly,78.0,310.0,False,False,1034,1016,14.27,6,weekly,100,170.96,1125.76,18,2,1,171.86,1126.66,True,False,True,10,488,6669,2526,False,True,False,Extended_payment_plan,Yes,Partially kept
+C36,88,0,1599,0,,,,False,False,1035,4551,29.51,12,weekly,100,393.38,4820.56,6,0,9,76.81,1356.95,False,False,True,18,502,366,285,True,False,False,Refinance,Yes,Partially kept
+C37,98,1200,0,2672,monthly,49.0,509.0,False,False,1036,215,14.66,19,biweekly,50,11.96,277.24,59,4,4,135.35,364.75,True,False,False,8,610,6159,0,True,True,True,Settlement_plans_with_waive_off,No,not kept
+C38,27,0,1170,0,,,,False,False,1037,3901,22.9,15,weekly,100,269.32,4139.8,67,9,3,2232.33,5564.17,True,False,N/A,17,796,0,0,False,False,False,N/A,N/A,N/A
+C39,48,0,3073,332,,,,False,False,1038,4843,18.66,22,monthly,100,261.62,5855.64,385,12,10,2915.5,6154.94,True,True,N/A,13,791,0,0,False,False,False,N/A,N/A,N/A
+C40,89,0,2944,0,,,,False,False,1039,2472,21.45,24,monthly,100,127.57,3161.68,33,1,21,159.29,642.0,True,False,False,7,361,6054,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C41,99,1979,0,0,monthly,27.0,220.0,False,False,1040,2915,11.11,20,weekly,100,149.04,3080.8,31,4,9,539.23,2278.67,True,False,N/A,4,390,0,0,False,False,False,N/A,N/A,N/A
+C42,63,4596,0,632,monthly,51.0,537.0,False,False,1041,3107,19.82,13,weekly,100,245.43,3290.59,30,4,5,619.03,2682.47,True,False,N/A,15,511,0,0,False,False,False,N/A,N/A,N/A
+C43,51,2091,0,0,biweekly,7.0,57.0,False,False,1042,660,28.41,6,biweekly,50,114.24,735.44,77,5,1,478.32,1099.52,True,False,False,3,693,9535,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C44,96,0,4937,1756,,,,False,False,1043,4438,19.03,25,weekly,100,186.09,4752.25,140,20,2,3942.06,8322.13,True,True,True,19,684,4831,4465,False,True,True,Extended_payment_plan,No,Partially kept
+C45,59,2004,0,0,weekly,4.0,125.0,False,False,1044,4885,15.2,22,biweekly,100,237.28,5320.16,148,10,0,4788.14,10108.3,True,True,False,9,365,1293,0,True,False,False,Refinance,No,not kept
+C46,38,3576,0,0,weekly,9.0,183.0,False,False,1045,3396,27.6,21,monthly,100,205.72,4420.12,609,20,1,3792.96,8007.36,True,True,False,7,783,8841,0,False,True,True,Extended_payment_plan,Yes,not kept
+C47,66,3109,0,0,weekly,34.0,376.0,False,False,1046,3519,23.02,11,monthly,100,357.9,4036.9,132,4,7,1378.44,2910.04,True,True,N/A,4,742,0,0,False,False,False,N/A,N/A,N/A
+C48,96,1059,0,0,monthly,65.0,124.0,False,False,1047,2402,12.88,20,weekly,100,123.25,2565.0,113,16,3,1975.72,4170.97,True,True,False,9,469,8546,0,True,False,False,Refinance,No,not kept
+C49,73,0,2410,0,,,,False,False,1048,4869,29.66,6,biweekly,100,844.21,5165.26,16,1,5,151.07,1095.28,True,False,N/A,0,795,0,0,False,False,False,N/A,N/A,N/A
+C50,97,0,1312,2305,,,,False,False,1049,4414,17.91,6,monthly,100,774.57,4747.42,168,5,1,3575.56,7548.41,True,True,False,12,840,4225,0,False,True,True,Extended_payment_plan,No,not kept
+C51,73,3144,0,0,monthly,75.0,200.0,False,False,1050,1726,13.56,12,weekly,100,146.28,1855.36,53,7,1,905.81,2614.89,True,False,N/A,2,641,0,0,False,False,False,N/A,N/A,N/A
+C52,45,2059,0,0,weekly,8.0,42.0,False,True,1051,497,25.31,18,biweekly,50,30.23,594.14,202,14,4,425.9,899.12,True,True,N/A,3,345,0,0,False,False,False,N/A,N/A,N/A
+C53,61,1712,0,0,weekly,92.0,309.0,False,False,1052,1507,15.17,10,monthly,100,161.38,1713.8,103,3,1,1397.18,2949.6,True,True,N/A,17,827,0,0,False,False,False,N/A,N/A,N/A
+C54,40,3840,0,0,biweekly,82.0,165.0,False,False,1053,1828,21.63,14,biweekly,100,138.86,2044.04,23,1,9,182.69,976.99,True,False,N/A,2,515,0,0,False,False,False,N/A,N/A,N/A
+C55,90,1034,0,0,weekly,10.0,30.0,False,False,1054,1558,14.66,22,monthly,100,81.19,1886.18,372,12,7,1186.06,2503.91,True,True,False,1,736,1202,0,True,False,True,Refinance,No,not kept
+C56,89,3235,0,0,biweekly,731.0,847.0,False,False,1055,3272,27.63,6,monthly,100,590.11,3640.66,98,3,2,2214.4,4674.84,True,True,True,12,349,6995,6742,True,True,False,Refinance,No,Partially kept
+C57,25,3840,0,0,weekly,58.0,61.0,False,False,1056,2353,18.14,21,biweekly,100,120.85,2637.85,254,18,0,2374.06,5011.91,True,True,N/A,15,435,0,0,False,False,False,N/A,N/A,N/A
+C58,58,0,2582,0,,,,False,False,1057,2209,24.44,24,weekly,100,97.55,2441.2,135,19,0,2197.08,4638.28,True,True,N/A,17,464,0,0,False,False,False,N/A,N/A,N/A
+C59,83,0,4549,0,,,,False,False,1058,3612,22.62,12,weekly,100,309.58,3814.96,23,3,6,450.22,2407.7,True,False,False,4,327,3922,0,True,False,False,Refinance,No,not kept
+C60,89,2707,0,0,biweekly,28.0,367.0,False,False,1059,2166,25.47,21,weekly,100,108.79,2384.59,88,12,1,2002.7,4278.5,True,False,True,7,594,3256,3,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C61,58,0,4328,0,,,,False,False,1060,2615,22.64,15,monthly,100,201.79,3126.85,350,11,3,2269.33,4790.81,True,True,True,2,692,6606,3304,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C62,94,4809,0,0,weekly,403.0,752.0,False,False,1061,3128,23.48,9,biweekly,100,363.44,3370.96,95,6,0,3033.86,6404.82,True,True,N/A,15,560,0,0,False,False,False,N/A,N/A,N/A
+C63,63,2225,0,0,biweekly,154.0,201.0,False,False,1062,3747,15.23,21,monthly,100,204.38,4391.98,224,7,9,2297.3,4849.86,True,True,False,19,432,5645,0,True,False,False,Refinance,Yes,not kept
+C64,96,4402,0,0,weekly,1.0,5.0,False,False,1063,1960,26.75,10,weekly,100,201.59,2115.9,9,1,1,172.29,2086.6,True,False,N/A,4,677,0,0,False,False,False,N/A,N/A,N/A
+C65,31,1025,0,0,monthly,39.0,136.0,False,False,1064,4965,18.91,17,monthly,100,335.21,5798.57,463,15,1,4917.02,10380.38,True,True,False,8,639,1196,0,True,False,False,Refinance,No,not kept
+C66,82,932,0,0,weekly,71.0,667.0,False,False,1065,2910,11.4,23,monthly,100,141.44,3353.12,233,7,11,1617.55,3414.83,True,True,False,5,681,7516,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C67,24,4329,0,0,biweekly,20.0,43.0,False,False,1066,4013,11.07,7,weekly,100,578.18,4147.26,6,0,2,179.45,3170.35,False,False,N/A,10,782,0,0,False,False,False,N/A,N/A,N/A
+C68,45,2238,0,0,weekly,0.0,7.0,False,False,1067,1854,18.92,16,weekly,100,119.49,2011.84,61,8,3,1008.56,2661.93,True,False,False,10,409,8046,0,True,False,True,Refinance,No,not kept
+C69,43,1570,0,0,monthly,86.0,135.0,False,False,1068,2035,25.59,22,weekly,100,97.82,2252.04,86,12,1,1852.63,4006.85,True,False,N/A,14,431,0,0,False,False,False,N/A,N/A,N/A
+C70,28,4450,0,4010,monthly,42.0,103.0,False,False,1069,3961,13.1,18,weekly,100,225.36,4156.48,13,1,3,452.45,3932.85,True,False,True,15,391,4108,1584,False,True,False,Extended_payment_plan,Yes,Partially kept
+C71,85,4125,0,0,monthly,29.0,101.0,False,False,1070,3430,19.95,14,biweekly,100,259.33,3730.62,141,10,2,2890.76,6102.72,True,True,N/A,14,603,0,0,False,False,False,N/A,N/A,N/A
+C72,44,0,3260,0,,,,False,False,1071,3003,24.22,24,biweekly,100,140.21,3465.04,29,2,8,679.57,3022.93,True,False,True,13,411,5502,1642,False,True,False,Extended_payment_plan,Yes,Partially kept
+C73,55,1636,0,0,biweekly,47.0,367.0,False,False,1072,1480,20.93,20,weekly,100,77.17,1643.4,36,5,15,174.91,660.76,True,False,True,3,756,5873,2591,True,False,False,Refinance,No,Partially kept
+C74,54,2487,0,0,monthly,46.0,187.0,False,True,1073,4329,24.23,16,monthly,100,319.32,5209.12,83,2,13,878.11,1936.07,True,False,N/A,13,845,0,0,False,False,False,N/A,N/A,N/A
+C75,65,4169,0,4816,biweekly,47.0,494.0,False,False,1074,3057,28.35,13,monthly,100,275.86,3686.18,296,9,1,3069.29,6479.61,True,True,False,0,451,8535,0,True,False,True,Refinance,No,not kept
+C76,70,1569,0,0,weekly,68.0,402.0,False,False,1075,1112,15.71,20,biweekly,100,59.19,1283.8,36,2,2,419.55,1584.97,True,False,N/A,15,640,0,0,False,False,False,N/A,N/A,N/A
+C77,32,0,3701,0,,,,False,False,1076,3146,19.37,15,monthly,100,237.83,3667.45,28,0,11,294.37,1345.69,False,False,N/A,11,767,0,0,False,False,False,N/A,N/A,N/A
+C78,81,2055,0,3521,monthly,78.0,250.0,False,False,1077,1976,27.89,18,weekly,100,115.46,2178.28,45,6,9,512.61,1651.75,True,False,N/A,10,400,0,0,False,False,False,N/A,N/A,N/A
+C79,95,3873,0,0,biweekly,35.0,576.0,False,False,1078,3935,11.4,7,monthly,100,583.71,4185.97,157,5,2,2716.7,5735.25,True,True,True,13,770,5260,3592,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C80,81,0,2701,3166,,,,False,False,1079,1619,23.07,16,weekly,100,105.05,1780.8,98,14,0,1602.72,3383.52,True,True,N/A,12,399,0,0,False,False,False,N/A,N/A,N/A
+C81,91,3196,0,3867,monthly,6.0,421.0,False,False,1080,1186,25.41,18,monthly,100,79.93,1538.74,218,7,4,1097.12,2316.14,True,True,True,19,790,3615,2612,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C82,68,2402,0,0,biweekly,19.0,91.0,False,False,1081,4209,24.14,15,biweekly,100,301.89,4628.35,176,12,3,3350.41,7073.09,True,True,False,3,320,8323,0,True,False,True,Refinance,Yes,not kept
+C83,28,4700,0,0,biweekly,3.0,10.0,False,False,1082,2442,28.52,22,biweekly,100,125.54,2861.88,231,16,2,2349.72,4960.52,True,True,False,9,803,7804,0,True,False,True,Refinance,No,not kept
+C84,25,2869,0,0,monthly,31.0,41.0,False,True,1083,4276,20.55,8,weekly,100,544.05,4452.4,35,5,1,1367.92,5276.27,True,False,N/A,12,738,0,0,False,False,False,N/A,N/A,N/A
+C85,79,4868,0,0,weekly,84.0,271.0,False,False,1084,3260,11.28,10,weekly,100,329.9,3399.0,40,5,2,1095.68,3834.88,True,False,N/A,5,322,0,0,False,False,False,N/A,N/A,N/A
+C86,78,0,4636,3688,,,,False,False,1085,318,17.67,24,biweekly,50,14.4,395.6,30,2,13,62.52,270.92,True,False,N/A,8,577,0,0,False,False,False,N/A,N/A,N/A
+C87,98,0,1557,2329,,,,False,False,1086,3543,28.55,18,biweekly,100,218.0,4024.0,190,13,5,2640.6,5574.6,True,True,False,11,492,8337,0,True,False,False,Refinance,No,not kept
+C88,43,2520,0,466,weekly,77.0,206.0,False,False,1087,2077,16.09,16,monthly,100,145.1,2421.6,78,2,3,1549.31,3535.61,True,False,True,0,654,2786,1263,True,True,True,Extended_payment_plan,No,Partially kept
+C89,76,3987,0,0,weekly,10.0,670.0,False,False,1088,693,26.37,12,weekly,50,59.67,766.04,57,8,0,436.64,1202.68,True,False,N/A,1,619,0,0,False,False,False,N/A,N/A,N/A
+C90,67,2743,0,0,weekly,2.0,31.0,False,False,1089,1082,27.32,11,monthly,100,112.3,1335.3,145,4,2,999.63,2110.33,True,True,N/A,2,590,0,0,False,False,False,N/A,N/A,N/A
+C91,96,3343,0,0,biweekly,29.0,817.0,False,False,1090,414,29.09,25,monthly,50,22.28,607.0,468,15,1,526.25,1110.97,True,True,N/A,14,304,0,0,False,False,False,N/A,N/A,N/A
+C92,73,4734,0,1286,weekly,294.0,594.0,False,False,1091,4483,10.06,20,weekly,100,228.73,4674.6,82,11,2,3458.05,7675.19,True,False,True,9,772,3884,2400,True,False,False,Refinance,No,Partially kept
+C93,22,2775,0,0,weekly,21.0,22.0,False,False,1092,3055,27.11,17,monthly,100,218.42,3813.14,291,9,2,3038.67,6414.97,True,True,N/A,1,793,0,0,False,False,False,N/A,N/A,N/A
+C94,23,827,0,0,monthly,1.0,33.0,False,True,1093,4920,20.23,24,biweekly,100,225.53,5512.72,318,22,0,4961.45,10474.17,True,True,False,15,782,3326,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C95,23,1919,0,0,monthly,26.0,53.0,False,False,1094,129,24.9,12,weekly,50,11.09,183.08,65,9,2,104.58,265.48,True,False,True,8,483,2480,808,False,True,False,Extended_payment_plan,No,Partially kept
+C96,33,0,3990,0,,,,False,False,1095,1599,12.96,21,weekly,100,78.25,1743.25,108,15,1,1498.5,3163.5,True,True,N/A,12,336,0,0,False,False,False,N/A,N/A,N/A
+C97,47,3981,0,521,biweekly,57.0,87.0,False,False,1096,258,14.9,7,monthly,50,38.71,320.97,163,5,1,254.03,536.29,True,True,False,16,770,8580,0,True,False,False,Refinance,No,not kept
+C98,82,1406,0,3324,biweekly,37.0,727.0,False,False,1097,4754,20.31,11,monthly,100,477.3,5350.3,323,10,1,4385.7,9258.7,True,True,N/A,16,688,0,0,False,False,False,N/A,N/A,N/A
+C99,51,638,0,0,monthly,60.0,287.0,False,False,1098,3420,15.61,20,weekly,100,176.44,3628.8,117,16,0,3265.92,6894.72,True,True,True,13,380,9371,2277,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C100,84,0,1844,0,,,,False,False,1099,2802,28.2,20,biweekly,100,156.6,3232.0,129,9,4,2345.04,4950.64,True,True,False,9,642,930,0,True,True,False,Extended_payment_plan,Yes,not kept
+C101,26,2279,0,3440,monthly,38.0,71.0,False,False,1100,1998,23.73,19,monthly,100,127.17,2516.23,182,6,4,1806.8,3814.35,True,True,True,19,363,8903,5174,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C102,48,3633,0,4255,monthly,55.0,201.0,False,False,1101,4159,12.11,11,weekly,100,383.39,4317.29,7,1,5,168.02,2568.36,False,False,False,15,698,5154,0,False,True,True,Extended_payment_plan,Yes,not kept
+C103,96,1635,0,4619,biweekly,54.0,424.0,False,False,1102,3827,24.08,8,biweekly,100,498.53,4088.24,82,5,3,2125.97,4718.62,True,False,False,19,717,2738,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C104,90,3440,0,0,weekly,2.0,616.0,False,False,1103,3921,18.13,10,weekly,100,399.66,4096.6,45,6,0,1843.47,5940.07,True,False,True,14,467,4192,213,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C105,32,1670,0,0,biweekly,6.0,127.0,False,False,1104,4535,22.73,6,weekly,100,767.44,4704.64,18,2,4,294.28,1929.16,True,False,N/A,17,417,0,0,False,False,False,N/A,N/A,N/A
+C106,100,0,3344,2720,,,,False,False,1105,1914,25.99,8,monthly,100,263.15,2205.2,236,7,1,1747.84,3689.89,True,True,False,5,615,1165,0,True,True,False,Refinance,Yes,not kept
+C107,55,3101,0,977,biweekly,87.0,179.0,False,False,1106,586,23.29,8,monthly,50,79.79,688.32,234,7,0,619.49,1307.81,True,True,False,14,604,6707,0,False,True,False,Extended_payment_plan,Yes,not kept
+C108,98,1462,0,4250,weekly,4.0,696.0,False,False,1107,262,15.32,18,biweekly,50,15.38,326.84,156,11,1,280.31,591.77,True,True,False,19,462,9754,0,False,True,False,Extended_payment_plan,No,not kept
+C109,96,0,2302,4187,,,,False,False,1108,2844,11.97,17,monthly,100,182.71,3206.07,376,12,2,2556.58,5397.23,True,True,True,17,579,3788,1275,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C110,99,1691,0,0,biweekly,19.0,900.0,False,False,1109,1388,23.96,20,weekly,100,72.81,1556.2,43,6,14,230.85,767.71,True,False,False,17,584,8,0,True,True,True,Extended_payment_plan,Yes,not kept
+C111,77,3043,0,0,biweekly,122.0,505.0,False,False,1110,2135,24.11,21,weekly,100,106.93,2345.53,95,13,1,2014.74,4253.34,True,True,False,17,550,860,0,True,False,True,Refinance,Yes,not kept
+C112,37,4134,0,0,weekly,18.0,216.0,False,False,1111,772,19.0,19,biweekly,50,43.67,879.73,266,19,0,791.76,1671.49,True,True,N/A,5,710,0,0,False,False,False,N/A,N/A,N/A
+C113,20,3090,0,1916,monthly,5.0,13.0,False,False,1112,4573,15.53,15,biweekly,100,319.64,4894.6,4,0,5,131.86,3428.26,False,False,True,8,530,6094,4791,True,False,False,Refinance,No,Partially kept
+C114,39,1353,0,0,biweekly,54.0,197.0,False,False,1113,2537,17.22,15,biweekly,100,178.23,2773.45,169,12,0,2496.1,5269.55,True,True,True,1,556,1774,1661,True,False,True,Refinance,No,Partially kept
+C115,70,2131,0,3274,weekly,67.0,541.0,False,False,1114,4870,23.2,9,biweekly,100,565.54,5189.86,93,6,2,3652.9,7711.68,True,True,False,0,347,9893,0,True,False,False,Refinance,Yes,not kept
+C116,18,2403,0,2058,monthly,0.0,0.0,False,False,1115,513,22.18,7,monthly,50,78.8,601.6,204,6,1,470.52,993.32,True,True,False,13,417,7395,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C117,97,1961,0,0,biweekly,6.0,737.0,False,False,1116,4976,20.42,14,biweekly,100,376.72,5374.08,118,8,0,4836.67,10210.75,True,True,N/A,19,345,0,0,False,False,False,N/A,N/A,N/A
+C118,63,580,0,0,weekly,7.0,469.0,False,False,1117,1883,16.19,9,monthly,100,223.59,2112.31,202,6,2,1498.62,3163.75,True,True,True,2,305,6035,640,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C119,40,1903,0,0,biweekly,0.0,62.0,False,False,1118,4814,29.21,18,biweekly,100,296.89,5444.02,182,13,1,4632.42,9779.55,True,True,N/A,5,827,0,0,False,False,False,N/A,N/A,N/A
+C120,49,1171,0,667,monthly,59.0,241.0,False,True,1119,1240,20.76,12,biweekly,100,108.77,1405.24,9,0,7,57.95,701.8,False,False,False,19,653,4076,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C121,58,4710,0,0,biweekly,52.0,230.0,False,False,1120,1221,27.11,15,weekly,100,84.84,1372.6,39,5,9,237.53,846.57,True,False,True,18,427,6484,5183,True,False,True,Refinance,Yes,Partially kept
+C122,62,3614,0,0,biweekly,12.0,41.0,False,False,1121,4024,11.55,15,biweekly,100,277.9,4268.5,159,11,4,2841.21,5998.11,True,True,N/A,13,561,0,0,False,False,False,N/A,N/A,N/A
+C123,64,4862,0,4983,monthly,71.0,481.0,False,False,1122,478,14.46,9,monthly,50,56.36,557.24,126,4,4,298.62,630.42,True,True,N/A,11,312,0,0,False,False,False,N/A,N/A,N/A
+C124,70,1638,0,1163,biweekly,26.0,327.0,False,False,1123,1426,18.05,17,weekly,100,86.53,1571.01,112,16,0,1413.91,2984.92,True,True,True,0,440,627,468,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C125,25,4624,0,0,monthly,22.0,41.0,False,False,1124,2407,26.98,7,biweekly,100,358.28,2607.96,6,0,1,134.98,2384.66,False,False,False,19,376,2075,0,False,True,False,Extended_payment_plan,No,not kept
+C126,53,3436,0,0,biweekly,53.0,208.0,False,False,1125,2142,20.03,12,weekly,100,183.0,2296.0,84,12,0,1928.64,4224.64,True,False,True,10,455,2548,1082,True,False,False,Refinance,Yes,Partially kept
+C127,71,0,1425,0,,,,False,False,1126,494,29.83,23,weekly,50,22.99,578.77,39,5,4,189.86,676.67,True,False,True,1,836,4594,1571,True,False,False,Refinance,Yes,Partially kept
+C128,24,0,4446,4563,,,,False,False,1127,1679,21.98,13,biweekly,100,136.93,1880.09,108,7,2,1445.61,3051.84,True,True,False,9,582,5924,0,False,True,False,Extended_payment_plan,Yes,not kept
+C129,39,0,4307,0,,,,False,False,1128,1427,13.38,14,weekly,100,103.91,1554.74,65,9,4,740.42,1879.52,True,False,False,2,819,285,0,True,False,True,Refinance,Yes,not kept
+C130,60,1462,0,0,biweekly,22.0,443.0,False,False,1129,2418,11.38,8,monthly,100,315.29,2622.32,92,3,0,2360.09,4982.41,True,True,False,5,806,8672,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C131,42,4984,0,0,monthly,44.0,98.0,False,False,1130,2930,26.27,16,weekly,100,191.09,3157.44,31,4,4,741.85,3134.93,True,False,N/A,12,577,0,0,False,False,False,N/A,N/A,N/A
+C132,82,4813,0,0,monthly,8.0,458.0,False,False,1131,2378,14.51,24,biweekly,100,106.14,2647.36,9,0,2,219.16,2654.24,False,False,False,12,410,3170,0,True,True,False,Extended_payment_plan,No,not kept
+C133,81,3261,0,0,monthly,19.0,177.0,False,False,1132,4314,20.99,16,weekly,100,278.97,4563.52,109,15,0,4107.17,8670.69,True,True,False,19,548,45,0,True,False,False,Refinance,No,not kept
+C134,74,0,3602,0,,,,False,False,1133,4693,26.64,6,biweekly,100,810.45,4962.7,46,3,0,2282.84,7245.54,True,False,N/A,6,572,0,0,False,False,False,N/A,N/A,N/A
+C135,50,4592,0,1462,monthly,81.0,368.0,False,False,1134,4373,19.47,22,monthly,100,237.95,5334.9,278,9,2,4373.1,9232.1,True,True,True,9,659,8772,6609,True,False,True,Refinance,Yes,Partially kept
+C136,77,1820,0,0,monthly,264.0,484.0,False,False,1135,3033,17.45,17,weekly,100,183.85,3225.45,7,1,8,122.83,1877.48,False,False,N/A,8,768,0,0,False,False,False,N/A,N/A,N/A
+C137,84,1713,0,0,biweekly,89.0,602.0,False,False,1136,4536,26.11,9,biweekly,100,529.64,4866.76,57,4,5,1264.58,3483.14,True,False,N/A,9,564,0,0,False,False,False,N/A,N/A,N/A
+C138,18,592,0,0,weekly,0.0,0.0,False,False,1137,2550,11.33,20,biweekly,100,133.41,2768.2,132,9,11,1170.62,2471.31,True,True,N/A,3,363,0,0,False,False,False,N/A,N/A,N/A
+C139,27,4742,0,0,biweekly,44.0,103.0,False,False,1138,2610,22.97,19,monthly,100,165.16,3238.04,108,3,15,684.58,1445.22,True,True,True,8,658,1977,1082,True,True,True,Extended_payment_plan,Yes,Partially kept
+C140,71,3539,0,0,biweekly,24.0,520.0,False,True,1139,2999,14.24,19,monthly,100,177.24,3467.56,403,13,0,3120.8,6588.36,True,True,True,7,624,6718,420,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C141,72,2030,0,0,monthly,40.0,160.0,False,False,1140,4694,21.47,22,monthly,100,259.98,5819.56,342,11,11,2663.8,5623.58,True,True,N/A,12,628,0,0,False,False,False,N/A,N/A,N/A
+C142,20,2286,0,0,weekly,0.0,1.0,False,False,1141,4940,16.17,11,biweekly,100,466.02,5226.22,36,2,5,1042.6,3938.72,True,False,True,11,312,4851,1957,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C143,21,1372,0,0,weekly,11.0,35.0,False,False,1142,4696,13.69,24,biweekly,100,208.8,5111.2,231,16,0,4600.08,9711.28,True,True,N/A,0,815,0,0,False,False,False,N/A,N/A,N/A
+C144,59,4343,0,0,biweekly,37.0,193.0,False,False,1143,2068,25.69,19,monthly,100,133.62,2638.78,96,3,14,691.29,1459.39,True,True,True,4,458,6268,543,False,True,False,Extended_payment_plan,No,Partially kept
+C145,18,2734,0,0,biweekly,0.0,0.0,False,False,1144,635,12.03,20,biweekly,50,33.32,716.4,50,3,2,324.88,974.64,True,False,N/A,18,377,0,0,False,False,False,N/A,N/A,N/A
+C146,50,926,0,0,monthly,30.0,196.0,False,False,1145,3768,22.82,9,monthly,100,459.47,4235.23,20,0,9,20.0,120.0,False,False,True,2,841,3976,1845,True,False,False,Refinance,Yes,Partially kept
+C147,92,4188,0,0,weekly,39.0,781.0,False,False,1146,132,15.32,20,weekly,50,6.81,186.2,126,18,1,161.45,340.84,True,True,False,16,828,6851,0,True,False,False,Refinance,Yes,not kept
+C148,57,4696,0,0,weekly,62.0,106.0,False,False,1147,2478,27.39,8,monthly,100,342.4,2839.2,177,5,2,1938.96,4093.36,True,True,False,12,389,6879,0,False,True,False,Extended_payment_plan,Yes,not kept
+C149,63,767,0,3150,monthly,41.0,521.0,False,False,1148,4330,20.61,6,monthly,100,765.66,4693.96,31,1,0,1455.13,6149.09,True,False,False,6,448,1563,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C150,74,799,0,0,weekly,14.0,328.0,False,False,1149,4548,27.01,11,biweekly,100,439.67,4936.37,2,0,0,98.73,5035.1,False,False,N/A,8,503,0,0,False,False,False,N/A,N/A,N/A
+C151,88,3029,0,0,weekly,74.0,87.0,False,False,1150,2812,13.54,7,biweekly,100,410.13,2970.91,57,4,3,992.1,2732.62,True,False,N/A,18,466,0,0,False,False,False,N/A,N/A,N/A
+C152,93,3663,0,0,biweekly,8.0,289.0,False,False,1151,1047,14.16,22,biweekly,100,50.63,1213.86,39,2,9,295.69,1053.88,True,False,True,6,516,7767,2469,True,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C153,55,3094,0,4357,biweekly,3.0,33.0,False,False,1152,2179,11.15,20,monthly,100,119.89,2497.8,381,12,2,2032.22,4290.24,True,True,False,16,722,2221,0,False,True,False,Extended_payment_plan,Yes,not kept
+C154,74,4868,0,0,monthly,14.0,661.0,False,False,1153,4949,26.95,23,biweekly,100,242.95,5687.85,255,18,2,4681.76,9883.71,True,True,N/A,17,460,0,0,False,False,False,N/A,N/A,N/A
+C155,48,2720,0,0,biweekly,125.0,199.0,False,False,1154,864,26.4,20,weekly,50,45.54,960.8,93,13,4,700.78,1479.42,True,True,False,2,683,5580,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C156,23,1621,0,0,monthly,0.0,0.0,False,False,1155,883,25.48,10,weekly,50,90.7,957.0,55,7,2,426.58,1202.18,True,False,N/A,10,397,0,0,False,False,False,N/A,N/A,N/A
+C157,84,4343,0,0,monthly,16.0,31.0,False,False,1156,2383,27.42,22,biweekly,100,121.94,2782.68,51,3,13,610.7,1808.16,True,False,False,12,818,7294,0,True,False,False,Refinance,No,not kept
+C158,79,4463,0,660,biweekly,15.0,628.0,False,False,1157,2578,17.37,16,weekly,100,165.74,2751.84,112,16,0,2476.66,5228.5,True,True,False,14,747,2115,0,True,False,False,Refinance,No,not kept
+C159,65,0,1093,1963,,,,False,False,1158,2148,21.64,15,weekly,100,148.01,2320.15,39,5,9,385.34,1373.4,True,False,False,13,696,2805,0,True,False,False,Refinance,Yes,not kept
+C160,71,2497,0,0,biweekly,53.0,282.0,False,False,1159,4738,12.4,23,biweekly,100,218.0,5114.0,241,17,5,3621.6,7645.6,True,True,N/A,18,491,0,0,False,False,False,N/A,N/A,N/A
+C161,44,611,0,0,monthly,87.0,185.0,False,False,1160,976,27.03,8,biweekly,50,127.78,1072.24,69,4,2,563.51,1380.19,True,False,True,7,411,223,134,True,False,False,Refinance,Yes,Partially kept
+C162,87,3950,0,1052,monthly,2.0,121.0,False,False,1161,813,16.88,19,monthly,50,49.06,982.14,426,14,3,751.46,1586.42,True,True,N/A,12,699,0,0,False,False,False,N/A,N/A,N/A
+C163,76,2720,0,0,monthly,12.0,27.0,False,False,1162,1973,27.28,8,weekly,100,252.48,2119.84,47,6,1,877.66,2745.02,True,False,False,9,796,9429,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C164,34,626,0,0,biweekly,52.0,143.0,False,False,1163,849,24.41,17,biweekly,50,54.27,972.59,230,16,0,875.33,1847.92,True,True,False,12,316,8987,0,False,True,False,Extended_payment_plan,Yes,not kept
+C165,35,0,4791,0,,,,False,False,1164,903,28.59,12,monthly,50,87.41,1098.92,53,1,3,443.45,1280.14,True,False,True,9,601,7798,7766,True,False,False,Refinance,Yes,Partially kept
+C166,48,1578,0,0,weekly,20.0,29.0,False,False,1165,2681,15.5,9,weekly,100,302.35,2821.15,48,6,1,1209.02,3727.82,True,False,N/A,17,792,0,0,False,False,False,N/A,N/A,N/A
+C167,98,3769,0,0,weekly,58.0,590.0,False,False,1166,1903,26.04,8,weekly,100,243.27,2046.16,19,2,6,111.44,697.98,True,False,True,15,673,5066,4155,True,False,False,Refinance,No,Partially kept
+C168,74,2270,0,4498,monthly,21.0,599.0,False,False,1167,1724,16.49,24,biweekly,100,77.67,1964.08,230,16,8,1208.45,2551.17,True,True,False,19,327,4908,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C169,68,4239,0,0,weekly,65.0,294.0,False,False,1168,2805,23.94,18,monthly,100,187.02,3466.36,414,13,5,2278.13,4809.39,True,True,False,3,308,6161,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C170,99,1893,0,4857,biweekly,33.0,603.0,False,False,1169,2093,23.03,23,weekly,100,95.91,2305.93,71,10,7,1160.54,2795.1,True,False,False,18,460,9138,0,False,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C171,87,3204,0,946,weekly,80.0,94.0,False,False,1170,4523,20.56,20,weekly,100,235.66,4813.2,96,13,1,4119.79,8697.33,True,True,True,5,417,3979,483,False,True,False,Extended_payment_plan,No,Partially kept
+C172,66,0,4096,3415,,,,False,False,1171,556,29.46,11,biweekly,50,54.05,644.55,37,2,2,198.49,734.94,True,False,False,10,788,2320,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C173,56,4272,0,0,biweekly,29.0,408.0,False,False,1172,1459,26.04,12,monthly,100,139.41,1772.92,172,5,5,968.28,2044.15,True,True,False,12,403,7808,0,True,True,False,Extended_payment_plan,No,not kept
+C174,92,682,0,0,biweekly,90.0,839.0,False,False,1173,4285,15.18,16,monthly,100,297.51,4860.16,104,3,5,3035.35,6407.96,True,True,False,16,560,3743,0,True,False,False,Refinance,Yes,not kept
+C175,30,1919,0,0,biweekly,33.0,63.0,False,True,1174,3697,23.46,16,biweekly,100,249.18,4086.88,1,0,14,5.98,604.34,False,False,N/A,10,649,0,0,False,False,False,N/A,N/A,N/A
+C176,85,3965,0,0,monthly,11.0,125.0,False,False,1175,3859,15.29,18,weekly,100,220.43,4067.74,82,11,4,2612.54,5798.56,True,False,False,9,515,8967,0,True,False,False,Refinance,Yes,not kept
+C177,36,0,2872,0,,,,False,False,1176,2311,10.11,20,monthly,100,126.04,2620.8,501,16,2,2131.85,4500.57,True,True,N/A,4,720,0,0,False,False,False,N/A,N/A,N/A
+C178,91,961,0,0,weekly,52.0,216.0,False,False,1177,2482,13.38,16,weekly,100,158.54,2636.64,2,0,1,49.56,2527.66,False,False,False,2,642,2705,0,False,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C179,25,3467,0,0,monthly,18.0,51.0,False,False,1178,4240,26.44,6,monthly,100,762.15,4672.9,98,3,2,2833.74,5982.34,True,True,False,19,603,5770,0,False,True,True,Extended_payment_plan,No,not kept
+C180,96,3092,0,0,biweekly,75.0,244.0,False,False,1179,3282,13.41,17,monthly,100,213.05,3721.85,388,12,4,2582.68,5452.33,True,True,False,11,330,8680,0,True,True,True,Refinance,Yes,not kept
+C181,51,3201,0,4120,biweekly,3.0,160.0,False,False,1180,863,23.88,20,weekly,50,45.26,955.2,23,3,17,42.73,228.51,True,False,True,17,494,2806,293,True,True,False,Refinance,No,Partially kept
+C182,52,3036,0,0,biweekly,49.0,89.0,False,False,1181,2146,14.89,25,biweekly,100,92.38,2409.5,87,6,10,1292.56,2778.26,True,False,False,15,450,5375,0,True,False,False,Refinance,Yes,not kept
+C183,44,4813,0,0,monthly,29.0,37.0,False,False,1182,3358,13.23,19,biweekly,100,185.87,3631.53,94,6,4,2599.25,5487.3,True,True,N/A,16,331,0,0,False,False,False,N/A,N/A,N/A
+C184,98,4522,0,0,biweekly,71.0,419.0,False,False,1183,1173,24.08,16,biweekly,100,79.22,1367.52,89,6,0,1217.09,2584.61,True,False,True,19,526,8102,595,False,True,False,Extended_payment_plan,No,Partially kept
+C185,97,1214,0,0,monthly,7.0,680.0,False,False,1184,1720,29.74,19,weekly,100,95.79,1920.01,6,0,18,11.75,207.54,False,False,False,4,427,6156,0,False,True,False,Extended_payment_plan,Yes,not kept
+C186,76,1124,0,0,biweekly,89.0,637.0,False,False,1185,1805,19.76,19,biweekly,100,102.38,2045.22,156,11,4,1472.13,3107.83,True,True,True,7,670,1917,1138,True,True,False,Extended_payment_plan,No,Partially kept
+C187,23,537,0,0,monthly,1.0,39.0,False,False,1186,2128,21.82,17,weekly,100,129.96,2309.32,4,0,15,14.4,374.32,False,False,N/A,9,321,0,0,False,False,False,N/A,N/A,N/A
+C188,41,4651,0,0,weekly,58.0,88.0,False,False,1187,2974,12.97,25,weekly,100,122.86,3171.5,94,13,8,1969.76,4158.38,True,True,True,16,425,6026,642,True,False,False,Refinance,Yes,Partially kept
+C189,55,4874,0,4760,weekly,45.0,361.0,False,False,1188,3191,27.33,24,biweekly,100,151.13,3727.12,123,8,7,2402.29,5071.5,True,True,N/A,4,400,0,0,False,False,False,N/A,N/A,N/A
+C190,93,0,1784,0,,,,False,False,1189,1546,26.85,13,biweekly,100,127.7,1760.1,94,6,4,1124.37,2373.67,True,True,N/A,0,669,0,0,False,False,False,N/A,N/A,N/A
+C191,77,3031,0,0,biweekly,71.0,290.0,False,False,1190,1351,18.27,11,monthly,100,134.32,1577.52,115,3,4,936.22,1976.46,True,True,True,4,359,1827,195,True,True,False,Refinance,Yes,Partially kept
+C192,99,0,1877,0,,,,False,False,1191,1518,24.56,16,biweekly,100,102.67,1742.72,36,2,10,257.77,973.79,True,False,False,10,831,7046,0,True,True,True,Settlement_plans_with_waive_off,No,not kept
+C193,86,0,2215,0,,,,False,False,1192,2312,27.49,9,biweekly,100,270.66,2535.94,36,2,4,523.19,1976.49,True,False,N/A,8,548,0,0,False,False,False,N/A,N/A,N/A
+C194,60,0,1239,2958,,,,False,False,1193,4943,12.82,14,monthly,100,382.01,5448.14,23,0,0,1253.07,6701.21,False,False,True,9,493,5892,2153,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C195,34,3946,0,0,weekly,14.0,27.0,False,False,1194,4031,14.43,25,monthly,100,187.65,4791.25,151,5,11,2454.39,5181.49,True,True,N/A,9,426,0,0,False,False,False,N/A,N/A,N/A
+C196,24,1767,0,0,monthly,11.0,29.0,False,False,1195,1537,13.34,7,monthly,100,229.44,1706.08,25,0,7,25.0,125.0,False,False,N/A,15,606,0,0,False,False,False,N/A,N/A,N/A
+C197,87,4303,0,0,weekly,51.0,573.0,False,False,1196,2329,15.79,24,biweekly,100,104.58,2609.92,197,14,9,1501.83,3170.53,True,True,N/A,7,385,0,0,False,False,False,N/A,N/A,N/A
+C198,55,594,0,0,biweekly,21.0,288.0,False,False,1197,3307,18.15,10,biweekly,100,343.53,3535.3,46,3,6,678.1,2152.22,True,False,N/A,2,378,0,0,False,False,False,N/A,N/A,N/A
+C199,22,4501,0,0,biweekly,2.0,13.0,False,False,1198,1187,17.55,17,weekly,100,71.96,1323.32,74,10,1,926.01,2177.37,True,False,False,17,472,7429,0,False,True,False,Extended_payment_plan,Yes,not kept
+C200,46,2803,0,0,weekly,50.0,54.0,False,False,1199,967,15.75,16,weekly,50,62.01,1042.16,29,4,3,248.28,1104.41,True,False,False,3,504,2487,0,True,True,False,Extended_payment_plan,Yes,not kept
+C201,31,4980,0,0,weekly,37.0,130.0,False,False,1200,3337,16.47,8,biweekly,100,429.1,3532.8,73,5,0,2578.94,6111.74,True,False,N/A,10,585,0,0,False,False,False,N/A,N/A,N/A
+C202,65,0,3834,3737,,,,False,False,1201,4572,11.69,25,monthly,100,206.94,5273.5,663,22,3,4187.41,8840.09,True,True,N/A,5,529,0,0,False,False,False,N/A,N/A,N/A
+C203,60,3979,0,0,biweekly,76.0,89.0,False,False,1202,1235,10.89,9,weekly,100,138.66,1347.94,42,6,1,507.9,1717.18,True,False,N/A,17,497,0,0,False,False,False,N/A,N/A,N/A
+C204,91,1943,0,0,biweekly,82.0,557.0,False,False,1203,4153,29.42,24,weekly,100,185.54,4552.96,159,22,2,3763.69,7945.57,True,True,False,12,698,1129,0,False,True,False,Extended_payment_plan,No,not kept
+C205,59,1387,0,0,weekly,11.0,317.0,False,False,1204,4394,25.07,18,weekly,100,255.44,4697.92,32,4,2,1339.85,5526.89,True,False,True,13,748,8210,4333,True,True,False,Refinance,Yes,Partially kept
+C206,95,0,2915,3354,,,,False,False,1205,1173,26.52,25,weekly,100,50.09,1352.25,107,15,1,1171.94,2474.1,True,True,False,15,845,5544,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C207,26,4908,0,4547,weekly,1.0,25.0,False,False,1206,1428,18.02,15,weekly,100,97.86,1567.9,2,0,0,31.36,1599.26,False,False,N/A,9,812,0,0,False,False,False,N/A,N/A,N/A
+C208,21,4398,0,3802,weekly,8.0,19.0,False,False,1207,1542,15.45,11,weekly,100,142.69,1669.59,6,0,6,48.81,862.26,False,False,False,1,399,4892,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C209,36,4256,0,0,weekly,26.0,60.0,False,False,1208,2330,27.61,22,weekly,100,112.5,2575.0,56,8,14,560.0,1560.0,True,False,N/A,15,751,0,0,False,False,False,N/A,N/A,N/A
+C210,41,2302,0,679,biweekly,98.0,108.0,False,False,1209,2279,25.79,11,weekly,100,213.4,2447.4,44,6,0,1076.86,3524.26,True,False,N/A,5,436,0,0,False,False,False,N/A,N/A,N/A
+C211,29,3800,0,4061,monthly,50.0,92.0,False,False,1210,3534,22.63,22,weekly,100,168.8,3813.6,145,20,2,3128.4,6604.4,True,True,N/A,8,844,0,0,False,False,False,N/A,N/A,N/A
+C212,97,4799,0,297,biweekly,84.0,140.0,False,False,1211,3980,18.77,16,weekly,100,256.45,4203.2,19,2,1,749.88,4696.63,True,False,False,17,340,101,0,True,False,False,Refinance,Yes,not kept
+C213,62,0,2205,0,,,,False,False,1212,288,19.8,24,monthly,50,14.63,401.12,567,18,2,334.67,706.53,True,True,False,1,417,279,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C214,48,1126,0,2568,monthly,65.0,323.0,False,False,1213,2344,22.05,21,biweekly,100,122.32,2668.72,225,16,2,2181.67,4605.75,True,True,False,9,474,3661,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C215,48,0,1322,0,,,,False,False,1214,1824,27.94,14,biweekly,100,141.03,2074.42,3,0,13,7.23,248.26,False,False,N/A,0,402,0,0,False,False,False,N/A,N/A,N/A
+C216,36,3417,0,0,biweekly,8.0,50.0,False,False,1215,4365,29.51,23,monthly,100,250.75,5867.25,269,8,14,2121.08,4477.83,True,True,False,9,794,7992,0,True,True,False,Refinance,No,not kept
+C217,87,3584,0,2818,weekly,49.0,317.0,False,False,1216,3827,10.69,9,monthly,100,444.39,4099.51,218,7,1,3289.61,6944.73,True,True,N/A,10,442,0,0,False,False,False,N/A,N/A,N/A
+C218,66,3761,0,0,weekly,43.0,486.0,False,True,1217,3902,24.58,20,biweekly,100,215.04,4400.8,3,0,14,41.71,1431.95,False,False,False,13,524,9875,0,True,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C219,90,4361,0,0,biweekly,125.0,386.0,False,False,1218,3050,18.36,19,monthly,100,186.2,3637.8,210,7,3,2771.28,5850.48,True,True,N/A,0,533,0,0,False,False,False,N/A,N/A,N/A
+C220,25,0,1717,0,,,,False,False,1219,119,14.6,22,monthly,50,6.2,186.4,60,2,14,59.76,159.36,True,False,N/A,16,590,0,0,False,False,False,N/A,N/A,N/A
+C221,97,2250,0,510,weekly,19.0,618.0,False,False,1220,1845,12.71,25,weekly,100,76.17,2004.25,33,4,17,234.09,943.45,True,False,True,2,745,843,434,True,True,True,Refinance,Yes,Partially kept
+C222,90,4009,0,0,biweekly,56.0,721.0,False,False,1221,4591,18.34,14,biweekly,100,345.54,4937.56,82,5,6,2348.74,5213.06,True,False,False,16,521,8413,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C223,75,1292,0,0,biweekly,57.0,165.0,False,False,1222,1158,20.93,15,biweekly,100,82.26,1333.9,109,7,0,1200.51,2534.41,True,True,N/A,3,440,0,0,False,False,False,N/A,N/A,N/A
+C224,67,2064,0,1616,monthly,24.0,579.0,False,False,1223,3796,21.32,6,monthly,100,672.59,4135.54,111,3,3,1905.99,4023.76,True,True,N/A,3,831,0,0,False,False,False,N/A,N/A,N/A
+C225,71,0,2304,0,,,,False,False,1224,1636,18.84,10,monthly,100,178.06,1880.6,11,0,1,187.28,1889.82,False,False,False,19,367,7227,0,True,False,True,Refinance,No,not kept
+C226,88,868,0,0,weekly,306.0,376.0,False,False,1225,2399,21.77,7,weekly,100,348.48,2539.36,39,5,2,718.54,2560.94,True,False,N/A,15,793,0,0,False,False,False,N/A,N/A,N/A
+C227,58,881,0,0,weekly,75.0,173.0,False,False,1226,1259,10.45,23,biweekly,100,57.42,1420.66,230,16,6,968.53,2044.67,True,True,N/A,5,667,0,0,False,False,False,N/A,N/A,N/A
+C228,22,4510,0,0,monthly,6.0,7.0,False,False,1227,2531,15.22,11,biweekly,100,238.25,2720.75,134,9,1,2234.25,4716.75,True,True,False,11,789,2558,0,False,True,False,Extended_payment_plan,Yes,not kept
+C229,79,2992,0,756,monthly,33.0,672.0,False,False,1228,4496,11.35,22,weekly,100,209.53,4709.66,117,16,2,3861.54,8152.14,True,True,N/A,16,576,0,0,False,False,False,N/A,N/A,N/A
+C230,43,1777,0,0,monthly,56.0,188.0,False,False,1229,4339,16.43,18,biweekly,100,255.78,4704.04,11,0,2,461.17,4653.65,False,False,True,2,547,5179,4291,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C231,97,743,0,0,monthly,41.0,615.0,False,False,1230,4419,16.47,25,weekly,100,184.13,4703.25,101,14,7,3072.91,6487.25,True,True,True,14,651,7815,5061,False,True,False,Extended_payment_plan,No,Partially kept
+C232,40,1084,0,0,monthly,73.0,203.0,False,False,1231,4572,28.96,14,monthly,100,388.73,5542.22,138,4,3,3938.43,8314.46,True,True,True,18,758,6121,4574,True,False,False,Refinance,No,Partially kept
+C233,65,1001,0,4542,monthly,217.0,480.0,False,False,1232,4123,11.57,24,weekly,100,176.61,4338.64,134,19,4,3268.98,6901.18,True,True,N/A,13,361,0,0,False,False,False,N/A,N/A,N/A
+C234,40,2834,0,0,monthly,34.0,140.0,False,False,1233,3879,12.86,19,biweekly,100,214.41,4173.79,239,17,2,3370.47,7115.44,True,True,True,7,552,9853,2694,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C235,35,2320,0,0,monthly,30.0,93.0,False,False,1234,4591,23.33,8,monthly,100,625.21,5101.68,146,4,1,4028.82,8505.29,True,True,N/A,6,385,0,0,False,False,False,N/A,N/A,N/A
+C236,26,3787,0,4820,monthly,46.0,48.0,False,False,1235,4367,11.2,8,weekly,100,551.18,4509.44,42,6,1,1662.47,5620.73,True,False,N/A,6,535,0,0,False,False,False,N/A,N/A,N/A
+C237,42,4679,0,4948,monthly,38.0,39.0,False,False,1236,4741,13.17,16,monthly,100,324.71,5295.36,406,13,1,4473.58,9444.23,True,True,False,19,754,7666,0,True,True,False,Refinance,Yes,not kept
+C238,32,0,3497,0,,,,False,False,1237,3911,25.2,21,biweekly,100,206.73,4441.33,10,0,0,444.13,4885.46,False,False,N/A,17,306,0,0,False,False,False,N/A,N/A,N/A
+C239,96,3213,0,3643,monthly,45.0,698.0,False,False,1238,3276,26.36,9,biweekly,100,382.7,3544.3,119,8,1,2845.44,6007.04,True,True,N/A,13,468,0,0,False,False,False,N/A,N/A,N/A
+C240,40,0,1164,4606,,,,False,False,1239,1209,17.61,8,monthly,100,161.27,1390.16,0,0,3,0.0,906.35,False,False,N/A,17,511,0,0,False,False,False,N/A,N/A,N/A
+C241,83,980,0,0,weekly,15.0,34.0,False,False,1240,1662,15.31,23,biweekly,100,77.48,1882.04,3,0,19,12.3,422.22,False,False,False,2,438,6334,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C242,57,0,673,0,,,,False,False,1241,4775,20.26,11,biweekly,100,454.65,5101.15,137,9,0,4591.04,9692.19,True,True,N/A,13,738,0,0,False,False,False,N/A,N/A,N/A
+C243,29,965,0,0,biweekly,56.0,84.0,False,False,1242,101,15.85,16,weekly,50,6.48,153.68,63,9,1,92.74,239.94,True,False,False,3,483,3256,0,True,False,False,Refinance,No,not kept
+C244,97,1085,0,3636,monthly,6.0,393.0,False,False,1243,1637,27.85,7,weekly,100,238.89,1772.23,49,7,0,868.39,2640.62,True,False,N/A,19,455,0,0,False,False,False,N/A,N/A,N/A
+C245,48,802,0,0,biweekly,46.0,168.0,False,False,1244,1180,21.21,10,monthly,100,129.77,1397.7,91,3,7,440.38,929.69,True,True,False,11,497,4979,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C246,41,1601,0,0,biweekly,54.0,230.0,False,True,1245,3639,28.13,9,biweekly,100,426.52,3938.68,113,8,1,3160.94,6673.1,True,True,N/A,7,845,0,0,False,False,False,N/A,N/A,N/A
+C247,96,1253,0,0,monthly,18.0,706.0,False,True,1246,280,17.86,13,weekly,50,22.06,336.78,3,0,6,6.13,210.55,False,False,False,15,527,7124,0,False,True,True,Extended_payment_plan,Yes,not kept
+C248,38,0,4533,0,,,,False,False,1247,1882,18.78,24,weekly,100,82.01,2068.24,103,14,2,1713.8,3618.02,True,True,False,7,711,3938,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C249,52,3397,0,0,monthly,376.0,384.0,False,False,1248,3059,29.64,8,biweekly,100,402.25,3318.0,16,1,4,273.44,1982.44,True,False,N/A,16,407,0,0,False,False,False,N/A,N/A,N/A
+C250,91,4163,0,0,weekly,42.0,357.0,False,False,1249,161,19.53,21,weekly,50,7.99,217.79,40,5,13,45.57,159.49,True,False,N/A,15,750,0,0,False,False,False,N/A,N/A,N/A
+C251,28,1054,0,1264,biweekly,15.0,41.0,False,False,1250,715,28.5,7,weekly,50,104.39,780.73,7,1,1,47.34,723.68,False,False,False,6,556,7661,0,True,False,False,Refinance,No,not kept
+C252,89,3369,0,0,weekly,23.0,33.0,False,False,1251,4480,15.23,18,biweekly,100,262.97,4833.46,121,8,0,4350.11,9183.57,True,True,False,3,546,4741,0,True,True,True,Refinance,No,not kept
+C253,56,947,0,0,biweekly,71.0,184.0,False,False,1252,4477,18.83,13,biweekly,100,362.1,4807.3,84,6,4,2821.48,6180.38,True,False,False,5,354,4801,0,True,True,True,Settlement_plans_with_waive_off,No,not kept
+C254,62,2383,0,4497,weekly,60.0,108.0,False,False,1253,4183,28.9,21,biweekly,100,224.44,4813.24,228,16,5,3321.94,7012.98,True,True,True,11,383,5127,323,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C255,84,1709,0,4629,weekly,82.0,186.0,False,False,1254,614,29.54,8,monthly,50,85.49,733.92,54,1,2,303.99,866.93,True,False,False,2,343,6121,0,True,False,False,Refinance,Yes,not kept
+C256,35,2037,0,0,weekly,88.0,193.0,False,False,1255,4643,18.65,8,monthly,100,621.7,5073.6,186,6,2,3447.18,7277.38,True,True,N/A,0,717,0,0,False,False,False,N/A,N/A,N/A
+C257,62,4233,0,0,monthly,425.0,481.0,False,False,1256,1211,23.29,10,biweekly,100,127.15,1371.5,140,10,0,1234.35,2605.85,True,True,False,14,809,3684,0,True,False,False,Refinance,Yes,not kept
+C258,69,3046,0,566,monthly,169.0,489.0,False,True,1257,2758,14.72,25,weekly,100,114.43,2960.75,156,22,1,2561.69,5408.01,True,True,N/A,13,652,0,0,False,False,False,N/A,N/A,N/A
+C259,63,1518,0,3491,monthly,35.0,290.0,False,False,1258,459,10.14,21,weekly,50,22.33,518.93,122,17,1,446.94,943.54,True,True,True,0,721,5602,4156,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C260,36,1073,0,235,biweekly,52.0,134.0,False,False,1259,4233,27.67,6,weekly,100,718.7,4412.2,38,5,1,1403.53,5097.03,True,False,False,18,473,2120,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C261,59,1973,0,0,biweekly,4.0,22.0,False,False,1260,2535,13.56,14,biweekly,100,188.23,2735.22,42,3,7,595.4,2013.01,True,False,N/A,12,815,0,0,False,False,False,N/A,N/A,N/A
+C262,20,1110,0,3824,monthly,6.0,19.0,False,False,1261,1465,25.85,18,biweekly,100,89.29,1707.22,50,3,2,764.32,2292.96,True,False,N/A,3,684,0,0,False,False,False,N/A,N/A,N/A
+C263,69,2099,0,0,monthly,60.0,183.0,False,True,1262,3677,20.63,15,biweekly,100,260.98,4014.7,207,14,1,3378.35,7132.07,True,True,N/A,19,492,0,0,False,False,False,N/A,N/A,N/A
+C264,19,2040,0,3946,weekly,3.0,4.0,False,False,1263,4056,15.1,15,monthly,100,298.41,4576.15,76,2,4,2570.71,5953.22,True,False,True,10,717,1898,180,True,False,False,Refinance,No,Partially kept
+C265,63,0,2777,0,,,,False,False,1264,2965,24.03,7,weekly,100,431.44,3120.08,24,3,4,334.64,1728.96,True,False,True,1,438,4116,3695,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C266,79,4208,0,0,biweekly,71.0,509.0,False,False,1265,4939,11.1,25,biweekly,100,208.71,5317.75,241,17,3,4222.46,8914.08,True,True,True,8,490,7889,951,True,False,False,Refinance,Yes,Partially kept
+C267,99,1772,0,0,biweekly,85.0,407.0,False,False,1266,2333,20.44,14,biweekly,100,176.64,2572.96,143,10,2,1997.71,4217.39,True,True,False,8,508,7257,0,True,False,False,Refinance,Yes,not kept
+C268,31,4944,0,0,biweekly,1.0,2.0,False,False,1267,2899,28.16,19,monthly,100,190.87,3726.53,507,16,3,2838.53,5992.45,True,True,N/A,1,523,0,0,False,False,False,N/A,N/A,N/A
+C269,54,4856,0,0,biweekly,60.0,381.0,False,False,1268,237,19.65,18,weekly,50,13.64,295.52,42,6,4,101.2,342.16,True,False,True,11,359,3570,2914,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C270,34,752,0,0,monthly,4.0,185.0,False,False,1269,1325,23.47,21,weekly,100,66.27,1491.67,100,14,3,1163.57,2456.43,True,True,False,19,659,1173,0,True,False,False,Refinance,Yes,not kept
+C271,68,0,3019,0,,,,False,False,1270,2953,10.84,18,monthly,100,178.49,3312.82,221,7,11,1214.49,2563.92,True,True,N/A,18,719,0,0,False,False,False,N/A,N/A,N/A
+C272,54,3046,0,0,weekly,30.0,138.0,False,False,1271,1758,25.48,7,weekly,100,256.09,1892.63,28,4,3,314.82,1439.18,True,False,True,5,581,4520,2677,False,True,True,Extended_payment_plan,No,Partially kept
+C273,45,4708,0,4482,weekly,26.0,191.0,False,False,1272,230,20.7,24,monthly,50,11.78,332.72,49,1,16,70.68,214.92,True,False,False,19,821,325,0,True,True,False,Extended_payment_plan,No,not kept
+C274,85,1503,0,288,monthly,5.0,21.0,False,False,1273,4660,12.09,6,biweekly,100,789.36,4836.16,69,4,2,2247.63,5505.07,True,False,N/A,18,528,0,0,False,False,False,N/A,N/A,N/A
+C275,45,3812,0,0,monthly,15.0,263.0,False,False,1274,4566,15.79,9,biweekly,100,522.86,4805.74,16,1,6,266.97,1935.55,True,False,False,7,706,4195,0,True,False,False,Refinance,Yes,not kept
+C276,47,4677,0,0,weekly,85.0,271.0,False,False,1275,1989,17.75,25,biweekly,100,86.81,2270.25,250,17,4,1730.71,3653.72,True,True,N/A,5,332,0,0,False,False,False,N/A,N/A,N/A
+C277,27,0,4135,0,,,,False,False,1276,3031,21.18,21,monthly,100,173.99,3753.79,375,12,3,2908.64,6140.46,True,True,False,18,350,444,0,True,False,True,Settlement_plans_with_waive_off,No,not kept
+C278,46,4610,0,0,biweekly,10.0,62.0,False,False,1277,4463,11.86,17,monthly,100,286.49,4970.33,132,4,11,1637.05,3455.99,True,True,True,13,676,6975,2635,False,True,True,Extended_payment_plan,No,Partially kept
+C279,85,4578,0,4737,weekly,32.0,39.0,False,False,1278,1997,12.88,16,weekly,100,127.46,2139.36,41,5,8,459.07,1578.75,True,False,True,15,667,5997,3352,True,True,False,Extended_payment_plan,No,Partially kept
+C280,24,2514,0,0,biweekly,18.0,24.0,False,False,1279,4725,28.5,14,biweekly,100,365.9,5222.6,90,6,0,4700.34,9922.94,True,False,N/A,1,334,0,0,False,False,False,N/A,N/A,N/A
+C281,80,0,2774,4064,,,,False,False,1280,4606,20.99,22,biweekly,100,229.35,5145.7,187,13,4,3805.47,8033.77,True,True,N/A,7,740,0,0,False,False,False,N/A,N/A,N/A
+C282,63,2843,0,107,monthly,38.0,218.0,False,False,1281,1094,19.89,20,monthly,100,64.71,1394.2,277,9,2,1138.3,2403.08,True,True,False,2,627,6713,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C283,79,4565,0,0,weekly,70.0,388.0,False,False,1282,3909,12.91,9,monthly,100,458.03,4222.27,93,3,6,1326.68,2800.77,True,True,False,16,551,2256,0,True,False,False,Refinance,Yes,not kept
+C284,21,4823,0,408,weekly,2.0,28.0,False,False,1283,2045,26.18,6,monthly,100,367.33,2303.98,128,4,2,1412.39,2981.71,True,True,True,15,554,3029,469,True,True,True,Extended_payment_plan,No,Partially kept
+C285,74,0,3370,0,,,,False,False,1284,4687,21.36,16,weekly,100,303.27,4952.32,6,0,11,96.98,1713.33,False,False,N/A,15,436,0,0,False,False,False,N/A,N/A,N/A
+C286,93,3377,0,2609,monthly,21.0,416.0,False,False,1285,836,11.83,13,monthly,50,68.83,944.79,384,12,0,850.31,1795.1,True,True,N/A,0,753,0,0,False,False,False,N/A,N/A,N/A
+C287,55,1189,0,1928,biweekly,90.0,363.0,False,False,1286,1366,12.45,14,biweekly,100,101.11,1515.54,48,3,10,242.13,746.57,True,False,True,5,591,7499,4286,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C288,72,0,4885,0,,,,False,False,1287,4000,29.58,19,weekly,100,222.71,4331.49,42,6,7,1164.46,3936.98,True,False,False,2,540,8790,0,True,False,False,Refinance,Yes,not kept
+C289,49,3567,0,0,biweekly,12.0,176.0,False,False,1288,4954,18.06,25,biweekly,100,216.55,5513.75,266,19,4,4182.8,8830.35,True,True,N/A,8,355,0,0,False,False,False,N/A,N/A,N/A
+C290,76,0,4897,0,,,,False,False,1289,4918,27.9,21,biweekly,100,262.82,5619.22,73,5,12,1799.73,4265.11,True,False,N/A,6,845,0,0,False,False,False,N/A,N/A,N/A
+C291,76,2481,0,0,monthly,7.0,218.0,False,False,1290,3355,24.02,22,biweekly,100,169.22,3822.84,230,16,5,2679.07,5655.81,True,True,True,10,392,5001,3137,True,False,False,Refinance,Yes,Partially kept
+C292,91,743,0,0,biweekly,4.0,442.0,False,False,1291,2658,15.19,19,biweekly,100,148.21,2915.99,135,9,7,1690.67,3569.19,True,True,True,18,818,9548,1426,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C293,96,992,0,0,monthly,43.0,689.0,False,False,1292,4242,19.88,11,weekly,100,394.54,4439.94,52,7,0,2308.77,6748.71,True,False,False,14,337,9744,0,True,False,False,Refinance,No,not kept
+C294,36,0,2367,0,,,,False,False,1293,2367,22.36,23,weekly,100,108.31,2591.13,92,13,9,1454.71,3071.05,True,True,False,16,407,7962,0,True,False,False,Refinance,Yes,not kept
+C295,83,1194,0,0,monthly,22.0,65.0,False,True,1294,2276,20.73,25,weekly,100,95.83,2495.75,14,2,15,148.16,1206.46,True,False,N/A,7,376,0,0,False,False,False,N/A,N/A,N/A
+C296,61,2254,0,0,weekly,12.0,14.0,False,False,1295,1606,10.78,12,monthly,100,141.78,1801.36,82,2,5,895.82,1988.28,True,False,True,4,847,5729,109,False,True,False,Extended_payment_plan,No,Partially kept
+C297,43,4075,0,0,monthly,84.0,279.0,False,False,1296,3780,11.93,17,monthly,100,242.77,4227.09,126,4,6,2493.42,5263.89,True,True,False,16,741,6367,0,False,True,False,Extended_payment_plan,Yes,not kept
+C298,31,2661,0,0,weekly,64.0,117.0,False,False,1297,2164,23.11,12,monthly,100,203.7,2544.4,136,4,5,1373.31,2899.21,True,True,N/A,4,461,0,0,False,False,False,N/A,N/A,N/A
+C299,65,1403,0,0,weekly,3.0,429.0,False,False,1298,740,12.33,10,biweekly,50,75.94,809.4,33,2,0,267.1,1076.5,True,False,False,7,703,6060,0,True,False,False,Refinance,No,not kept
+C300,97,2885,0,0,weekly,15.0,42.0,False,False,1299,1806,27.78,17,weekly,100,111.42,1994.14,104,14,3,1493.89,3153.77,True,True,N/A,8,806,0,0,False,False,False,N/A,N/A,N/A
+C301,83,3881,0,0,weekly,17.0,775.0,False,False,1300,1228,26.69,20,weekly,100,64.76,1395.2,121,17,0,1255.68,2650.88,True,True,True,10,712,8822,3518,True,True,True,Extended_payment_plan,No,Partially kept
+C302,100,1052,0,0,biweekly,59.0,283.0,False,False,1301,3200,26.39,12,biweekly,100,284.59,3515.08,111,7,4,2139.05,4515.77,True,True,True,10,305,1815,645,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C303,79,3265,0,779,monthly,59.0,731.0,False,False,1302,1028,29.12,7,biweekly,100,153.51,1174.57,77,5,1,786.22,1807.28,True,False,True,2,701,6291,2007,False,True,True,Extended_payment_plan,No,Partially kept
+C304,40,509,0,0,weekly,3.0,3.0,False,False,1303,912,19.29,23,weekly,50,41.44,1003.12,27,3,7,192.52,905.56,True,False,True,11,311,971,402,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C305,70,4322,0,0,monthly,53.0,53.0,False,False,1304,2284,12.44,22,weekly,100,106.7,2447.4,28,4,16,207.26,947.46,True,False,False,17,677,5638,0,True,True,True,Extended_payment_plan,Yes,not kept
+C306,92,1727,0,0,weekly,10.0,224.0,False,False,1305,2654,24.15,25,biweekly,100,119.45,3086.25,278,19,5,2240.1,4729.1,True,True,True,14,708,3147,275,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C307,77,0,4007,0,,,,False,False,1306,2405,10.66,10,monthly,100,252.41,2624.1,205,6,3,1680.18,3547.05,True,True,False,3,785,384,0,True,False,False,Refinance,Yes,not kept
+C308,53,4944,0,0,monthly,5.0,7.0,False,False,1307,2038,12.46,14,weekly,100,148.2,2174.8,76,10,4,1202.32,2784.32,True,False,N/A,15,822,0,0,False,False,False,N/A,N/A,N/A
+C309,84,0,2914,3659,,,,False,False,1308,4067,29.83,22,monthly,100,242.23,5429.06,43,1,18,459.64,1528.56,True,False,False,8,785,7956,0,True,True,True,Refinance,No,not kept
+C310,75,528,0,0,biweekly,64.0,361.0,False,False,1309,1747,24.27,11,monthly,100,178.73,2066.03,316,10,1,1698.57,3585.87,True,True,N/A,9,560,0,0,False,False,False,N/A,N/A,N/A
+C311,34,1574,0,0,weekly,9.0,94.0,False,False,1310,640,28.12,18,weekly,50,37.41,723.38,1,0,2,6.49,655.05,False,False,N/A,1,607,0,0,False,False,False,N/A,N/A,N/A
+C312,73,1670,0,0,biweekly,43.0,158.0,False,False,1311,4311,12.24,17,weekly,100,258.99,4502.83,7,1,12,97.65,1492.6,False,False,True,18,439,5574,2818,True,False,False,Refinance,Yes,Partially kept
+C313,98,4306,0,0,weekly,20.0,242.0,False,False,1312,4997,12.73,15,biweekly,100,346.33,5294.95,58,4,4,2267.59,6177.22,True,False,True,11,350,4733,1848,True,False,False,Refinance,No,Partially kept
+C314,38,3524,0,0,biweekly,8.0,197.0,False,False,1313,4028,14.89,6,weekly,100,678.08,4168.48,37,5,1,1291.45,4781.85,True,False,False,6,779,972,0,True,True,True,Refinance,Yes,not kept
+C315,18,0,733,0,,,,False,False,1314,948,13.61,21,monthly,50,50.99,1120.79,5,0,3,48.39,1016.21,False,False,False,9,836,5381,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C316,45,0,2015,0,,,,False,False,1315,4961,28.47,10,weekly,100,511.16,5211.6,57,8,1,2679.25,7379.69,True,False,False,17,614,5549,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C317,45,3585,0,3863,monthly,83.0,215.0,False,False,1316,2448,21.19,18,weekly,100,141.33,2643.94,65,9,1,1626.7,4129.31,True,False,N/A,11,438,0,0,False,False,False,N/A,N/A,N/A
+C318,96,0,974,0,,,,False,False,1317,2897,10.65,7,monthly,100,428.68,3100.76,197,6,0,2790.68,5891.44,True,True,N/A,12,303,0,0,False,False,False,N/A,N/A,N/A
+C319,92,0,2730,275,,,,False,False,1318,3357,12.3,25,weekly,100,138.45,3561.25,104,14,10,1959.08,4135.83,True,True,False,6,364,704,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C320,33,2688,0,0,biweekly,8.0,33.0,False,False,1319,3777,28.82,21,monthly,100,231.12,4953.52,616,20,1,4250.16,8972.56,True,True,True,12,383,2702,433,True,True,True,Refinance,Yes,Partially kept
+C321,48,4550,0,0,monthly,22.0,186.0,False,False,1320,4755,21.89,9,weekly,100,539.52,4955.68,26,3,0,1288.48,6244.16,True,False,N/A,15,320,0,0,False,False,False,N/A,N/A,N/A
+C322,46,2641,0,3576,weekly,60.0,198.0,False,False,1321,2118,25.01,18,weekly,100,123.12,2316.16,109,15,3,1752.12,3698.92,True,True,True,19,395,1587,884,False,True,True,Extended_payment_plan,No,Partially kept
+C323,57,0,4791,2578,,,,False,False,1322,1429,18.69,10,weekly,100,145.74,1557.4,26,3,4,253.35,1227.79,True,False,False,18,780,3412,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C324,99,0,2052,4168,,,,False,False,1323,1003,13.46,16,weekly,100,64.08,1125.28,96,13,0,1012.75,2138.03,True,True,False,9,606,1533,0,True,False,True,Refinance,No,not kept
+C325,41,2755,0,511,weekly,2.0,264.0,False,False,1324,4293,21.46,19,biweekly,100,245.06,4756.14,116,8,9,2295.54,4846.14,True,True,N/A,17,496,0,0,False,False,False,N/A,N/A,N/A
+C326,95,3875,0,3289,monthly,34.0,838.0,False,False,1325,2987,21.77,16,monthly,100,216.77,3568.32,231,7,1,3016.4,6367.95,True,True,N/A,3,592,0,0,False,False,False,N/A,N/A,N/A
+C327,98,613,0,0,monthly,78.0,516.0,False,True,1326,582,29.64,12,weekly,50,50.32,653.84,3,0,9,6.03,206.99,False,False,N/A,0,365,0,0,False,False,False,N/A,N/A,N/A
+C328,88,3294,0,0,weekly,23.0,138.0,False,False,1327,625,24.95,12,biweekly,50,55.39,714.68,14,1,1,92.3,751.59,False,False,True,6,674,3745,2749,False,True,False,Extended_payment_plan,No,Partially kept
+C329,30,3287,0,4670,monthly,51.0,89.0,False,False,1328,3736,22.04,7,biweekly,100,551.96,3963.72,47,3,4,825.26,2581.14,True,False,N/A,3,609,0,0,False,False,False,N/A,N/A,N/A
+C330,39,2915,0,0,monthly,19.0,231.0,False,False,1329,1495,12.69,9,weekly,100,168.14,1613.26,58,8,1,838.17,2283.29,True,False,False,17,731,3649,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C331,79,0,4015,585,,,,False,True,1330,1518,13.34,13,weekly,100,118.88,1645.44,76,10,2,1069.84,2477.52,True,False,True,12,813,2948,1030,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C332,79,4627,0,0,monthly,72.0,450.0,False,False,1331,4891,23.03,18,weekly,100,283.3,5199.4,109,15,1,4424.49,9340.59,True,True,N/A,15,627,0,0,False,False,False,N/A,N/A,N/A
+C333,84,3565,0,4224,monthly,46.0,431.0,False,False,1332,2872,24.74,22,biweekly,100,145.3,3296.6,108,7,6,2182.32,4607.12,True,True,True,9,430,8980,5692,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C334,50,0,4740,3535,,,,False,False,1333,1594,25.08,20,weekly,100,83.8,1776.0,58,8,11,495.44,1349.64,True,False,False,11,351,9819,0,False,True,False,Extended_payment_plan,Yes,not kept
+C335,88,1377,0,0,weekly,41.0,74.0,False,False,1334,4842,12.25,7,monthly,100,720.25,5141.75,145,4,2,3331.12,7032.37,True,True,N/A,5,351,0,0,False,False,False,N/A,N/A,N/A
+C336,96,3852,0,4130,biweekly,52.0,778.0,False,False,1335,235,20.67,23,monthly,50,12.46,336.58,43,1,10,91.15,303.13,True,False,True,17,677,6583,5704,True,True,True,Extended_payment_plan,No,Partially kept
+C337,65,0,3734,4033,,,,False,False,1336,1435,15.73,6,weekly,100,241.71,1550.26,25,3,2,266.71,1333.55,True,False,N/A,17,520,0,0,False,False,False,N/A,N/A,N/A
+C338,27,0,4565,0,,,,False,False,1337,4154,14.3,23,weekly,100,186.63,4392.49,99,14,9,2441.54,5154.36,True,True,False,19,833,9895,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C339,18,1298,0,0,weekly,0.0,0.0,False,False,1338,2787,27.57,8,weekly,100,356.74,2953.92,34,4,3,640.46,2524.16,True,False,False,4,614,2964,0,True,False,True,Settlement_plans_with_waive_off,No,not kept
+C340,89,0,2828,0,,,,False,False,1339,120,17.8,8,biweekly,50,15.47,173.76,51,3,4,57.06,168.94,True,False,N/A,14,393,0,0,False,False,False,N/A,N/A,N/A
+C341,62,4460,0,0,biweekly,77.0,350.0,False,False,1340,4756,13.84,13,biweekly,100,379.62,5035.06,129,9,2,3848.24,8124.06,True,True,N/A,11,542,0,0,False,False,False,N/A,N/A,N/A
+C342,59,4492,0,0,monthly,61.0,61.0,False,False,1341,255,15.25,15,weekly,50,17.4,311.0,103,14,1,264.24,557.84,True,True,False,18,554,1039,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C343,96,2377,0,4238,monthly,16.0,310.0,False,False,1342,4947,18.08,15,biweekly,100,348.44,5326.6,145,10,5,3225.96,6810.36,True,True,N/A,14,491,0,0,False,False,False,N/A,N/A,N/A
+C344,36,811,0,0,weekly,31.0,44.0,False,False,1343,535,26.16,23,monthly,50,29.83,736.09,426,14,2,608.79,1285.22,True,True,False,0,495,289,0,True,True,True,Extended_payment_plan,No,not kept
+C345,89,2674,0,2597,monthly,37.0,520.0,False,False,1344,1129,15.15,23,biweekly,100,52.59,1309.57,270,19,3,1036.62,2188.42,True,True,False,17,733,5729,0,True,True,False,Refinance,No,not kept
+C346,28,3923,0,0,monthly,66.0,114.0,False,False,1345,3852,29.53,12,monthly,100,374.63,4595.56,203,6,1,3798.84,8019.77,True,True,True,2,414,2220,1547,True,True,True,Refinance,No,Partially kept
+C347,55,3993,0,0,monthly,1.0,66.0,False,False,1346,1879,15.82,22,weekly,100,88.43,2045.46,81,11,9,1012.17,2261.76,True,False,True,12,548,5288,1301,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C348,26,1123,0,0,weekly,21.0,43.0,False,False,1347,4368,27.24,9,weekly,100,498.13,4583.17,24,3,1,980.41,5065.45,True,False,N/A,19,505,0,0,False,False,False,N/A,N/A,N/A
+C349,33,0,3001,0,,,,False,False,1348,658,16.63,14,weekly,50,48.14,723.96,89,12,1,601.48,1277.3,True,False,N/A,10,577,0,0,False,False,False,N/A,N/A,N/A
+C350,40,2340,0,0,monthly,126.0,145.0,False,False,1349,1461,20.78,19,monthly,100,90.89,1826.91,53,1,5,727.4,2099.86,True,False,False,9,645,129,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C351,49,4764,0,0,biweekly,16.0,168.0,False,False,1350,2222,20.93,22,monthly,100,122.48,2794.56,604,20,2,2294.64,4844.24,True,True,True,0,529,4879,1820,True,False,False,Refinance,Yes,Partially kept
+C352,65,569,0,0,biweekly,40.0,443.0,False,False,1351,1551,19.97,17,biweekly,100,97.67,1760.39,72,5,9,634.58,1515.94,True,False,False,1,681,8532,0,False,True,False,Extended_payment_plan,Yes,not kept
+C353,80,3024,0,835,weekly,22.0,44.0,False,False,1352,4331,20.14,22,monthly,100,237.07,5315.54,235,7,11,2436.99,5144.76,True,True,True,2,798,1388,1128,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C354,41,4074,0,0,monthly,9.0,24.0,False,False,1353,3675,11.47,11,monthly,100,353.55,3989.05,217,7,1,3271.95,6907.45,True,True,N/A,9,656,0,0,False,False,False,N/A,N/A,N/A
+C355,92,0,3931,0,,,,False,False,1354,3933,23.33,22,weekly,100,188.14,4239.08,6,0,17,62.44,1103.14,False,False,N/A,12,629,0,0,False,False,False,N/A,N/A,N/A
+C356,23,4342,0,3879,weekly,6.0,15.0,False,False,1355,4182,19.57,13,monthly,100,359.6,4774.8,325,10,1,3973.68,8388.88,True,True,False,19,769,5747,0,True,False,False,Refinance,No,not kept
+C357,20,4117,0,3486,monthly,14.0,23.0,False,False,1356,4535,17.45,21,monthly,100,252.16,5395.36,428,14,2,4401.94,9292.98,True,True,N/A,2,357,0,0,False,False,False,N/A,N/A,N/A
+C358,76,2668,0,4086,weekly,6.0,279.0,False,False,1357,2636,20.81,8,weekly,100,335.46,2783.68,1,0,6,7.71,778.63,False,False,True,13,347,2240,1163,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C359,35,1575,0,2125,biweekly,73.0,147.0,False,False,1358,1368,12.4,10,weekly,100,138.6,1486.0,66,9,1,889.28,2236.68,True,False,True,9,810,1104,117,True,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C360,80,1784,0,0,weekly,5.0,522.0,False,False,1359,1177,27.58,19,biweekly,100,68.73,1405.87,73,5,2,925.94,2194.35,True,False,N/A,19,515,0,0,False,False,False,N/A,N/A,N/A
+C361,29,958,0,4424,weekly,43.0,60.0,False,False,1360,1236,26.55,19,biweekly,100,71.9,1466.1,183,13,0,1319.49,2785.59,True,True,False,10,763,8343,0,True,False,True,Refinance,Yes,not kept
+C362,73,2421,0,2848,weekly,190.0,306.0,False,False,1361,1132,23.92,24,monthly,100,59.8,1535.2,382,12,7,1004.94,2121.54,True,True,N/A,4,327,0,0,False,False,False,N/A,N/A,N/A
+C363,20,2316,0,0,biweekly,3.0,20.0,False,False,1362,2845,27.72,20,weekly,100,150.35,3107.0,69,9,5,1625.12,3980.37,True,False,N/A,7,529,0,0,False,False,False,N/A,N/A,N/A
+C364,64,0,3726,0,,,,False,False,1363,3127,17.7,21,biweekly,100,160.31,3466.51,167,11,3,2687.02,5672.6,True,True,False,1,348,5918,0,True,False,False,Refinance,No,not kept
+C365,32,2254,0,2733,biweekly,30.0,144.0,False,False,1364,3906,28.87,19,biweekly,100,229.16,4454.04,11,0,18,36.21,365.37,False,False,N/A,6,637,0,0,False,False,False,N/A,N/A,N/A
+C366,86,682,0,0,biweekly,261.0,391.0,False,False,1365,2653,25.43,17,biweekly,100,170.15,2992.55,125,8,2,2387.02,5039.27,True,True,N/A,6,318,0,0,False,False,False,N/A,N/A,N/A
+C367,18,943,0,0,weekly,0.0,0.0,False,False,1366,730,21.83,11,monthly,50,73.82,862.02,39,1,8,105.87,377.33,True,False,N/A,8,594,0,0,False,False,False,N/A,N/A,N/A
+C368,75,0,1061,0,,,,False,False,1367,2868,19.21,9,biweekly,100,330.55,3074.95,40,2,0,1229.98,4304.93,True,False,N/A,7,545,0,0,False,False,False,N/A,N/A,N/A
+C369,43,3283,0,0,biweekly,0.0,63.0,False,False,1368,715,26.71,19,monthly,50,46.56,934.64,203,6,3,715.46,1510.42,True,True,N/A,16,505,0,0,False,False,False,N/A,N/A,N/A
+C370,71,600,0,0,monthly,22.0,530.0,False,False,1369,2867,13.07,17,biweekly,100,176.38,3098.46,22,1,16,60.8,337.18,True,False,False,14,778,3134,0,True,False,False,Refinance,No,not kept
+C371,94,664,0,0,monthly,67.0,91.0,False,False,1370,1336,16.37,19,biweekly,100,74.83,1521.77,5,0,2,68.61,1440.72,False,False,False,7,706,468,0,True,True,False,Refinance,No,not kept
+C372,73,4071,0,0,weekly,11.0,17.0,False,False,1371,888,10.04,12,weekly,50,74.93,949.16,73,10,2,583.49,1382.79,True,False,True,12,533,9890,1525,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C373,30,3754,0,3492,weekly,6.0,17.0,False,False,1372,562,21.88,8,monthly,50,76.14,659.12,103,3,0,593.21,1252.33,True,True,N/A,0,498,0,0,False,False,False,N/A,N/A,N/A
+C374,88,1767,0,0,biweekly,17.0,247.0,False,False,1373,2791,21.97,24,monthly,100,144.75,3574.0,508,16,4,2695.5,5690.5,True,True,N/A,9,681,0,0,False,False,False,N/A,N/A,N/A
+C375,35,1257,0,0,monthly,33.0,42.0,False,False,1374,4519,18.18,25,weekly,100,189.09,4827.25,132,18,4,3663.8,7734.69,True,True,N/A,18,736,0,0,False,False,False,N/A,N/A,N/A
+C376,29,2667,0,0,monthly,10.0,65.0,False,False,1375,2817,25.52,18,monthly,100,190.0,3520.0,166,5,3,2655.0,5605.0,True,True,False,13,408,6772,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C377,68,4684,0,0,monthly,29.0,266.0,False,False,1376,3867,15.98,19,weekly,100,209.84,4086.96,0,0,5,0.0,3037.76,False,False,N/A,6,359,0,0,False,False,False,N/A,N/A,N/A
+C378,25,4966,0,0,biweekly,40.0,47.0,False,False,1377,4697,19.67,19,weekly,100,256.67,4976.73,90,12,2,4017.05,8480.44,True,False,N/A,17,742,0,0,False,False,False,N/A,N/A,N/A
+C379,89,4026,0,4546,weekly,27.0,400.0,False,False,1378,456,23.74,22,weekly,50,21.83,530.26,59,8,3,274.21,738.98,True,False,N/A,5,333,0,0,False,False,False,N/A,N/A,N/A
+C380,81,0,4883,0,,,,False,False,1379,750,12.38,25,weekly,50,30.94,823.5,119,17,3,657.61,1388.29,True,True,N/A,15,554,0,0,False,False,False,N/A,N/A,N/A
+C381,71,3369,0,3539,biweekly,16.0,525.0,False,False,1380,4946,12.15,14,monthly,100,380.7,5429.8,261,8,3,3858.93,8146.63,True,True,True,9,805,3697,74,False,True,False,Extended_payment_plan,No,Partially kept
+C382,18,3775,0,0,biweekly,0.0,0.0,False,False,1381,3060,21.96,13,weekly,100,242.4,3251.2,65,9,0,2113.28,5364.48,True,False,True,12,372,5975,1372,True,True,False,Refinance,Yes,Partially kept
+C383,89,3985,0,2123,biweekly,76.0,692.0,False,False,1382,586,18.16,23,weekly,50,26.56,660.88,1,0,6,5.02,506.54,False,False,N/A,18,377,0,0,False,False,False,N/A,N/A,N/A
+C384,60,729,0,3760,weekly,3.0,10.0,False,False,1383,2917,23.01,23,weekly,100,133.67,3174.41,153,21,0,2856.97,6031.38,True,True,False,13,458,4781,0,True,True,True,Extended_payment_plan,Yes,not kept
+C385,99,0,1035,325,,,,False,False,1384,858,10.48,18,biweekly,50,49.51,941.18,160,11,7,535.15,1129.76,True,True,True,15,667,6901,3796,True,False,False,Refinance,No,Partially kept
+C386,76,4852,0,3448,biweekly,68.0,377.0,False,False,1385,2971,18.13,8,weekly,100,377.23,3117.84,50,7,0,1558.92,4676.76,True,False,N/A,15,814,0,0,False,False,False,N/A,N/A,N/A
+C387,60,2964,0,0,weekly,57.0,272.0,False,False,1386,2646,24.88,25,weekly,100,112.55,2913.75,155,22,0,2622.38,5536.13,True,True,False,9,639,3195,0,True,True,True,Extended_payment_plan,No,not kept
+C388,21,3711,0,0,monthly,5.0,31.0,False,False,1387,2423,23.79,19,monthly,100,154.29,3031.51,33,1,7,643.99,2595.47,True,False,True,8,432,9562,8906,True,False,False,Refinance,Yes,Partially kept
+C389,65,524,0,0,biweekly,151.0,494.0,False,False,1388,3306,23.87,15,biweekly,100,236.93,3653.95,157,11,2,2862.08,6042.17,True,True,False,9,568,6152,0,True,False,False,Refinance,No,not kept
+C390,27,1250,0,0,monthly,11.0,15.0,False,False,1389,2305,25.12,24,weekly,100,101.95,2546.8,58,8,9,944.96,2574.21,True,False,True,19,849,3387,2010,True,False,False,Refinance,Yes,Partially kept
+C391,61,2858,0,0,monthly,19.0,417.0,False,False,1390,2255,21.07,18,weekly,100,130.16,2442.88,33,4,7,505.48,2037.24,True,False,True,15,509,7987,2704,False,True,False,Extended_payment_plan,No,Partially kept
+C392,74,2160,0,0,biweekly,70.0,457.0,False,False,1391,3485,10.91,13,biweekly,100,276.02,3688.26,88,6,5,2031.18,4339.34,True,False,True,12,484,2403,2087,False,True,True,Extended_payment_plan,Yes,Partially kept
+C393,31,2285,0,0,biweekly,40.0,105.0,False,False,1392,4764,27.43,7,weekly,100,695.01,4965.07,26,3,0,1290.92,6255.99,True,False,True,15,391,4880,3922,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C394,25,2912,0,0,weekly,10.0,56.0,False,False,1393,982,12.83,17,monthly,50,63.48,1129.16,292,9,6,673.45,1421.73,True,True,False,9,553,6201,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C395,76,3351,0,0,monthly,9.0,115.0,False,False,1394,3451,20.32,23,biweekly,100,164.52,3883.96,15,1,11,311.14,2385.38,True,False,N/A,8,796,0,0,False,False,False,N/A,N/A,N/A
+C396,77,3367,0,0,weekly,12.0,437.0,False,False,1395,657,24.1,14,biweekly,50,50.26,753.64,3,0,1,21.1,724.48,False,False,N/A,0,468,0,0,False,False,False,N/A,N/A,N/A
+C397,57,817,0,0,weekly,66.0,112.0,False,False,1396,4508,18.34,21,monthly,100,252.58,5404.18,474,15,6,3499.83,7388.53,True,True,False,3,757,9071,0,True,False,False,Refinance,Yes,not kept
+C398,50,2316,0,3533,weekly,0.0,0.0,False,False,1397,4205,19.16,17,biweekly,100,264.08,4589.36,217,15,0,4130.42,8719.78,True,True,True,15,374,2060,863,True,False,False,Refinance,Yes,Partially kept
+C399,88,1117,0,0,monthly,55.0,767.0,False,False,1398,4111,25.21,11,weekly,100,384.69,4331.59,23,3,3,730.83,3908.35,True,False,N/A,4,727,0,0,False,False,False,N/A,N/A,N/A
+C400,58,2444,0,0,biweekly,43.0,177.0,False,False,1399,1600,17.08,22,biweekly,100,78.35,1823.7,239,17,0,1641.33,3465.03,True,True,False,3,751,3035,0,True,False,False,Refinance,Yes,not kept
+C401,91,4279,0,0,biweekly,0.0,238.0,False,False,1400,3323,19.23,18,monthly,100,213.98,3951.64,400,13,4,2786.15,5881.87,True,True,False,10,304,3998,0,True,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C402,60,2173,0,1532,monthly,45.0,277.0,False,False,1401,4998,16.91,17,biweekly,100,311.51,5395.67,150,10,7,2893.59,6108.69,True,True,True,14,832,9401,3344,False,True,False,Extended_payment_plan,Yes,Partially kept
+C403,100,2045,0,0,weekly,34.0,498.0,False,False,1402,255,22.46,6,weekly,50,43.14,308.84,18,2,1,47.83,313.53,True,False,True,19,321,5971,2888,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C404,35,2366,0,0,weekly,86.0,186.0,False,False,1403,4449,18.8,6,biweekly,100,760.38,4662.28,76,5,0,3543.33,8205.61,True,False,N/A,7,801,0,0,False,False,False,N/A,N/A,N/A
+C405,64,1447,0,0,biweekly,38.0,439.0,False,False,1404,1677,23.25,19,weekly,100,92.26,1852.94,67,9,6,870.58,2169.96,True,False,False,14,827,4935,0,False,True,False,Extended_payment_plan,Yes,not kept
+C406,77,3176,0,228,biweekly,65.0,224.0,False,False,1405,4282,20.44,18,weekly,100,246.87,4543.66,69,9,5,2283.42,5592.73,True,False,False,0,764,596,0,True,False,False,Refinance,No,not kept
+C407,22,3597,0,0,biweekly,6.0,31.0,False,False,1406,1015,25.07,16,biweekly,100,68.76,1200.16,94,6,5,770.72,1627.08,True,True,True,7,794,549,535,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C408,58,3595,0,0,biweekly,31.0,477.0,False,False,1407,1947,27.68,9,monthly,100,242.04,2278.36,190,6,1,1832.69,3869.01,True,True,False,13,562,9293,0,False,True,True,Extended_payment_plan,Yes,not kept
+C409,67,0,911,3882,,,,False,False,1408,4736,19.66,23,weekly,100,215.38,5053.74,140,20,2,4160.68,8783.66,True,True,False,15,598,4156,0,True,True,True,Extended_payment_plan,No,not kept
+C410,46,3370,0,0,weekly,22.0,330.0,False,False,1409,1048,23.18,21,weekly,100,52.39,1200.19,84,12,9,612.09,1340.77,True,False,N/A,15,503,0,0,False,False,False,N/A,N/A,N/A
+C411,32,4257,0,1224,monthly,2.0,2.0,False,False,1410,2370,14.36,22,biweekly,100,114.7,2623.4,190,13,3,2051.37,4330.67,True,True,N/A,3,587,0,0,False,False,False,N/A,N/A,N/A
+C412,55,724,0,2370,weekly,30.0,140.0,False,False,1411,2243,27.12,16,monthly,100,168.62,2797.92,61,2,9,781.01,2061.35,True,False,N/A,0,302,0,0,False,False,False,N/A,N/A,N/A
+C413,52,1539,0,0,biweekly,40.0,43.0,False,False,1412,4509,11.26,24,monthly,100,210.7,5156.8,659,21,1,4451.49,9397.59,True,True,N/A,2,417,0,0,False,False,False,N/A,N/A,N/A
+C414,46,0,920,0,,,,False,False,1413,3649,27.22,14,monthly,100,307.14,4399.96,104,3,2,3407.11,7192.79,True,True,N/A,10,799,0,0,False,False,False,N/A,N/A,N/A
+C415,87,968,0,0,weekly,60.0,745.0,False,False,1414,3198,18.11,17,weekly,100,194.07,3399.19,10,1,10,145.85,1604.34,True,False,False,6,687,7595,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C416,39,1086,0,0,biweekly,62.0,89.0,False,False,1415,210,24.01,22,weekly,50,10.06,271.32,83,11,7,166.75,367.65,True,False,True,5,443,9980,741,True,False,False,Refinance,No,Partially kept
+C417,44,537,0,0,monthly,11.0,133.0,False,False,1416,3666,12.12,21,monthly,100,194.62,4187.02,271,9,7,2542.21,5366.89,True,True,True,2,641,409,49,False,True,True,Extended_payment_plan,No,Partially kept
+C418,19,952,0,0,monthly,7.0,8.0,False,False,1417,2491,18.83,6,monthly,100,438.26,2729.56,152,5,0,2456.6,5186.16,True,True,False,8,404,2433,0,True,True,True,Refinance,Yes,not kept
+C419,99,2935,0,470,weekly,57.0,392.0,False,False,1418,539,24.54,20,weekly,50,28.31,616.2,99,14,0,554.58,1170.78,True,True,True,8,535,2712,262,False,True,False,Extended_payment_plan,Yes,Partially kept
+C420,100,0,1598,2396,,,,False,False,1419,2185,16.19,15,monthly,100,161.88,2528.2,284,9,3,1838.3,3880.86,True,True,N/A,6,702,0,0,False,False,False,N/A,N/A,N/A
+C421,59,3271,0,0,biweekly,38.0,242.0,False,False,1420,1278,23.54,12,monthly,100,120.56,1546.72,265,8,0,1392.05,2938.77,True,True,N/A,6,677,0,0,False,False,False,N/A,N/A,N/A
+C422,35,4366,0,4161,weekly,81.0,139.0,False,True,1421,2990,16.51,15,monthly,100,221.97,3429.55,12,0,5,278.36,2598.06,False,False,False,8,700,9001,0,True,False,False,Refinance,Yes,not kept
+C423,82,3157,0,0,monthly,107.0,224.0,False,False,1422,969,23.56,13,biweekly,50,79.35,1081.55,14,1,4,106.98,871.13,False,False,False,13,678,572,0,True,False,False,Refinance,No,not kept
+C424,23,0,4051,0,,,,False,False,1423,2775,11.7,15,biweekly,100,191.73,2975.95,196,14,0,2678.36,5654.31,True,True,False,16,442,1115,0,True,False,False,Refinance,No,not kept
+C425,96,2133,0,4909,biweekly,39.0,584.0,False,False,1424,2667,24.93,16,weekly,100,173.56,2876.96,86,12,4,1877.14,4059.86,True,False,N/A,17,688,0,0,False,False,False,N/A,N/A,N/A
+C426,100,4045,0,0,biweekly,2.0,30.0,False,False,1425,2338,13.79,13,biweekly,100,186.59,2525.67,35,2,1,818.68,3157.76,True,False,False,12,420,6923,0,False,True,True,Extended_payment_plan,Yes,not kept
+C427,20,1118,0,0,monthly,0.0,1.0,False,False,1426,1837,18.42,24,weekly,100,79.98,2019.52,119,17,6,1385.68,2925.32,True,True,N/A,7,428,0,0,False,False,False,N/A,N/A,N/A
+C428,78,620,0,2113,biweekly,43.0,558.0,False,False,1427,845,22.68,16,monthly,50,61.69,1037.04,471,15,0,933.34,1970.38,True,True,False,13,764,2459,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C429,94,1114,0,0,monthly,209.0,570.0,False,False,1428,148,11.08,10,biweekly,50,15.15,201.5,135,9,0,181.35,382.85,True,True,True,17,473,1152,778,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C430,64,3384,0,0,monthly,18.0,33.0,False,False,1429,147,10.02,24,weekly,50,6.27,200.48,3,0,6,4.89,167.75,False,False,False,5,549,5840,0,False,True,False,Extended_payment_plan,Yes,not kept
+C431,43,3145,0,0,monthly,11.0,87.0,False,True,1430,2903,14.36,22,weekly,100,136.19,3096.18,18,2,8,361.2,2367.86,True,False,True,11,570,8842,1565,False,True,False,Extended_payment_plan,Yes,Partially kept
+C432,59,4610,0,0,biweekly,20.0,156.0,True,True,1431,2103,24.21,12,biweekly,100,186.04,2332.48,98,7,3,1596.92,3371.28,True,True,N/A,1,508,0,0,False,False,False,N/A,N/A,N/A
+C433,64,1622,0,3866,monthly,4.0,402.0,False,False,1432,2514,18.53,18,biweekly,100,149.31,2787.58,208,14,1,2374.44,5012.71,True,True,False,4,742,580,0,True,True,False,Extended_payment_plan,No,not kept
+C434,32,2651,0,3480,biweekly,18.0,141.0,False,False,1433,4903,16.31,17,monthly,100,324.96,5624.32,501,16,1,4769.42,10068.78,True,True,N/A,0,738,0,0,False,False,False,N/A,N/A,N/A
+C435,46,3632,0,2251,monthly,79.0,248.0,False,False,1434,4490,10.83,24,monthly,100,208.91,5113.84,374,12,5,3662.36,7731.65,True,True,True,16,300,2868,1601,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C436,60,899,0,0,weekly,89.0,228.0,False,False,1435,2028,16.09,16,monthly,100,141.68,2366.88,460,15,0,2130.19,4497.07,True,True,N/A,17,683,0,0,False,False,False,N/A,N/A,N/A
+C437,81,936,0,0,weekly,3.0,571.0,False,False,1436,388,25.85,25,monthly,50,20.24,556.0,297,9,6,391.1,825.66,True,True,True,19,630,6088,4135,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C438,24,1293,0,0,monthly,5.0,32.0,False,False,1437,3205,29.84,20,weekly,100,170.08,3501.6,20,2,17,122.05,732.29,True,False,False,0,420,3645,0,True,True,True,Refinance,No,not kept
+C439,63,4159,0,0,weekly,35.0,147.0,False,False,1438,1012,28.04,15,weekly,100,70.41,1156.15,36,5,6,264.13,997.82,True,False,True,15,626,766,760,True,True,False,Extended_payment_plan,No,Partially kept
+C440,23,1860,0,3126,weekly,3.0,10.0,False,False,1439,377,16.09,17,monthly,50,24.95,474.15,51,1,14,63.67,188.52,True,False,True,11,640,3880,2837,True,False,False,Refinance,No,Partially kept
+C441,45,4005,0,2457,biweekly,29.0,30.0,False,False,1440,631,23.29,21,weekly,50,31.55,712.55,87,12,3,537.57,1155.47,True,False,N/A,6,676,0,0,False,False,False,N/A,N/A,N/A
+C442,73,0,4991,4005,,,,False,False,1441,2806,23.76,14,weekly,100,207.36,3003.04,51,7,4,1108.54,3282.14,True,False,False,0,603,1323,0,True,True,False,Extended_payment_plan,Yes,not kept
+C443,98,3078,0,1172,weekly,47.0,712.0,False,False,1442,704,15.96,16,biweekly,50,46.33,791.28,151,10,1,670.46,1415.41,True,True,False,18,383,1201,0,True,True,False,Refinance,Yes,not kept
+C444,93,2138,0,773,biweekly,39.0,864.0,False,False,1443,1347,17.7,20,monthly,100,78.26,1665.2,86,2,9,826.34,1787.2,True,False,True,5,691,792,298,False,True,False,Extended_payment_plan,Yes,Partially kept
+C445,28,4051,0,0,monthly,26.0,105.0,False,False,1444,3644,10.82,21,monthly,100,191.25,4116.25,332,11,7,2499.75,5277.25,True,True,True,12,407,9381,5361,True,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C446,50,1270,0,0,biweekly,121.0,264.0,False,False,1445,4449,18.89,22,biweekly,100,219.55,4930.1,3,0,14,55.69,1912.09,False,False,True,18,761,6866,6251,True,False,False,Refinance,No,Partially kept
+C447,98,0,2116,0,,,,False,False,1446,3241,12.84,22,weekly,100,151.54,3433.88,21,3,0,721.11,4154.99,True,False,N/A,5,829,0,0,False,False,False,N/A,N/A,N/A
+C448,74,4343,0,701,biweekly,22.0,384.0,False,False,1447,3081,19.88,9,weekly,100,348.91,3240.19,59,8,0,1911.71,5151.9,True,False,True,18,567,9351,3676,False,True,False,Extended_payment_plan,Yes,Partially kept
+C449,53,1754,0,2577,biweekly,35.0,169.0,False,False,1448,4307,19.36,23,monthly,100,225.64,5289.72,659,21,1,4557.67,9621.75,True,True,True,14,823,9039,6348,True,False,False,Refinance,No,Partially kept
+C450,89,0,2093,0,,,,False,False,1449,938,10.94,19,weekly,50,50.41,1007.79,31,4,5,234.28,990.02,True,False,False,5,596,5661,0,True,False,False,Refinance,No,not kept
+C451,42,2530,0,0,monthly,31.0,168.0,False,False,1450,1993,11.63,24,biweekly,100,87.76,2206.24,263,18,4,1669.68,3524.88,True,True,False,11,539,477,0,False,True,True,Extended_payment_plan,No,not kept
+C452,22,4850,0,4147,monthly,3.0,3.0,False,True,1451,202,27.72,11,weekly,50,18.96,258.56,0,0,4,0.0,182.72,False,False,True,2,519,6065,975,True,True,False,Extended_payment_plan,No,Partially kept
+C453,99,4466,0,0,monthly,139.0,448.0,False,False,1452,4663,26.37,16,weekly,100,304.16,4966.56,32,4,2,1394.64,5752.88,True,False,N/A,11,485,0,0,False,False,False,N/A,N/A,N/A
+C454,54,4572,0,0,biweekly,36.0,209.0,False,False,1453,2896,18.2,22,weekly,100,137.0,3114.0,41,5,9,771.21,2652.21,True,False,N/A,9,305,0,0,False,False,False,N/A,N/A,N/A
+C455,44,3049,0,0,weekly,39.0,169.0,False,False,1454,1139,27.32,16,biweekly,100,77.71,1343.36,213,15,1,1139.08,2404.73,True,True,True,17,563,3154,326,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C456,29,4846,0,432,weekly,51.0,83.0,False,False,1455,3559,17.96,18,weekly,100,204.27,3776.86,123,17,1,3215.33,6787.92,True,True,False,7,577,4576,0,True,False,False,Refinance,No,not kept
+C457,77,4720,0,0,biweekly,37.0,230.0,False,False,1456,1211,19.48,14,biweekly,100,91.44,1380.16,102,7,7,666.07,1406.15,True,True,False,11,410,3736,0,True,False,False,Refinance,No,not kept
+C458,18,1050,0,688,monthly,0.0,0.0,False,False,1457,1064,23.3,15,monthly,100,82.45,1336.75,319,10,5,832.05,1756.55,True,True,True,8,548,5896,1020,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C459,23,2078,0,0,weekly,11.0,36.0,False,True,1458,1956,10.1,25,biweekly,100,82.25,2156.25,80,5,2,1593.4,3585.15,True,False,N/A,9,539,0,0,False,False,False,N/A,N/A,N/A
+C460,93,1205,0,0,monthly,43.0,308.0,False,False,1459,1886,15.82,6,weekly,100,317.69,2006.14,4,0,0,80.25,2086.39,False,False,False,7,460,642,0,True,True,True,Extended_payment_plan,No,not kept
+C461,21,4918,0,2723,biweekly,11.0,35.0,False,False,1460,3355,19.34,18,biweekly,100,199.84,3697.12,214,15,2,2967.7,6265.14,True,True,False,13,779,4542,0,True,True,False,Refinance,No,not kept
+C462,62,3980,0,0,biweekly,35.0,138.0,False,False,1461,2492,20.29,24,monthly,100,127.19,3152.56,45,1,18,388.41,1251.55,True,False,False,2,320,638,0,True,True,True,Refinance,No,not kept
+C463,70,4362,0,0,monthly,48.0,351.0,False,False,1462,503,18.8,8,monthly,50,67.39,589.12,111,3,3,348.26,735.21,True,True,True,10,792,4793,2288,True,True,True,Extended_payment_plan,No,Partially kept
+C464,92,3430,0,0,weekly,63.0,416.0,False,False,1463,4904,20.02,16,weekly,100,316.63,5166.08,78,11,4,3041.66,6941.22,True,False,False,12,454,6592,0,True,False,True,Refinance,No,not kept
+C465,43,3900,0,0,monthly,44.0,116.0,False,False,1464,2931,13.94,16,biweekly,100,191.65,3166.4,193,13,0,2849.76,6016.16,True,True,False,3,773,7542,0,True,False,True,Refinance,Yes,not kept
+C466,38,1545,0,1390,weekly,59.0,240.0,False,False,1465,3564,25.61,6,monthly,100,639.15,3934.9,21,0,5,155.22,894.37,False,False,N/A,9,650,0,0,False,False,False,N/A,N/A,N/A
+C467,99,4120,0,0,biweekly,60.0,231.0,False,False,1466,3807,23.33,10,monthly,100,422.58,4325.8,152,5,4,2371.93,5007.41,True,True,True,17,302,9429,3218,True,False,False,Refinance,Yes,Partially kept
+C468,19,0,1916,0,,,,False,False,1467,1152,25.18,25,weekly,100,49.04,1326.0,121,17,8,840.31,1773.99,True,True,N/A,7,465,0,0,False,False,False,N/A,N/A,N/A
+C469,83,2957,0,0,weekly,44.0,309.0,False,False,1468,3172,24.41,20,biweekly,100,174.7,3594.0,141,10,1,3077.37,6496.67,True,True,False,14,692,8036,0,False,True,False,Extended_payment_plan,Yes,not kept
+C470,97,3788,0,0,biweekly,33.0,767.0,False,True,1469,2926,25.61,18,biweekly,100,178.19,3307.42,207,14,0,2976.68,6284.1,True,True,False,18,443,1786,0,True,False,False,Refinance,Yes,not kept
+C471,41,0,2765,2575,,,,False,False,1470,2814,18.76,9,biweekly,100,324.05,3016.45,3,0,2,71.05,2439.4,False,False,N/A,2,567,0,0,False,False,False,N/A,N/A,N/A
+C472,90,3745,0,0,biweekly,74.0,332.0,False,False,1471,1668,13.49,14,weekly,100,121.47,1800.58,34,4,6,364.4,1436.16,True,False,True,7,315,5776,1634,True,True,True,Extended_payment_plan,No,Partially kept
+C473,74,4649,0,0,monthly,90.0,413.0,False,False,1472,1673,17.77,23,biweekly,100,78.85,1913.55,257,18,2,1580.26,3336.11,True,True,True,2,375,9156,8074,True,False,True,Refinance,No,Partially kept
+C474,97,2609,0,0,weekly,507.0,766.0,False,False,1473,4174,25.47,20,monthly,100,258.3,5266.0,328,10,8,2879.64,6079.24,True,True,False,13,311,8944,0,True,False,True,Settlement_plans_with_waive_off,No,not kept
+C475,51,4549,0,0,monthly,41.0,214.0,False,False,1474,4258,12.16,22,monthly,100,216.9,4871.8,219,7,8,2822.94,5959.54,True,True,N/A,19,307,0,0,False,False,False,N/A,N/A,N/A
+C476,75,1845,0,0,biweekly,76.0,311.0,False,False,1475,1045,24.51,19,monthly,100,66.91,1371.29,76,2,8,635.37,1471.38,True,False,False,5,611,2872,0,True,True,False,Refinance,No,not kept
+C477,70,4422,0,0,weekly,53.0,619.0,False,False,1476,1341,25.02,20,biweekly,100,74.03,1580.6,83,5,5,1004.67,2215.12,True,False,N/A,12,780,0,0,False,False,False,N/A,N/A,N/A
+C478,66,2998,0,0,biweekly,85.0,409.0,False,False,1477,2484,25.92,14,monthly,100,207.5,3005.0,377,12,2,2331.0,4921.0,True,True,N/A,2,846,0,0,False,False,False,N/A,N/A,N/A
+C479,43,1283,0,0,weekly,68.0,232.0,False,False,1478,2610,27.48,7,weekly,100,380.78,2765.46,24,3,2,480.94,2484.84,True,False,False,6,301,9526,0,False,True,False,Extended_payment_plan,No,not kept
+C480,77,3449,0,0,biweekly,43.0,168.0,False,False,1479,4752,14.54,24,biweekly,100,212.14,5191.36,295,21,1,4481.3,9460.52,True,True,True,5,695,4919,2091,True,False,False,Refinance,Yes,Partially kept
+C481,55,2303,0,0,weekly,87.0,235.0,False,False,1480,631,10.57,24,biweekly,50,27.65,713.6,81,5,4,488.43,1091.43,True,False,N/A,15,843,0,0,False,False,False,N/A,N/A,N/A
+C482,20,0,3616,0,,,,False,False,1481,4520,18.96,20,weekly,100,234.75,4795.0,75,10,4,2892.0,6748.0,True,False,True,19,486,436,126,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C483,88,3255,0,3713,weekly,10.0,620.0,False,False,1482,1481,29.61,8,monthly,100,206.27,1750.16,151,5,0,1575.14,3325.3,True,True,N/A,1,683,0,0,False,False,False,N/A,N/A,N/A
+C484,26,1184,0,0,biweekly,27.0,48.0,False,False,1483,4442,23.19,13,biweekly,100,363.4,4824.2,66,4,3,2464.44,6198.44,True,False,True,8,640,2896,796,False,True,True,Extended_payment_plan,No,Partially kept
+C485,22,1678,0,0,monthly,1.0,15.0,False,False,1484,2514,23.05,6,biweekly,100,432.1,2692.6,13,0,6,13.0,113.0,False,False,False,2,632,5572,0,True,True,False,Refinance,No,not kept
+C486,82,1614,0,0,monthly,42.0,121.0,False,False,1485,2808,27.28,19,biweekly,100,163.78,3211.82,34,2,5,813.59,3206.51,True,False,True,16,492,749,238,False,True,False,Extended_payment_plan,Yes,Partially kept
+C487,51,4963,0,0,biweekly,33.0,196.0,False,False,1486,1048,21.44,9,biweekly,100,121.3,1191.7,93,6,0,1072.53,2264.23,True,True,True,0,845,1985,1401,False,True,False,Extended_payment_plan,Yes,Partially kept
+C488,18,4716,0,0,monthly,0.0,0.0,False,False,1487,3363,28.05,6,weekly,100,571.13,3526.78,12,1,1,354.68,3310.33,True,False,N/A,12,810,0,0,False,False,False,N/A,N/A,N/A
+C489,47,4182,0,3314,weekly,20.0,264.0,False,False,1488,4215,16.92,16,monthly,100,296.11,4837.76,180,6,6,2754.99,5816.09,True,True,N/A,13,445,0,0,False,False,False,N/A,N/A,N/A
+C490,65,673,0,0,monthly,81.0,241.0,False,False,1489,3664,25.58,10,monthly,100,410.72,4207.2,107,3,5,1938.24,4091.84,True,True,N/A,15,544,0,0,False,False,False,N/A,N/A,N/A
+C491,27,0,4983,0,,,,False,False,1490,446,20.11,25,monthly,50,21.98,599.5,240,8,16,223.04,470.86,True,True,True,19,746,3895,754,True,False,False,Refinance,Yes,Partially kept
+C492,71,4666,0,4089,weekly,51.0,244.0,False,False,1491,1311,15.32,22,monthly,100,68.73,1612.06,264,8,2,1327.14,2801.74,True,True,True,0,751,7078,6099,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C493,28,0,2897,0,,,,False,True,1492,2485,29.82,13,biweekly,100,206.85,2789.05,56,4,8,635.18,1769.43,True,False,False,1,719,2278,0,True,True,True,Extended_payment_plan,No,not kept
+C494,78,1759,0,0,biweekly,80.0,185.0,False,False,1493,2625,16.44,20,biweekly,100,140.14,2902.8,156,11,6,1855.76,3917.72,True,True,N/A,11,630,0,0,False,False,False,N/A,N/A,N/A
+C495,61,0,4603,0,,,,False,False,1494,4247,22.42,10,weekly,100,434.84,4448.4,32,4,4,866.89,3575.93,True,False,N/A,9,537,0,0,False,False,False,N/A,N/A,N/A
+C496,79,528,0,4441,biweekly,3.0,276.0,False,False,1495,2417,29.35,16,biweekly,100,165.96,2755.36,112,8,6,1583.64,3343.24,True,True,True,11,594,3410,2909,False,True,True,Extended_payment_plan,Yes,Partially kept
+C497,89,2359,0,0,monthly,90.0,311.0,False,False,1496,1955,18.92,10,biweekly,100,203.41,2134.1,51,3,2,880.91,2608.19,True,False,False,13,742,9032,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C498,56,4057,0,0,monthly,23.0,26.0,False,False,1497,4449,10.25,14,weekly,100,322.5,4615.0,93,13,0,4153.5,8768.5,True,True,N/A,1,602,0,0,False,False,False,N/A,N/A,N/A
+C499,58,2498,0,2476,biweekly,15.0,459.0,False,False,1498,4279,13.86,14,monthly,100,332.78,4758.92,194,6,0,4283.03,9041.95,True,True,N/A,5,510,0,0,False,False,False,N/A,N/A,N/A
+C500,53,2141,0,0,biweekly,19.0,45.0,False,False,1499,1790,25.56,24,weekly,100,79.25,2002.0,86,12,10,1040.17,2249.67,True,False,True,7,407,21,19,True,False,False,Refinance,Yes,Partially kept
+C501,32,1029,0,1219,biweekly,76.0,131.0,False,False,1500,1137,28.47,15,monthly,100,90.97,1464.55,119,3,11,417.49,881.37,True,True,True,9,683,5102,929,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C502,50,4196,0,0,biweekly,53.0,251.0,False,False,1501,4717,21.75,9,monthly,100,572.75,5254.75,143,4,2,3698.32,7807.57,True,True,True,17,702,8340,6350,False,True,False,Extended_payment_plan,Yes,Partially kept
+C503,71,0,858,1923,,,,False,False,1502,2455,10.38,6,biweekly,100,414.9,2589.4,21,1,1,456.64,2631.14,True,False,True,5,434,1463,1023,True,True,False,Refinance,No,Partially kept
+C504,26,0,2479,0,,,,False,False,1503,1593,11.18,25,weekly,100,65.52,1738.0,34,4,1,568.64,2241.12,True,False,N/A,3,359,0,0,False,False,False,N/A,N/A,N/A
+C505,30,0,1944,0,,,,False,False,1504,2703,24.07,18,biweekly,100,163.72,3046.96,102,7,9,1416.13,2989.61,True,True,False,3,694,4663,0,True,True,True,Extended_payment_plan,No,not kept
+C506,97,1349,0,0,weekly,88.0,372.0,False,False,1505,3480,23.05,9,biweekly,100,404.01,3736.09,76,5,2,2225.33,5153.4,True,False,N/A,10,619,0,0,False,False,False,N/A,N/A,N/A
+C507,67,4483,0,0,biweekly,85.0,188.0,False,False,1506,2383,17.97,7,biweekly,100,349.9,2549.3,45,3,0,1147.19,3696.49,True,False,True,5,529,6646,1777,True,True,True,Extended_payment_plan,No,Partially kept
+C508,64,1969,0,4117,weekly,0.0,430.0,False,True,1507,350,19.48,13,monthly,50,30.08,441.04,10,0,2,38.09,418.97,False,False,N/A,16,467,0,0,False,False,False,N/A,N/A,N/A
+C509,25,1582,0,0,biweekly,48.0,55.0,False,False,1508,1901,20.42,6,monthly,100,335.97,2115.82,96,3,0,1904.24,4020.06,True,True,N/A,5,743,0,0,False,False,False,N/A,N/A,N/A
+C510,53,3135,0,0,weekly,73.0,212.0,False,True,1509,4276,25.54,6,biweekly,100,737.37,4524.22,33,2,1,1249.66,5036.51,True,False,True,3,492,8225,7462,True,False,False,Refinance,Yes,Partially kept
+C511,94,1022,0,0,monthly,46.0,212.0,False,False,1510,311,21.9,14,weekly,50,22.92,370.88,14,2,10,19.84,161.52,True,False,True,13,823,6965,5057,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C512,37,3337,0,0,monthly,57.0,108.0,False,False,1511,3272,10.85,20,biweekly,100,170.86,3517.2,253,18,2,2857.93,6033.41,True,True,False,8,311,3162,0,True,False,True,Refinance,Yes,not kept
+C513,54,0,3439,2237,,,,False,False,1512,1635,21.66,20,weekly,100,85.37,1807.4,116,16,1,1549.83,3271.86,True,True,True,11,754,7838,5742,True,False,False,Refinance,No,Partially kept
+C514,57,1717,0,1066,monthly,0.0,77.0,False,False,1513,3683,18.81,24,biweekly,100,167.72,4125.28,146,10,6,2807.06,5926.02,True,True,False,8,510,9616,0,False,True,False,Extended_payment_plan,No,not kept
+C515,18,937,0,0,monthly,0.0,0.0,False,True,1514,2111,20.63,6,biweekly,100,361.67,2270.02,64,4,0,1452.81,3722.83,True,False,N/A,13,732,0,0,False,False,False,N/A,N/A,N/A
+C516,94,2508,0,1529,monthly,47.0,762.0,False,False,1515,2296,26.95,21,weekly,100,115.67,2529.07,54,7,14,491.23,1400.92,True,False,N/A,13,677,0,0,False,False,False,N/A,N/A,N/A
+C517,20,0,4643,814,,,,False,False,1516,2812,13.28,12,monthly,100,251.53,3118.36,153,5,3,2127.39,4491.16,True,True,False,19,576,826,0,True,False,False,Refinance,No,not kept
+C518,56,529,0,0,weekly,39.0,167.0,False,False,1517,1626,21.98,21,weekly,100,81.08,1802.68,22,3,8,253.89,1407.93,True,False,N/A,18,532,0,0,False,False,False,N/A,N/A,N/A
+C519,84,2697,0,3879,biweekly,10.0,21.0,False,False,1518,2702,13.56,17,monthly,100,175.59,3085.03,249,8,7,1670.31,3526.21,True,True,True,15,321,8408,4396,True,True,False,Extended_payment_plan,Yes,Partially kept
+C520,88,3347,0,0,biweekly,44.0,449.0,False,False,1519,1848,22.41,9,weekly,100,209.78,1988.02,39,5,0,775.33,2763.35,True,False,N/A,5,708,0,0,False,False,False,N/A,N/A,N/A
+C521,67,0,4568,0,,,,False,False,1520,548,19.9,13,weekly,50,43.29,612.77,53,7,0,324.77,937.54,True,False,True,2,337,2828,2549,False,True,False,Extended_payment_plan,Yes,Partially kept
+C522,51,2634,0,0,monthly,49.0,85.0,False,False,1521,4608,12.03,13,biweekly,100,366.05,4858.65,158,11,2,3713.89,7840.44,True,True,N/A,9,728,0,0,False,False,False,N/A,N/A,N/A
+C523,24,3532,0,0,biweekly,0.0,13.0,False,False,1522,2150,15.86,8,biweekly,100,276.18,2309.44,63,4,1,1280.95,3314.21,True,False,False,10,391,5904,0,True,False,False,Refinance,No,not kept
+C524,64,0,3545,4039,,,,False,False,1523,4864,15.11,11,monthly,100,476.29,5339.19,228,7,2,3947.95,8334.56,True,True,N/A,2,763,0,0,False,False,False,N/A,N/A,N/A
+C525,45,3792,0,1644,weekly,81.0,101.0,False,False,1524,2731,29.56,25,weekly,100,117.5,3037.5,127,18,7,1993.5,4208.5,True,True,True,11,377,4162,1016,True,True,False,Extended_payment_plan,Yes,Partially kept
+C526,38,3837,0,576,monthly,30.0,155.0,False,False,1525,4186,23.84,17,monthly,100,292.57,5073.69,170,5,10,1933.19,4081.18,True,True,N/A,10,629,0,0,False,False,False,N/A,N/A,N/A
+C527,92,0,1263,0,,,,False,False,1526,1631,18.86,10,biweekly,100,169.68,1796.8,138,9,1,1464.41,3091.53,True,True,True,18,651,603,300,True,True,False,Refinance,No,Partially kept
+C528,54,663,0,0,biweekly,19.0,251.0,False,False,1527,945,21.73,13,biweekly,50,77.02,1051.26,85,6,0,893.57,1944.83,True,False,N/A,13,392,0,0,False,False,False,N/A,N/A,N/A
+C529,91,3097,0,0,biweekly,299.0,790.0,False,False,1528,158,28.01,18,weekly,50,9.23,216.14,112,16,0,194.53,410.67,True,True,False,12,620,5286,0,True,False,True,Refinance,No,not kept
+C530,97,2775,0,0,monthly,420.0,803.0,False,False,1529,3714,26.55,22,weekly,100,178.91,4036.02,88,12,7,2449.61,5233.26,True,False,True,17,685,4603,1696,True,True,False,Extended_payment_plan,No,Partially kept
+C531,67,4554,0,0,biweekly,69.0,153.0,False,False,1530,3274,12.95,11,monthly,100,317.25,3589.75,217,7,2,2659.72,5614.97,True,True,True,16,631,1142,907,True,False,False,Refinance,No,Partially kept
+C532,89,0,4370,1035,,,,False,False,1531,3158,28.06,23,weekly,100,146.37,3466.51,46,6,2,1459.93,4633.7,True,False,N/A,16,513,0,0,False,False,False,N/A,N/A,N/A
+C533,31,0,3873,0,,,,False,False,1532,4210,10.88,16,monthly,100,283.86,4641.76,228,7,4,3155.69,6662.01,True,True,N/A,12,710,0,0,False,False,False,N/A,N/A,N/A
+C534,62,1000,0,0,monthly,27.0,375.0,False,False,1533,3989,27.86,8,biweekly,100,522.97,4283.76,78,5,3,2117.58,4832.43,True,False,N/A,0,816,0,0,False,False,False,N/A,N/A,N/A
+C535,58,3413,0,0,biweekly,9.0,262.0,False,False,1534,3446,29.93,21,monthly,100,212.8,4568.8,400,13,0,4111.92,8680.72,True,True,False,15,484,1129,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C536,98,1029,0,0,monthly,25.0,297.0,False,False,1535,4928,21.56,21,biweekly,100,256.66,5489.86,251,17,0,4940.87,10430.73,True,True,N/A,1,397,0,0,False,False,False,N/A,N/A,N/A
+C537,37,1959,0,563,weekly,79.0,150.0,False,False,1536,1802,27.63,25,weekly,100,77.16,2029.0,62,8,7,923.11,2411.99,True,False,False,9,367,4993,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C538,53,2735,0,0,weekly,37.0,49.0,False,False,1537,2961,10.48,8,weekly,100,373.49,3087.92,39,5,3,767.31,2734.76,True,False,N/A,17,466,0,0,False,False,False,N/A,N/A,N/A
+C539,81,0,1267,0,,,,False,False,1538,2647,12.9,24,monthly,100,125.72,3117.28,690,23,0,2805.55,5922.83,True,True,False,8,338,9484,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C540,22,1646,0,0,weekly,13.0,34.0,False,False,1539,4647,23.06,12,biweekly,100,409.94,5019.28,74,5,5,2197.49,5167.07,True,False,N/A,12,332,0,0,False,False,False,N/A,N/A,N/A
+C541,36,4906,0,0,weekly,3.0,15.0,False,False,1540,1155,16.49,13,monthly,100,97.63,1369.19,358,11,1,1144.4,2415.96,True,True,True,19,413,7020,238,True,False,False,Refinance,Yes,Partially kept
+C542,20,1503,0,0,biweekly,12.0,21.0,False,False,1541,1249,25.5,17,biweekly,100,80.12,1462.04,59,4,7,531.71,1432.91,True,False,False,3,348,8560,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C543,89,682,0,0,weekly,53.0,357.0,False,False,1542,2577,28.28,23,biweekly,100,127.25,3026.75,7,0,14,87.17,1332.42,False,False,N/A,9,691,0,0,False,False,False,N/A,N/A,N/A
+C544,63,731,0,0,weekly,1.0,1.0,False,False,1543,1895,17.14,7,weekly,100,274.3,2020.1,37,5,2,544.46,2015.96,True,False,True,8,573,8465,5741,True,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C545,71,4015,0,0,biweekly,1.0,5.0,False,False,1544,2558,25.26,12,monthly,100,243.45,3021.4,129,4,8,966.42,2040.22,True,True,N/A,5,834,0,0,False,False,False,N/A,N/A,N/A
+C546,47,3584,0,0,monthly,2.0,3.0,False,False,1545,4308,24.58,7,weekly,100,627.12,4489.84,27,3,1,1042.93,4905.65,True,False,N/A,7,567,0,0,False,False,False,N/A,N/A,N/A
+C547,90,0,2681,3159,,,,False,False,1546,745,10.79,13,weekly,50,58.14,805.82,54,7,0,435.14,1240.96,True,False,False,7,345,3881,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C548,98,0,4191,0,,,,True,True,1547,3022,19.35,11,biweekly,100,287.15,3258.65,53,3,6,813.95,2349.7,True,False,N/A,11,565,0,0,False,False,False,N/A,N/A,N/A
+C549,21,0,2841,3076,,,,False,False,1548,4617,14.01,17,weekly,100,278.22,4829.74,30,4,12,447.33,1938.43,True,False,True,10,600,1795,556,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C550,57,3404,0,0,monthly,58.0,78.0,False,False,1549,2691,26.75,14,weekly,100,199.71,2895.94,42,6,5,796.9,2694.29,True,False,True,6,464,9096,4350,True,False,False,Refinance,Yes,Partially kept
+C551,19,2906,0,0,weekly,1.0,1.0,False,False,1550,4539,19.77,19,weekly,100,248.08,4813.52,8,1,17,47.69,643.85,True,False,True,13,652,3806,3548,True,True,False,Extended_payment_plan,Yes,Partially kept
+C552,54,1855,0,0,weekly,3.0,423.0,False,False,1551,1456,29.79,7,weekly,100,212.79,1589.53,20,2,5,105.12,630.7,True,False,True,1,306,124,86,True,False,False,Refinance,No,Partially kept
+C553,34,717,0,1702,biweekly,22.0,181.0,False,False,1552,640,15.97,6,monthly,50,111.69,720.14,172,5,1,547.6,1156.05,True,True,N/A,0,331,0,0,False,False,False,N/A,N/A,N/A
+C554,59,776,0,2941,monthly,16.0,19.0,False,False,1553,4427,16.31,6,biweekly,100,754.12,4624.72,14,1,1,541.88,4412.48,False,False,True,5,797,8684,5958,True,True,True,Refinance,No,Partially kept
+C555,58,1742,0,0,biweekly,6.0,460.0,False,False,1554,322,28.87,17,weekly,50,19.9,388.3,78,11,1,287.35,655.75,True,False,False,12,619,7056,0,True,False,True,Refinance,No,not kept
+C556,31,3671,0,0,monthly,75.0,128.0,False,False,1555,2388,14.33,6,weekly,100,401.85,2511.1,6,0,4,54.22,957.92,False,False,True,5,405,3050,1502,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C557,40,2318,0,0,weekly,88.0,234.0,False,False,1556,3149,26.77,20,weekly,100,166.1,3422.0,44,6,1,1432.6,4688.5,True,False,False,10,501,6517,0,True,False,False,Refinance,Yes,not kept
+C558,67,1873,0,0,weekly,21.0,111.0,False,False,1557,3614,25.24,15,monthly,100,283.44,4351.6,447,14,0,3916.44,8268.04,True,True,True,3,302,5141,2506,True,True,True,Refinance,No,Partially kept
+C559,19,0,3863,0,,,,False,False,1558,2102,28.1,18,monthly,100,144.45,2700.1,79,2,11,877.81,1988.96,True,False,N/A,9,781,0,0,False,False,False,N/A,N/A,N/A
+C560,47,1811,0,0,biweekly,44.0,226.0,False,False,1559,3564,21.97,17,monthly,100,245.86,4279.62,152,5,7,2302.74,4861.34,True,True,False,16,536,2351,0,True,True,True,Refinance,Yes,not kept
+C561,76,2221,0,0,monthly,23.0,432.0,False,False,1560,1871,15.59,16,monthly,100,130.27,2184.32,163,5,8,1027.94,2170.1,True,True,True,13,585,8361,6346,True,False,False,Refinance,Yes,Partially kept
+C562,68,2149,0,0,biweekly,0.0,460.0,False,False,1561,4789,26.03,24,weekly,100,212.27,5194.48,138,19,0,4675.03,9869.51,True,True,True,0,706,2716,673,True,False,False,Refinance,Yes,Partially kept
+C563,36,0,3904,0,,,,False,False,1562,2809,12.97,7,monthly,100,418.82,3031.74,110,3,3,1597.75,3373.03,True,True,True,12,557,5796,4176,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C564,34,0,1849,297,,,,False,True,1563,3134,27.14,7,monthly,100,489.12,3523.84,19,0,1,576.6,3611.32,False,False,False,8,504,7699,0,True,False,False,Refinance,Yes,not kept
+C565,68,1992,0,0,biweekly,16.0,36.0,False,False,1564,4759,14.72,20,weekly,100,245.09,5001.8,25,3,6,882.82,4414.08,True,False,True,5,385,3629,7,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C566,72,591,0,0,biweekly,2.0,287.0,False,False,1565,1496,20.14,13,weekly,100,118.22,1636.86,35,5,3,448.77,1730.97,True,False,N/A,9,472,0,0,False,False,False,N/A,N/A,N/A
+C567,29,1499,0,0,biweekly,6.0,33.0,False,False,1566,2930,19.03,12,biweekly,100,255.94,3171.28,97,6,4,1932.77,4080.29,True,True,N/A,6,605,0,0,False,False,False,N/A,N/A,N/A
+C568,75,4292,0,4644,biweekly,79.0,249.0,False,False,1567,2386,10.38,9,weekly,100,267.76,2509.84,61,8,1,1367.67,3609.75,True,False,N/A,0,575,0,0,False,False,False,N/A,N/A,N/A
+C569,72,3314,0,0,weekly,74.0,322.0,True,True,1568,1777,22.55,21,biweekly,100,92.92,2051.32,294,21,0,1846.19,3897.51,True,True,True,0,638,4385,326,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C570,91,1262,0,2795,weekly,17.0,28.0,False,False,1569,4492,27.91,14,biweekly,100,347.29,4962.06,29,2,0,1439.0,6401.06,True,False,True,12,636,1273,1252,True,True,True,Extended_payment_plan,No,Partially kept
+C571,69,1432,0,0,weekly,29.0,545.0,False,False,1570,1391,19.21,14,monthly,100,111.7,1663.8,260,8,1,1396.89,2948.99,True,True,False,8,706,5367,0,False,True,True,Extended_payment_plan,No,not kept
+C572,41,953,0,0,biweekly,77.0,110.0,False,False,1571,4071,12.39,7,monthly,100,605.84,4340.88,122,4,2,2816.28,5945.48,True,True,N/A,9,594,0,0,False,False,False,N/A,N/A,N/A
+C573,58,1330,0,0,monthly,77.0,302.0,False,False,1572,3616,25.46,6,monthly,100,648.2,3989.2,159,5,1,3006.9,6347.9,True,True,True,17,835,5601,2308,False,True,True,Extended_payment_plan,Yes,Partially kept
+C574,75,0,3557,4719,,,,False,False,1573,3499,24.64,7,monthly,100,541.75,3892.25,41,1,1,1373.71,4724.21,True,False,False,3,404,3113,0,True,False,False,Refinance,No,not kept
+C575,83,2198,0,0,biweekly,60.0,374.0,False,False,1574,3307,29.46,13,weekly,100,264.59,3539.67,66,9,2,1986.92,4997.41,True,False,N/A,11,648,0,0,False,False,False,N/A,N/A,N/A
+C576,56,0,3435,0,,,,False,False,1575,4895,26.77,21,monthly,100,294.49,6284.29,238,7,6,4065.62,8582.97,True,True,False,1,456,9339,0,False,True,True,Extended_payment_plan,Yes,not kept
+C577,40,2542,0,2529,weekly,54.0,158.0,False,False,1576,141,20.41,11,biweekly,50,13.43,197.73,132,9,1,165.87,350.17,True,True,N/A,9,594,0,0,False,False,False,N/A,N/A,N/A
+C578,81,2994,0,203,monthly,154.0,520.0,False,False,1577,552,18.01,11,weekly,50,51.23,613.53,46,6,2,235.09,746.16,True,False,False,18,770,4004,0,False,True,False,Extended_payment_plan,Yes,not kept
+C579,53,3891,0,0,weekly,7.0,7.0,False,False,1578,3795,22.24,14,weekly,100,279.85,4017.9,96,13,0,3616.11,7634.01,True,True,True,11,826,2776,1498,False,True,True,Extended_payment_plan,No,Partially kept
+C580,78,3409,0,0,biweekly,44.0,385.0,False,False,1579,1823,21.23,15,monthly,100,139.44,2191.6,46,1,13,174.28,553.16,True,False,True,8,361,7813,2785,True,False,True,Refinance,No,Partially kept
+C581,97,0,1758,2092,,,,False,False,1580,2257,21.61,12,weekly,100,193.2,2418.4,52,7,5,755.25,2207.65,True,False,False,17,363,9500,0,True,True,False,Refinance,Yes,not kept
+C582,35,3981,0,0,weekly,135.0,150.0,False,False,1581,3451,23.61,24,monthly,100,181.79,4462.96,158,5,8,2707.78,5716.42,True,True,False,5,318,2126,0,True,False,False,Refinance,No,not kept
+C583,66,1764,0,0,biweekly,11.0,16.0,False,False,1582,2448,18.34,22,monthly,100,131.87,3001.14,356,11,8,1751.56,3697.74,True,True,True,16,752,164,37,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C584,44,0,1305,0,,,,False,False,1583,4358,25.93,21,biweekly,100,231.04,4951.84,216,15,6,3209.04,6774.64,True,True,True,7,677,7930,211,True,True,False,Refinance,No,Partially kept
+C585,53,2018,0,0,biweekly,11.0,324.0,False,False,1584,3801,19.71,20,weekly,100,197.7,4054.0,85,12,1,3277.86,7134.16,True,False,N/A,16,407,0,0,False,False,False,N/A,N/A,N/A
+C586,85,3238,0,0,monthly,59.0,98.0,False,False,1585,2342,12.8,16,weekly,100,149.46,2491.36,97,13,1,2107.71,4449.61,True,True,N/A,19,320,0,0,False,False,False,N/A,N/A,N/A
+C587,62,1970,0,0,monthly,3.0,482.0,False,False,1586,742,18.57,8,weekly,50,94.25,804.0,4,0,0,32.16,836.16,False,False,False,18,427,3322,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C588,35,1575,0,0,monthly,92.0,104.0,False,False,1587,1182,18.7,24,weekly,100,51.49,1335.76,168,24,0,1202.18,2537.94,True,True,True,0,763,9047,5858,True,False,False,Refinance,No,Partially kept
+C589,27,3320,0,4917,monthly,1.0,18.0,False,False,1588,4587,16.27,23,weekly,100,207.01,4861.23,112,16,6,3257.25,6876.42,True,True,False,18,839,3041,0,True,True,False,Refinance,No,not kept
+C590,18,2633,0,0,biweekly,0.0,0.0,False,False,1589,2760,27.05,24,weekly,100,122.63,3043.12,130,18,2,2518.07,5315.93,True,True,True,0,818,837,545,True,False,True,Refinance,No,Partially kept
+C591,53,1074,0,0,weekly,25.0,35.0,False,False,1590,948,25.08,10,monthly,50,106.04,1110.4,68,2,8,178.21,440.29,True,False,True,13,384,8049,2716,False,True,False,Extended_payment_plan,Yes,Partially kept
+C592,90,1260,0,0,biweekly,36.0,526.0,False,False,1591,4732,22.19,18,biweekly,100,284.72,5224.96,135,9,9,2396.23,5058.71,True,True,True,1,388,1760,1223,False,True,False,Extended_payment_plan,No,Partially kept
+C593,24,0,3927,0,,,,False,False,1592,936,17.39,12,weekly,50,79.71,1006.52,14,2,3,107.43,874.82,True,False,N/A,19,612,0,0,False,False,False,N/A,N/A,N/A
+C594,35,1491,0,0,weekly,80.0,83.0,False,False,1593,1770,17.28,17,biweekly,100,110.46,1977.82,196,14,1,1680.62,3547.98,True,True,True,11,796,3249,2609,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C595,51,2520,0,0,monthly,70.0,364.0,False,False,1594,714,23.1,6,monthly,50,127.14,812.84,59,1,4,179.53,483.81,True,False,True,16,554,5670,5275,True,False,False,Refinance,Yes,Partially kept
+C596,53,0,2627,0,,,,False,False,1595,1991,25.18,14,biweekly,100,152.76,2238.64,44,3,5,648.93,2123.77,True,False,N/A,17,700,0,0,False,False,False,N/A,N/A,N/A
+C597,19,2201,0,3500,weekly,3.0,8.0,False,False,1596,2648,23.61,16,monthly,100,194.52,3212.32,441,14,2,2540.95,5364.23,True,True,False,13,463,7134,0,True,False,False,Refinance,No,not kept
+C598,39,925,0,0,biweekly,16.0,68.0,False,False,1597,2384,10.07,21,weekly,100,115.96,2535.16,53,7,9,790.51,2282.03,True,False,N/A,2,340,0,0,False,False,False,N/A,N/A,N/A
+C599,25,1985,0,0,monthly,52.0,53.0,False,False,1598,2196,16.87,21,biweekly,100,112.2,2456.2,288,20,0,2210.58,4666.78,True,True,N/A,15,422,0,0,False,False,False,N/A,N/A,N/A
+C600,48,0,4588,3825,,,,False,False,1599,4939,22.11,15,monthly,100,379.87,5798.05,2,0,2,100.77,5139.08,False,False,False,4,777,4785,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C601,92,3146,0,2082,weekly,57.0,742.0,False,False,1600,707,26.28,24,weekly,50,31.36,802.64,168,24,0,722.38,1525.02,True,True,False,4,747,4928,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C602,44,2736,0,3729,biweekly,24.0,106.0,False,False,1601,2266,17.31,17,monthly,100,151.26,2671.42,189,6,4,1859.74,3926.12,True,True,N/A,13,308,0,0,False,False,False,N/A,N/A,N/A
+C603,68,2721,0,4599,monthly,87.0,598.0,False,True,1602,4757,11.66,18,monthly,100,289.34,5308.12,342,11,4,3735.68,7886.44,True,True,False,10,802,47,0,True,False,False,Refinance,No,not kept
+C604,79,1628,0,2576,monthly,35.0,186.0,False,False,1603,3051,27.88,10,monthly,100,345.43,3554.3,126,4,4,1955.32,4127.9,True,True,False,18,585,1441,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C605,82,1091,0,0,weekly,78.0,493.0,False,False,1604,3452,19.88,7,weekly,100,500.71,3604.97,35,5,2,911.24,3514.79,True,False,False,5,442,607,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C606,77,0,4522,3648,,,,False,False,1605,3793,12.9,20,weekly,100,194.63,3992.6,125,17,2,3243.01,6846.35,True,True,False,17,386,7054,0,False,True,False,Extended_payment_plan,Yes,not kept
+C607,46,0,1040,2757,,,,False,False,1606,804,12.4,15,biweekly,50,55.67,885.05,141,10,5,546.03,1152.73,True,True,False,0,765,9825,0,False,True,False,Extended_payment_plan,No,not kept
+C608,24,0,4321,768,,,,False,False,1607,2656,12.25,25,weekly,100,109.52,2838.0,68,9,12,1036.16,2559.92,True,False,False,7,554,5740,0,True,False,False,Refinance,Yes,not kept
+C609,75,0,4691,0,,,,False,False,1608,585,18.98,9,biweekly,50,67.4,656.6,80,5,0,525.28,1181.88,True,False,True,11,698,1093,101,True,False,False,Refinance,Yes,Partially kept
+C610,68,585,0,2432,weekly,17.0,236.0,False,False,1609,1481,28.62,6,monthly,100,267.84,1707.04,20,0,3,180.7,1084.22,False,False,False,1,502,5416,0,True,False,False,Refinance,Yes,not kept
+C611,95,1993,0,3295,weekly,40.0,836.0,False,False,1610,2757,26.45,6,monthly,100,495.59,3073.54,46,1,3,729.91,2316.68,True,False,N/A,0,731,0,0,False,False,False,N/A,N/A,N/A
+C612,38,1487,0,0,weekly,68.0,79.0,False,False,1611,1939,25.43,8,weekly,100,247.74,2081.92,38,5,3,508.71,1847.41,True,False,True,19,719,9779,9641,True,True,False,Extended_payment_plan,No,Partially kept
+C613,45,4997,0,1225,weekly,9.0,53.0,False,False,1612,1658,22.3,12,biweekly,100,145.99,1851.88,164,11,0,1666.69,3518.57,True,True,N/A,11,624,0,0,False,False,False,N/A,N/A,N/A
+C614,25,733,0,0,biweekly,11.0,37.0,False,True,1613,1559,29.72,23,weekly,100,72.53,1768.19,111,15,6,1199.71,2532.72,True,True,False,13,428,7457,0,True,False,False,Refinance,Yes,not kept
+C615,54,782,0,0,weekly,53.0,418.0,False,False,1614,1451,17.95,20,biweekly,100,77.92,1658.4,226,16,4,1212.05,2558.77,True,True,True,19,549,6111,2716,True,False,False,Refinance,Yes,Partially kept
+C616,18,3381,0,0,biweekly,0.0,0.0,False,False,1615,2043,15.22,24,monthly,100,99.27,2482.48,382,12,1,2144.89,4528.1,True,True,N/A,13,839,0,0,False,False,False,N/A,N/A,N/A
+C617,58,3660,0,0,weekly,67.0,446.0,False,False,1616,553,15.99,11,weekly,50,51.21,613.31,5,0,1,28.1,590.2,False,False,False,13,495,1956,0,True,True,True,Extended_payment_plan,Yes,not kept
+C618,80,4004,0,0,weekly,113.0,120.0,False,False,1617,2574,28.83,21,biweekly,100,138.07,2999.47,69,4,3,1783.83,4369.09,True,False,True,1,724,4913,3184,False,True,True,Extended_payment_plan,No,Partially kept
+C619,77,708,0,0,weekly,47.0,184.0,False,False,1618,4951,28.38,17,weekly,100,305.75,5297.75,111,15,0,4767.98,10065.73,True,True,N/A,4,516,0,0,False,False,False,N/A,N/A,N/A
+C620,44,1455,0,4425,biweekly,24.0,198.0,False,False,1619,4687,26.6,13,weekly,100,373.58,4956.54,87,12,0,4312.19,9268.73,True,False,N/A,1,785,0,0,False,False,False,N/A,N/A,N/A
+C621,81,4056,0,0,weekly,72.0,270.0,False,False,1620,4683,14.85,15,biweekly,100,326.65,4999.75,23,1,13,173.26,926.56,True,False,True,15,451,6601,4353,True,True,False,Extended_payment_plan,No,Partially kept
+C622,79,3475,0,3959,weekly,85.0,89.0,False,False,1621,671,14.97,8,biweekly,50,86.06,738.48,84,6,0,620.32,1358.8,True,False,N/A,18,612,0,0,False,False,False,N/A,N/A,N/A
+C623,31,2011,0,0,biweekly,57.0,119.0,False,False,1622,117,16.89,7,monthly,50,17.67,173.69,206,6,0,156.32,330.01,True,True,N/A,4,411,0,0,False,False,False,N/A,N/A,N/A
+C624,46,4079,0,0,biweekly,16.0,311.0,False,False,1623,279,11.75,11,monthly,50,26.88,345.68,184,6,1,286.92,605.72,True,True,True,14,317,2424,620,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C625,95,4104,0,0,monthly,54.0,916.0,False,False,1624,3531,12.38,24,biweekly,100,156.04,3844.96,0,0,13,0.0,1816.44,False,False,True,17,766,8246,7457,True,False,False,Refinance,No,Partially kept
+C626,29,524,0,0,weekly,48.0,49.0,False,False,1625,1821,27.01,9,weekly,100,207.62,1968.58,20,2,0,393.72,2362.3,True,False,True,5,404,9090,426,True,False,False,Refinance,Yes,Partially kept
+C627,30,3953,0,0,weekly,42.0,73.0,False,False,1626,2505,27.24,12,weekly,100,215.93,2691.16,26,3,6,362.85,1758.43,True,False,N/A,14,449,0,0,False,False,False,N/A,N/A,N/A
+C628,67,2413,0,0,monthly,25.0,351.0,False,False,1627,2505,19.37,10,weekly,100,255.66,2656.6,55,7,2,1179.9,3325.18,True,False,False,15,682,8581,0,True,False,False,Refinance,No,not kept
+C629,35,4996,0,1649,biweekly,36.0,186.0,False,False,1628,2724,13.06,8,biweekly,100,348.24,2885.92,2,0,7,8.96,457.2,False,False,N/A,11,515,0,0,False,False,False,N/A,N/A,N/A
+C630,79,732,0,0,weekly,79.0,147.0,False,False,1629,3933,18.13,11,monthly,100,390.77,4398.47,276,9,2,3255.24,6872.17,True,True,False,5,450,8464,0,True,True,False,Refinance,No,not kept
+C631,66,0,4658,0,,,,False,False,1630,1773,10.08,15,biweekly,100,121.9,1928.5,148,10,1,1625.94,3432.54,True,True,True,16,779,1498,1196,True,False,True,Refinance,Yes,Partially kept
+C632,75,0,2446,0,,,,False,False,1631,4322,21.92,22,monthly,100,240.33,5387.26,33,1,3,1539.87,6206.14,True,False,False,2,484,4810,0,True,True,True,Extended_payment_plan,No,not kept
+C633,97,0,1163,0,,,,False,False,1632,1389,18.39,22,weekly,100,65.74,1546.28,73,10,6,840.84,1992.68,True,False,False,0,773,9716,0,False,True,False,Extended_payment_plan,Yes,not kept
+C634,90,3306,0,2804,monthly,70.0,510.0,False,False,1633,2901,21.43,9,weekly,100,329.01,3061.09,12,1,6,130.44,1217.47,True,False,True,18,588,1843,1605,False,True,False,Extended_payment_plan,No,Partially kept
+C635,100,1539,0,0,weekly,14.0,184.0,False,False,1634,349,18.3,8,biweekly,50,45.02,410.16,107,7,0,369.14,779.3,True,True,True,0,567,6497,280,False,True,True,Extended_payment_plan,Yes,Partially kept
+C636,20,2940,0,0,monthly,4.0,7.0,False,False,1635,3087,25.01,6,monthly,100,552.68,3416.08,72,2,1,2061.65,4925.05,True,False,True,7,574,6408,1382,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C637,85,1808,0,0,monthly,42.0,60.0,False,False,1636,4391,24.83,14,biweekly,100,336.57,4811.98,182,13,1,4027.87,8503.28,True,True,False,11,529,9598,0,True,False,False,Refinance,Yes,not kept
+C638,48,0,3614,2186,,,,False,False,1637,1843,24.78,15,biweekly,100,132.44,2086.6,42,3,11,264.5,894.26,True,False,False,17,454,2311,0,True,True,False,Refinance,Yes,not kept
+C639,98,1965,0,0,monthly,48.0,867.0,False,False,1638,2738,28.61,8,monthly,100,379.98,3139.84,195,6,1,2483.87,5243.73,True,True,False,16,413,1160,0,False,True,False,Extended_payment_plan,No,not kept
+C640,51,3981,0,0,monthly,11.0,101.0,False,False,1639,815,22.34,11,biweekly,50,77.97,907.67,126,9,0,816.9,1724.57,True,True,True,8,698,6191,4576,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C641,43,1676,0,0,biweekly,91.0,156.0,False,False,1640,3732,21.98,15,weekly,100,257.3,3959.5,17,2,6,410.67,2826.37,True,False,True,4,757,2284,1921,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C642,63,1137,0,0,monthly,65.0,97.0,False,False,1641,3255,25.36,22,biweekly,100,165.11,3732.42,81,5,6,2220.83,4962.59,True,False,True,16,630,6066,1092,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C643,18,2837,0,0,biweekly,0.0,0.0,False,False,1642,1908,18.21,17,weekly,100,115.81,2068.77,28,4,13,157.71,720.95,True,False,False,2,625,4863,0,True,False,False,Refinance,Yes,not kept
+C644,22,1131,0,0,biweekly,36.0,47.0,False,False,1643,4190,21.0,22,biweekly,100,208.64,4690.08,27,1,6,928.32,4366.56,True,False,False,5,430,4211,0,True,True,False,Refinance,Yes,not kept
+C645,69,4448,0,0,monthly,26.0,272.0,False,False,1644,2131,27.03,23,biweekly,100,104.65,2506.95,6,0,15,56.23,993.43,False,False,False,19,323,6310,0,True,True,True,Settlement_plans_with_waive_off,No,not kept
+C646,60,3349,0,0,weekly,52.0,504.0,False,False,1645,4054,10.71,24,weekly,100,173.3,4259.2,52,7,4,1854.32,5420.32,True,False,False,4,847,3110,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C647,73,715,0,3899,biweekly,76.0,306.0,False,False,1646,4311,20.86,23,biweekly,100,206.01,4838.23,137,9,3,3798.18,8018.38,True,True,False,1,361,584,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C648,90,3808,0,3782,biweekly,110.0,331.0,False,False,1647,255,19.53,19,monthly,50,15.71,348.49,418,13,3,271.22,572.58,True,True,False,7,605,981,0,True,False,False,Refinance,Yes,not kept
+C649,32,1698,0,0,monthly,41.0,149.0,False,False,1648,3700,12.31,17,weekly,100,222.31,3879.27,23,3,12,278.66,1490.21,True,False,False,2,437,9129,0,True,False,False,Refinance,Yes,not kept
+C650,78,1945,0,0,biweekly,16.0,230.0,False,False,1649,4202,15.43,22,monthly,100,220.5,4951.0,609,20,0,4455.9,9406.9,True,True,True,8,312,1594,549,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C651,28,4426,0,3064,biweekly,4.0,28.0,False,False,1650,4801,15.69,16,weekly,100,307.82,5025.12,68,9,5,2370.49,5856.51,True,False,N/A,15,653,0,0,False,False,False,N/A,N/A,N/A
+C652,30,4247,0,0,weekly,124.0,132.0,False,False,1651,904,23.61,6,monthly,50,161.21,1017.26,90,3,1,770.44,1626.49,True,False,N/A,17,567,0,0,False,False,False,N/A,N/A,N/A
+C653,62,4251,0,0,weekly,26.0,247.0,False,False,1652,1013,19.26,16,biweekly,100,67.37,1177.92,52,3,2,542.45,1585.63,True,False,False,3,596,3723,0,True,False,False,Refinance,No,not kept
+C654,86,2166,0,0,weekly,8.0,705.0,False,False,1653,4892,13.54,22,monthly,100,252.35,5651.7,208,6,7,3496.72,7381.97,True,True,True,7,510,3469,1802,True,False,False,Refinance,Yes,Partially kept
+C655,54,1126,0,0,weekly,8.0,8.0,False,False,1654,1316,18.24,7,monthly,100,199.6,1497.2,32,1,6,95.87,395.47,True,False,N/A,16,392,0,0,False,False,False,N/A,N/A,N/A
+C656,57,1984,0,3601,weekly,47.0,162.0,False,False,1655,222,25.35,21,monthly,50,13.2,327.2,268,8,8,199.44,421.04,True,True,True,18,716,7283,2657,False,True,False,Extended_payment_plan,Yes,Partially kept
+C657,90,0,1863,0,,,,False,True,1656,4513,18.97,20,monthly,100,264.96,5399.2,595,19,0,4859.28,10258.48,True,True,False,15,751,6559,0,False,True,True,Extended_payment_plan,Yes,not kept
+C658,66,0,521,0,,,,False,False,1657,1890,26.5,14,monthly,100,158.42,2317.88,195,6,0,2086.09,4403.97,True,True,False,11,599,1384,0,True,True,True,Extended_payment_plan,Yes,not kept
+C659,65,4657,0,0,biweekly,38.0,55.0,False,False,1658,674,23.21,15,monthly,50,52.2,833.0,209,6,9,326.88,690.08,True,True,N/A,19,731,0,0,False,False,False,N/A,N/A,N/A
+C660,44,3707,0,321,weekly,27.0,111.0,False,False,1659,4820,23.81,14,biweekly,100,368.4,5257.6,23,1,0,1209.25,6466.85,True,False,N/A,6,367,0,0,False,False,False,N/A,N/A,N/A
+C661,42,2731,0,4963,weekly,46.0,81.0,False,False,1660,284,28.89,12,weekly,50,24.53,344.36,20,2,1,63.97,383.8,True,False,True,19,598,6540,6163,True,True,True,Extended_payment_plan,Yes,Partially kept
+C662,87,3477,0,4154,monthly,44.0,316.0,False,False,1661,4977,12.52,17,biweekly,100,305.62,5295.54,67,4,13,886.06,2208.54,True,False,N/A,14,613,0,0,False,False,False,N/A,N/A,N/A
+C663,43,0,4111,0,,,,False,False,1662,971,14.03,16,monthly,50,66.89,1120.24,320,10,6,647.01,1365.91,True,True,True,9,426,1044,466,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C664,50,2911,0,0,biweekly,88.0,313.0,False,False,1663,3801,27.29,19,weekly,100,210.72,4103.68,84,12,4,2739.07,5999.87,True,False,N/A,15,369,0,0,False,False,False,N/A,N/A,N/A
+C665,89,4036,0,0,weekly,33.0,609.0,True,True,1664,1352,22.03,10,monthly,100,149.22,1592.2,257,8,2,1164.38,2458.14,True,True,N/A,13,588,0,0,False,False,False,N/A,N/A,N/A
+C666,85,554,0,742,biweekly,71.0,497.0,False,False,1665,3187,13.32,17,biweekly,100,196.23,3435.91,202,14,3,2562.5,5409.72,True,True,True,0,590,1636,733,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C667,78,4187,0,0,weekly,50.0,595.0,False,False,1666,1075,15.66,17,monthly,100,70.92,1305.64,287,9,7,728.28,1537.48,True,True,True,12,699,1608,1,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C668,63,4832,0,0,biweekly,0.0,447.0,False,False,1667,1307,18.07,16,weekly,100,84.12,1445.92,10,1,0,144.59,1590.51,True,False,True,15,599,3074,2741,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C669,92,1671,0,0,biweekly,12.0,13.0,False,False,1668,4401,14.9,14,biweekly,100,328.04,4692.56,83,5,9,1444.37,3184.57,True,False,N/A,15,782,0,0,False,False,False,N/A,N/A,N/A
+C670,44,4386,0,0,biweekly,8.0,170.0,False,False,1669,311,28.49,25,monthly,50,16.64,466.0,220,7,1,404.42,853.78,True,True,N/A,1,490,0,0,False,False,False,N/A,N/A,N/A
+C671,73,3270,0,0,biweekly,45.0,560.0,False,False,1670,3821,24.42,14,weekly,100,282.64,4056.96,48,6,5,1269.0,3912.76,True,False,False,18,826,1318,0,False,True,False,Extended_payment_plan,No,not kept
+C672,100,4845,0,0,weekly,66.0,159.0,False,False,1671,2609,26.75,24,weekly,100,115.84,2880.16,112,16,5,2070.86,4371.82,True,True,N/A,0,670,0,0,False,False,False,N/A,N/A,N/A
+C673,55,976,0,0,weekly,1.0,3.0,False,False,1672,3619,24.54,23,monthly,100,198.82,4672.86,290,9,0,4205.57,8878.43,True,True,N/A,0,550,0,0,False,False,False,N/A,N/A,N/A
+C674,49,2784,0,0,weekly,86.0,272.0,False,False,1673,3537,12.04,8,biweekly,100,451.39,3711.12,102,7,0,3340.01,7051.13,True,True,False,7,442,7864,0,True,True,True,Refinance,No,not kept
+C675,73,3481,0,0,monthly,32.0,355.0,False,False,1674,3762,28.65,14,biweekly,100,291.45,4180.3,136,9,3,2975.36,6281.31,True,True,True,2,690,1916,339,True,True,True,Refinance,No,Partially kept
+C676,90,4819,0,0,biweekly,40.0,171.0,False,False,1675,4140,19.73,7,monthly,100,630.96,4516.72,174,5,2,2929.32,6184.12,True,True,False,0,663,2633,0,True,True,True,Extended_payment_plan,Yes,not kept
+C677,82,1363,0,0,biweekly,1.0,604.0,False,False,1676,3796,20.49,13,weekly,100,300.12,4001.56,72,10,3,2232.86,5334.06,True,False,N/A,15,795,0,0,False,False,False,N/A,N/A,N/A
+C678,89,2594,0,1539,weekly,57.0,778.0,False,True,1677,1452,28.73,7,biweekly,100,216.7,1616.9,87,6,1,1218.17,2618.37,True,False,True,15,782,1158,598,True,True,False,Extended_payment_plan,Yes,Partially kept
+C679,74,4851,0,2812,monthly,64.0,440.0,False,False,1678,1916,16.9,13,weekly,100,150.76,2059.88,35,5,1,668.19,2577.31,True,False,N/A,9,409,0,0,False,False,False,N/A,N/A,N/A
+C680,31,1805,0,0,weekly,26.0,41.0,False,False,1679,4387,23.93,17,monthly,100,306.81,5315.77,120,4,3,3955.81,8351.15,True,True,False,10,792,3270,0,True,False,True,Refinance,No,not kept
+C681,55,1357,0,0,monthly,78.0,161.0,False,False,1680,3789,28.69,11,weekly,100,355.96,4015.56,62,8,2,2048.26,5351.9,True,False,True,19,746,8804,8008,True,False,True,Refinance,Yes,Partially kept
+C682,90,845,0,0,weekly,41.0,830.0,False,False,1681,4177,14.25,10,weekly,100,424.02,4340.2,13,1,1,509.1,4425.28,True,False,N/A,13,789,0,0,False,False,False,N/A,N/A,N/A
+C683,52,0,3241,0,,,,False,False,1682,1888,23.92,19,monthly,100,120.35,2386.65,320,10,9,1173.15,2476.65,True,True,False,3,411,4930,0,False,True,False,Extended_payment_plan,No,not kept
+C684,88,2019,0,0,weekly,39.0,714.0,False,False,1683,2408,15.38,21,biweekly,100,122.27,2667.67,42,3,3,966.36,3267.22,True,False,True,6,597,6183,4049,True,False,False,Refinance,Yes,Partially kept
+C685,46,3539,0,0,biweekly,44.0,129.0,False,True,1684,2111,13.25,23,biweekly,100,97.5,2342.5,207,14,7,1494.0,3154.0,True,True,N/A,5,726,0,0,False,False,False,N/A,N/A,N/A
+C686,73,611,0,3782,weekly,78.0,596.0,False,False,1685,4735,25.53,6,monthly,100,848.96,5193.76,178,5,1,3910.32,8255.12,True,True,True,11,300,738,411,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C687,25,3748,0,0,biweekly,2.0,4.0,False,False,1686,577,22.27,17,biweekly,50,36.62,672.54,114,8,8,341.62,721.2,True,True,False,18,615,7401,0,True,False,True,Refinance,No,not kept
+C688,40,1200,0,0,biweekly,57.0,235.0,False,False,1687,909,19.04,10,biweekly,50,94.6,996.0,31,2,2,250.11,1056.91,True,False,N/A,3,428,0,0,False,False,False,N/A,N/A,N/A
+C689,69,2147,0,3126,weekly,58.0,289.0,False,False,1688,441,18.8,6,biweekly,50,75.37,502.22,30,2,2,105.44,456.92,True,False,N/A,5,680,0,0,False,False,False,N/A,N/A,N/A
+C690,41,4181,0,0,weekly,75.0,138.0,False,False,1689,667,17.85,24,biweekly,50,30.24,775.76,81,5,18,187.47,418.91,True,False,False,15,450,3116,0,True,False,True,Refinance,No,not kept
+C691,90,4449,0,0,biweekly,35.0,435.0,False,False,1690,3923,11.04,14,monthly,100,299.93,4299.02,234,7,3,3059.31,6458.54,True,True,True,2,819,9045,3786,False,True,True,Extended_payment_plan,Yes,Partially kept
+C692,28,2083,0,0,biweekly,73.0,110.0,False,False,1691,2424,18.28,8,weekly,100,307.81,2562.48,25,3,2,486.72,2433.58,True,False,False,6,691,3808,0,False,True,True,Extended_payment_plan,No,not kept
+C693,20,0,4329,0,,,,False,False,1692,3334,12.4,14,biweekly,100,246.75,3554.5,117,8,1,2976.98,6284.73,True,True,False,17,565,7729,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C694,42,1236,0,0,biweekly,0.0,52.0,False,False,1693,3677,26.55,24,weekly,100,163.18,4016.32,94,13,7,2586.65,5460.71,True,True,True,5,753,9682,688,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C695,21,0,4881,0,,,,False,False,1694,4602,14.72,22,biweekly,100,223.07,5007.54,273,19,0,4506.79,9514.33,True,True,N/A,2,341,0,0,False,False,False,N/A,N/A,N/A
+C696,40,4222,0,0,weekly,8.0,28.0,False,False,1695,1153,26.39,25,monthly,100,60.45,1611.25,411,13,1,1395.72,2946.52,True,True,False,11,585,4032,0,True,False,False,Refinance,No,not kept
+C697,59,1790,0,0,biweekly,84.0,373.0,False,False,1696,2753,20.62,21,monthly,100,157.28,3402.88,455,15,0,3062.59,6465.47,True,True,N/A,3,401,0,0,False,False,False,N/A,N/A,N/A
+C698,38,4344,0,0,weekly,44.0,88.0,False,False,1697,4346,14.21,20,monthly,100,245.32,5006.4,429,14,0,4505.76,9512.16,True,True,True,6,513,6062,2749,False,True,False,Extended_payment_plan,No,Partially kept
+C699,18,0,3062,0,,,,False,False,1698,1148,24.55,11,monthly,100,117.61,1393.71,100,3,7,513.4,1083.84,True,True,N/A,11,348,0,0,False,False,False,N/A,N/A,N/A
+C700,97,2542,0,1860,weekly,61.0,440.0,False,False,1699,2979,18.85,12,biweekly,100,260.1,3221.2,77,5,6,1278.66,2939.26,True,False,N/A,3,711,0,0,False,False,False,N/A,N/A,N/A
+C701,35,1531,0,0,weekly,8.0,195.0,False,False,1700,228,16.3,10,weekly,50,23.19,281.9,45,6,3,95.55,307.88,True,False,False,9,600,2873,0,True,True,True,Extended_payment_plan,No,not kept
+C702,58,896,0,0,monthly,64.0,458.0,False,False,1701,297,24.26,13,monthly,50,26.21,390.73,1,0,13,0.5,50.5,False,False,False,9,532,3502,0,True,True,True,Extended_payment_plan,Yes,not kept
+C703,25,3705,0,4092,biweekly,39.0,63.0,False,False,1702,4198,15.34,17,monthly,100,276.31,4797.27,295,9,0,4317.54,9114.81,True,True,True,0,624,7732,7137,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C704,75,0,4432,0,,,,False,False,1703,4605,11.81,25,biweekly,100,195.27,4981.75,8,0,22,54.86,740.67,False,False,False,19,758,6813,0,True,False,False,Refinance,No,not kept
+C705,47,1570,0,0,weekly,43.0,306.0,False,False,1704,301,18.97,6,monthly,50,52.98,367.88,15,0,6,7.5,57.5,False,False,True,14,444,8086,6865,True,True,False,Extended_payment_plan,No,Partially kept
+C706,60,4003,0,3441,monthly,229.0,280.0,False,False,1705,3849,23.92,19,monthly,100,245.35,4761.65,495,16,1,4064.67,8580.97,True,True,False,8,307,4190,0,True,False,False,Refinance,Yes,not kept
+C707,81,0,3603,0,,,,False,True,1706,2216,13.96,25,monthly,100,102.66,2666.5,234,7,13,1198.73,2530.65,True,True,N/A,10,685,0,0,False,False,False,N/A,N/A,N/A
+C708,86,0,2352,0,,,,False,False,1707,443,10.73,6,weekly,50,74.37,496.22,19,2,4,37.76,236.5,True,False,N/A,10,708,0,0,False,False,False,N/A,N/A,N/A
+C709,68,2469,0,0,weekly,37.0,264.0,False,False,1708,3384,16.55,20,weekly,100,174.91,3598.2,11,1,11,184.16,1858.35,True,False,N/A,17,536,0,0,False,False,False,N/A,N/A,N/A
+C710,62,0,3642,0,,,,False,False,1709,636,19.47,6,monthly,50,112.1,722.6,95,3,1,549.45,1159.95,True,True,True,7,575,95,17,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C711,87,0,4591,2125,,,,False,False,1710,2226,18.92,25,biweekly,100,97.71,2542.75,199,14,6,1760.84,3717.33,True,True,N/A,16,474,0,0,False,False,False,N/A,N/A,N/A
+C712,99,0,4081,0,,,,False,False,1711,3319,26.96,16,biweekly,100,226.19,3719.04,165,11,1,3143.56,6636.41,True,True,False,19,469,5419,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C713,56,3853,0,0,weekly,81.0,192.0,False,False,1712,4510,17.38,6,monthly,100,790.23,4841.38,75,2,2,2445.69,5706.61,True,False,False,17,408,6487,0,True,True,True,Refinance,Yes,not kept
+C714,42,0,2521,0,,,,False,False,1713,4249,17.78,15,weekly,100,291.08,4466.2,87,12,1,3632.35,7807.47,True,False,N/A,14,818,0,0,False,False,False,N/A,N/A,N/A
+C715,62,4716,0,0,monthly,9.0,19.0,False,False,1714,4410,22.65,25,monthly,100,222.91,5672.75,121,4,20,1093.1,2307.65,True,True,True,18,607,8698,3729,True,False,False,Refinance,Yes,Partially kept
+C716,97,1352,0,0,biweekly,66.0,763.0,False,False,1715,913,12.49,8,biweekly,50,116.61,982.88,79,5,0,776.48,1759.36,True,False,N/A,2,520,0,0,False,False,False,N/A,N/A,N/A
+C717,92,4509,0,0,weekly,33.0,648.0,False,False,1716,3804,15.04,12,biweekly,100,329.05,4048.6,70,5,1,2603.68,6323.23,True,False,N/A,2,775,0,0,False,False,False,N/A,N/A,N/A
+C718,61,4020,0,0,monthly,4.0,269.0,False,False,1717,491,20.63,23,biweekly,50,23.44,589.12,158,11,6,403.63,852.11,True,True,True,7,332,2889,1106,True,False,False,Refinance,Yes,Partially kept
+C719,84,2644,0,0,monthly,85.0,501.0,False,False,1718,369,10.28,21,biweekly,50,18.35,435.35,5,0,12,10.76,225.91,False,False,True,0,315,5382,837,True,False,False,Refinance,Yes,Partially kept
+C720,68,2828,0,0,weekly,12.0,174.0,False,False,1719,1980,16.32,14,monthly,100,156.28,2287.92,202,6,3,1637.17,3456.25,True,True,False,15,749,7566,0,True,True,False,Extended_payment_plan,Yes,not kept
+C721,60,0,2246,4701,,,,False,False,1720,4969,27.55,16,monthly,100,374.6,6093.6,445,14,0,5484.24,11577.84,True,True,N/A,14,702,0,0,False,False,False,N/A,N/A,N/A
+C722,32,0,4200,4659,,,,False,False,1721,2329,28.48,22,monthly,100,137.12,3116.64,30,1,11,482.5,2090.82,False,False,True,8,809,6240,16,True,False,False,Refinance,No,Partially kept
+C723,68,0,4746,846,,,,False,False,1722,3587,26.8,18,monthly,100,244.2,4495.6,220,7,7,2507.58,5293.78,True,True,False,14,684,924,0,False,True,False,Extended_payment_plan,No,not kept
+C724,38,1851,0,0,monthly,83.0,84.0,False,False,1723,3747,20.93,7,monthly,100,573.28,4112.96,40,1,5,498.62,1745.18,True,False,N/A,6,490,0,0,False,False,False,N/A,N/A,N/A
+C725,59,2687,0,0,biweekly,108.0,377.0,False,False,1724,1843,19.42,24,monthly,100,93.28,2338.72,285,9,9,1349.28,2848.48,True,True,True,8,423,9727,1951,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C726,95,2733,0,4635,monthly,44.0,556.0,False,False,1725,2232,25.32,13,biweekly,100,183.62,2487.06,178,12,1,2073.1,4376.54,True,True,N/A,6,629,0,0,False,False,False,N/A,N/A,N/A
+C727,100,1848,0,0,monthly,49.0,185.0,False,False,1726,2374,16.1,13,biweekly,100,190.63,2578.19,173,12,1,2148.8,4536.36,True,True,False,6,582,7435,0,True,False,False,Refinance,Yes,not kept
+C728,41,3495,0,0,weekly,34.0,120.0,False,False,1727,1742,20.7,14,weekly,100,128.18,1894.52,82,11,2,1343.29,2981.45,True,False,True,10,828,3349,404,True,False,True,Refinance,Yes,Partially kept
+C729,27,2084,0,515,biweekly,17.0,26.0,False,False,1728,269,24.62,23,biweekly,50,13.07,350.61,27,1,13,48.79,229.49,True,False,N/A,8,448,0,0,False,False,False,N/A,N/A,N/A
+C730,57,789,0,0,monthly,18.0,51.0,False,False,1729,277,23.66,17,weekly,50,16.97,338.49,96,13,1,289.37,610.89,True,True,False,4,417,5850,0,True,False,True,Refinance,Yes,not kept
+C731,63,4248,0,4553,weekly,2.0,297.0,False,False,1730,4712,14.86,19,biweekly,100,262.42,5085.98,29,2,2,1322.73,5883.87,True,False,True,13,456,7465,7416,False,True,True,Extended_payment_plan,No,Partially kept
+C732,60,2683,0,0,biweekly,14.0,21.0,False,False,1731,1036,11.83,20,biweekly,100,54.31,1186.2,185,13,3,920.94,1944.21,True,True,False,14,518,1195,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C733,88,0,3293,1489,,,,False,False,1732,2889,13.02,17,weekly,100,173.8,3054.6,63,9,3,1595.92,4129.12,True,False,N/A,11,596,0,0,False,False,False,N/A,N/A,N/A
+C734,28,0,2644,0,,,,False,False,1733,521,27.99,23,monthly,50,29.53,729.19,189,6,6,496.81,1048.82,True,True,True,5,325,792,571,True,False,False,Refinance,No,Partially kept
+C735,19,2266,0,0,monthly,8.0,11.0,False,False,1734,1229,23.94,22,biweekly,100,61.97,1463.34,209,14,8,870.82,1838.4,True,True,N/A,8,633,0,0,False,False,False,N/A,N/A,N/A
+C736,53,2905,0,2076,weekly,9.0,34.0,False,False,1735,2478,17.83,15,weekly,100,169.77,2646.55,44,6,5,790.99,2588.69,True,False,N/A,17,842,0,0,False,False,False,N/A,N/A,N/A
+C737,52,3971,0,0,weekly,27.0,218.0,False,False,1736,1850,16.59,6,biweekly,100,315.26,1991.56,11,0,2,149.71,1510.75,False,False,False,15,332,2515,0,False,True,False,Extended_payment_plan,Yes,not kept
+C738,59,2644,0,0,monthly,45.0,440.0,False,False,1737,1493,22.23,16,monthly,100,108.68,1838.88,379,12,2,1459.37,3080.89,True,True,N/A,10,543,0,0,False,False,False,N/A,N/A,N/A
+C739,95,2788,0,1104,biweekly,90.0,875.0,False,False,1738,1865,20.7,23,biweekly,100,89.06,2148.38,24,1,9,323.24,1670.08,True,False,True,14,420,4263,4223,True,True,True,Extended_payment_plan,Yes,Partially kept
+C740,23,3403,0,0,biweekly,41.0,55.0,False,False,1739,2854,19.58,12,biweekly,100,249.64,3095.68,122,8,0,2786.11,5881.79,True,True,False,11,304,6998,0,True,False,False,Refinance,No,not kept
+C741,75,2585,0,3271,monthly,29.0,39.0,False,False,1740,3369,15.31,9,monthly,100,398.62,3687.58,264,8,1,2960.06,6249.02,True,True,N/A,4,792,0,0,False,False,False,N/A,N/A,N/A
+C742,27,0,3121,0,,,,False,False,1741,3232,28.13,12,biweekly,100,288.65,3563.8,20,1,2,597.3,3583.8,True,False,N/A,17,783,0,0,False,False,False,N/A,N/A,N/A
+C743,32,1059,0,0,monthly,19.0,56.0,False,False,1742,339,16.25,25,monthly,50,16.08,452.0,726,24,0,406.8,858.8,True,True,N/A,0,659,0,0,False,False,False,N/A,N/A,N/A
+C744,43,1897,0,2609,weekly,119.0,128.0,False,False,1743,4741,26.84,6,monthly,100,853.16,5218.96,108,3,3,2393.53,5053.01,True,True,False,2,538,4274,0,True,True,False,Refinance,Yes,not kept
+C745,49,4797,0,378,biweekly,11.0,306.0,False,False,1744,1477,13.76,19,biweekly,100,81.92,1656.48,160,11,6,1048.46,2213.42,True,True,N/A,0,779,0,0,False,False,False,N/A,N/A,N/A
+C746,80,4875,0,0,weekly,76.0,629.0,False,False,1745,4990,27.81,17,biweekly,100,322.59,5584.03,86,6,2,4247.41,9186.26,True,False,N/A,12,400,0,0,False,False,False,N/A,N/A,N/A
+C747,50,0,3934,0,,,,False,False,1746,2001,20.01,25,weekly,100,84.11,2202.75,131,18,2,1831.08,3865.61,True,True,False,18,508,2811,0,True,False,False,Refinance,No,not kept
+C748,57,3681,0,2613,monthly,0.0,39.0,False,False,1747,4543,29.71,8,biweekly,100,597.46,4879.68,4,0,0,195.19,5074.87,False,False,True,17,661,2707,297,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C749,34,4065,0,0,biweekly,48.0,163.0,False,False,1748,4118,15.41,19,monthly,100,245.63,4766.97,339,11,8,2521.74,5323.67,True,True,False,7,784,3780,0,False,True,False,Extended_payment_plan,Yes,not kept
+C750,37,3814,0,0,weekly,23.0,110.0,False,False,1749,4341,11.27,21,monthly,100,228.73,4903.33,243,8,1,4207.14,8881.74,True,True,False,1,328,8951,0,False,True,True,Extended_payment_plan,Yes,not kept
+C751,68,1415,0,1134,biweekly,16.0,90.0,False,False,1750,3978,26.7,6,weekly,100,674.97,4149.82,38,5,1,1320.44,4795.29,True,False,True,8,665,1664,1299,True,True,False,Refinance,Yes,Partially kept
+C752,37,4905,0,0,weekly,73.0,101.0,False,False,1751,831,17.82,15,weekly,50,56.93,903.95,44,6,4,297.54,973.77,True,False,N/A,5,315,0,0,False,False,False,N/A,N/A,N/A
+C753,56,2821,0,3657,monthly,35.0,155.0,False,True,1752,4591,23.99,25,weekly,100,194.86,4971.5,167,23,0,4474.35,9445.85,True,True,False,10,453,4694,0,True,False,False,Refinance,No,not kept
+C754,37,0,4517,1194,,,,False,False,1753,1396,26.92,11,weekly,100,130.89,1539.79,64,9,1,901.7,2310.6,True,False,False,7,507,8041,0,True,True,False,Extended_payment_plan,Yes,not kept
+C755,72,4322,0,0,biweekly,78.0,197.0,False,False,1754,2729,17.19,17,monthly,100,182.01,3194.17,338,11,4,2219.52,4685.65,True,True,N/A,0,775,0,0,False,False,False,N/A,N/A,N/A
+C756,51,2335,0,0,biweekly,1.0,224.0,False,False,1755,3412,26.29,8,biweekly,100,446.13,3669.04,44,3,3,1025.49,3356.14,True,False,False,19,749,4733,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C757,89,2957,0,4065,weekly,79.0,702.0,False,False,1756,3015,13.77,21,monthly,100,162.38,3509.98,468,15,0,3158.98,6668.96,True,True,True,14,472,7475,6306,True,False,True,Refinance,No,Partially kept
+C758,27,3714,0,0,monthly,45.0,96.0,False,False,1757,4722,26.96,13,monthly,100,422.89,5597.57,301,10,2,4276.61,9028.4,True,True,True,19,727,5567,344,True,True,False,Extended_payment_plan,Yes,Partially kept
+C759,48,2930,0,3198,monthly,84.0,228.0,False,False,1758,3863,10.03,22,weekly,100,179.51,4049.22,100,14,3,3159.62,6670.31,True,True,True,0,563,626,159,True,True,False,Extended_payment_plan,Yes,Partially kept
+C760,98,3436,0,0,biweekly,44.0,418.0,False,False,1759,4097,19.73,10,monthly,100,447.65,4576.5,53,1,8,527.51,1522.81,True,False,False,15,838,816,0,True,False,False,Refinance,No,not kept
+C761,37,1580,0,3054,monthly,79.0,228.0,False,False,1760,1318,28.17,18,monthly,100,90.62,1731.16,420,14,0,1558.04,3289.2,True,True,True,14,336,4294,1991,True,False,False,Refinance,Yes,Partially kept
+C762,24,3942,0,0,monthly,37.0,59.0,False,False,1761,2785,24.36,9,weekly,100,316.74,2950.66,8,1,7,58.68,792.16,True,False,False,18,786,1429,0,True,False,False,Refinance,Yes,not kept
+C763,59,1416,0,1262,weekly,21.0,471.0,False,False,1762,4711,10.11,8,monthly,100,611.42,4991.36,89,2,6,1177.33,2500.17,True,False,True,2,715,3482,2036,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C764,66,1916,0,0,biweekly,47.0,212.0,False,False,1763,2817,25.72,24,biweekly,100,132.44,3278.56,122,8,13,1401.16,2958.0,True,True,False,18,501,848,0,True,False,False,Refinance,Yes,not kept
+C765,95,1499,0,227,biweekly,33.0,84.0,False,False,1764,1741,21.76,24,weekly,100,76.4,1933.6,71,10,1,1318.61,3175.81,True,False,N/A,18,637,0,0,False,False,False,N/A,N/A,N/A
+C766,40,2031,0,0,biweekly,14.0,50.0,False,False,1765,4717,20.47,10,biweekly,100,492.37,5023.7,80,5,4,2443.38,5497.6,True,False,False,3,670,4191,0,True,True,False,Refinance,No,not kept
+C767,51,2084,0,0,biweekly,72.0,181.0,False,False,1766,4713,19.93,14,weekly,100,346.4,4949.6,19,2,12,150.63,943.43,True,False,False,17,733,3187,0,True,False,False,Refinance,Yes,not kept
+C768,22,0,2655,4166,,,,False,False,1767,1291,15.28,17,weekly,100,77.97,1425.49,47,6,0,669.98,2095.47,True,False,True,3,487,1812,687,True,False,False,Refinance,Yes,Partially kept
+C769,18,0,2625,4112,,,,False,False,1768,4783,15.27,8,weekly,100,605.8,4946.4,24,3,4,605.57,3128.77,True,False,True,14,666,8508,7762,False,True,False,Extended_payment_plan,No,Partially kept
+C770,41,4350,0,0,monthly,65.0,235.0,False,False,1769,4696,27.05,18,biweekly,100,287.43,5273.74,231,16,0,4746.37,10020.11,True,True,N/A,14,660,0,0,False,False,False,N/A,N/A,N/A
+C771,25,2557,0,0,biweekly,33.0,35.0,False,False,1770,1173,28.68,13,biweekly,100,97.35,1365.55,55,3,9,269.17,758.57,True,False,N/A,10,822,0,0,False,False,False,N/A,N/A,N/A
+C772,61,4574,0,0,biweekly,71.0,318.0,False,False,1771,1472,20.73,20,biweekly,100,79.92,1698.4,72,5,3,1050.22,2508.86,True,False,True,12,327,1751,1104,False,True,True,Extended_payment_plan,Yes,Partially kept
+C773,47,2994,0,0,biweekly,5.0,10.0,False,False,1772,1621,29.31,19,monthly,100,107.66,2145.54,97,3,4,1543.41,3258.31,True,True,N/A,7,507,0,0,False,False,False,N/A,N/A,N/A
+C774,63,2829,0,0,weekly,89.0,408.0,False,False,1773,1924,28.1,17,weekly,100,118.76,2118.92,28,4,10,260.77,1192.09,True,False,N/A,5,541,0,0,False,False,False,N/A,N/A,N/A
+C775,31,806,0,0,weekly,17.0,106.0,False,False,1774,3932,22.22,18,weekly,100,227.42,4193.56,86,12,3,3019.72,6531.02,True,False,False,9,585,4507,0,False,True,True,Extended_payment_plan,No,not kept
+C776,49,1195,0,0,weekly,60.0,309.0,False,False,1775,2749,16.07,11,biweekly,100,259.27,2951.97,87,6,0,2568.21,5520.18,True,False,N/A,13,698,0,0,False,False,False,N/A,N/A,N/A
+C777,71,4659,0,0,biweekly,2.0,5.0,False,False,1776,1785,27.28,14,monthly,100,150.3,2204.2,26,0,9,221.39,1072.89,False,False,N/A,2,397,0,0,False,False,False,N/A,N/A,N/A
+C778,91,2656,0,0,biweekly,63.0,395.0,False,False,1777,3639,15.12,16,weekly,100,233.1,3829.6,58,8,0,2221.17,6050.77,True,False,N/A,17,370,0,0,False,False,False,N/A,N/A,N/A
+C779,70,4517,0,0,biweekly,311.0,428.0,False,False,1778,3937,15.99,13,biweekly,100,316.04,4208.52,150,10,0,3787.67,7996.19,True,True,True,1,546,2390,1461,True,True,True,Extended_payment_plan,Yes,Partially kept
+C780,74,3448,0,0,biweekly,10.0,553.0,False,False,1779,4546,13.18,14,biweekly,100,337.19,4820.66,76,5,1,3407.44,7890.91,True,False,False,11,616,9088,0,True,True,True,Refinance,Yes,not kept
+C781,66,3198,0,4372,biweekly,32.0,301.0,False,False,1780,748,11.97,15,biweekly,50,51.72,825.8,199,14,0,743.22,1569.02,True,True,N/A,6,490,0,0,False,False,False,N/A,N/A,N/A
+C782,43,0,4622,0,,,,False,False,1781,3455,26.04,9,monthly,100,426.73,3940.57,250,8,0,3546.51,7487.08,True,True,N/A,15,840,0,0,False,False,False,N/A,N/A,N/A
+C783,28,1896,0,0,monthly,62.0,85.0,False,False,1782,4709,17.54,25,monthly,100,226.22,5755.5,430,14,11,2940.37,6207.45,True,True,True,1,562,8664,7797,False,True,False,Extended_payment_plan,Yes,Partially kept
+C784,42,0,782,1819,,,,False,False,1783,4349,29.52,24,monthly,100,242.09,5910.16,86,2,8,3417.16,7390.6,True,False,N/A,14,551,0,0,False,False,False,N/A,N/A,N/A
+C785,77,3467,0,0,monthly,71.0,662.0,False,False,1784,807,11.1,14,biweekly,50,59.51,883.14,142,10,4,580.59,1225.69,True,True,True,6,595,816,179,False,True,False,Extended_payment_plan,No,Partially kept
+C786,62,1696,0,0,weekly,23.0,207.0,False,False,1785,2551,23.49,16,biweekly,100,171.96,2851.36,38,2,4,822.14,2985.66,True,False,N/A,4,432,0,0,False,False,False,N/A,N/A,N/A
+C787,58,0,4247,0,,,,False,False,1786,946,12.15,19,weekly,50,50.96,1018.24,87,12,5,664.19,1427.63,True,False,False,16,543,4818,0,True,True,True,Settlement_plans_with_waive_off,No,not kept
+C788,20,0,2042,1192,,,,False,True,1787,3495,17.09,7,weekly,100,505.87,3641.09,36,5,0,1310.79,4951.88,True,False,N/A,14,830,0,0,False,False,False,N/A,N/A,N/A
+C789,22,0,2767,0,,,,False,False,1788,1736,25.36,8,weekly,100,221.79,1874.32,28,4,2,400.61,1831.35,True,False,False,3,336,8249,0,True,False,False,Refinance,No,not kept
+C790,18,3003,0,0,biweekly,0.0,0.0,False,False,1789,4101,21.6,16,biweekly,100,274.79,4496.64,50,3,6,1423.95,4271.85,True,False,False,19,547,2688,0,True,False,True,Settlement_plans_with_waive_off,No,not kept
+C791,58,4502,0,0,monthly,57.0,480.0,False,False,1790,2871,27.6,23,biweekly,100,141.34,3350.82,204,14,0,3015.74,6366.56,True,True,True,9,727,7600,6245,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C792,41,3150,0,2881,weekly,47.0,135.0,False,False,1791,2127,10.22,10,biweekly,100,217.33,2273.3,46,3,6,445.89,1415.21,True,False,N/A,8,717,0,0,False,False,False,N/A,N/A,N/A
+C793,87,2906,0,0,weekly,110.0,141.0,False,False,1792,4328,12.56,24,biweekly,100,191.42,4694.08,313,22,2,3880.12,8191.36,True,True,False,14,533,7967,0,True,False,False,Refinance,No,not kept
+C794,62,4031,0,0,monthly,22.0,485.0,False,False,1793,4602,15.67,16,weekly,100,295.05,4820.8,104,14,0,4338.72,9159.52,True,True,True,3,806,1492,790,True,False,False,Refinance,Yes,Partially kept
+C795,36,4708,0,4289,monthly,2.0,33.0,False,False,1794,1886,19.92,11,monthly,100,189.0,2179.0,106,3,5,1110.6,2344.6,True,True,N/A,12,633,0,0,False,False,False,N/A,N/A,N/A
+C796,54,1772,0,0,weekly,0.0,170.0,False,False,1795,4857,28.66,6,monthly,100,878.5,5371.0,49,1,5,479.46,1457.96,True,False,N/A,13,399,0,0,False,False,False,N/A,N/A,N/A
+C797,53,506,0,1600,monthly,39.0,40.0,False,False,1796,534,18.01,21,weekly,50,26.41,604.61,51,7,3,267.94,793.32,True,False,False,19,770,6621,0,False,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C798,80,2373,0,0,monthly,23.0,356.0,False,False,1797,4983,29.71,22,monthly,100,296.48,6622.56,292,9,0,5960.3,12582.86,True,True,N/A,16,316,0,0,False,False,False,N/A,N/A,N/A
+C799,32,869,0,0,monthly,58.0,84.0,False,False,1798,3583,12.56,11,weekly,100,330.47,3735.17,0,0,10,0.0,430.47,False,False,N/A,13,418,0,0,False,False,False,N/A,N/A,N/A
+C800,18,0,3509,2938,,,,False,False,1799,677,23.54,13,biweekly,50,55.44,770.72,182,13,0,693.65,1464.37,True,True,True,7,760,7208,5625,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C801,57,3037,0,0,monthly,17.0,106.0,False,False,1800,1893,29.56,23,monthly,100,108.79,2602.17,55,1,10,832.85,2347.12,True,False,N/A,4,715,0,0,False,False,False,N/A,N/A,N/A
+C802,93,3406,0,0,weekly,28.0,200.0,False,False,1801,3733,28.94,23,monthly,100,213.36,5007.28,14,0,15,252.96,2059.84,False,False,N/A,14,421,0,0,False,False,False,N/A,N/A,N/A
+C803,46,2381,0,790,biweekly,65.0,262.0,False,False,1802,626,22.9,18,weekly,50,36.25,702.5,27,3,8,111.38,523.88,True,False,True,7,795,7117,1311,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C804,29,1754,0,0,monthly,1.0,31.0,False,False,1803,2867,28.98,24,weekly,100,127.96,3171.04,22,3,8,472.42,2619.78,True,False,False,6,576,610,0,True,False,True,Refinance,Yes,not kept
+C805,48,1428,0,0,weekly,11.0,226.0,False,False,1804,4738,27.55,15,weekly,100,329.42,5041.3,25,3,10,436.78,2183.88,True,False,True,5,846,4849,3808,True,True,True,Extended_payment_plan,No,Partially kept
+C806,62,4105,0,762,weekly,48.0,309.0,False,False,1805,2372,19.96,13,weekly,100,187.4,2536.2,89,12,0,2257.22,4793.42,True,False,False,5,496,7745,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C807,87,2590,0,0,biweekly,15.0,573.0,False,False,1806,4747,26.75,17,biweekly,100,305.8,5298.6,64,4,0,3391.1,8689.7,True,False,False,5,303,9783,0,True,True,False,Refinance,Yes,not kept
+C808,30,2319,0,0,weekly,5.0,129.0,False,False,1807,3399,13.31,6,weekly,100,571.59,3529.54,32,4,0,1129.45,4658.99,True,False,True,9,529,7706,7649,True,True,True,Refinance,Yes,Partially kept
+C809,93,3185,0,0,biweekly,72.0,805.0,False,False,1808,3087,24.5,10,biweekly,100,324.92,3349.2,32,2,7,343.92,1418.68,True,False,N/A,14,644,0,0,False,False,False,N/A,N/A,N/A
+C810,96,3244,0,0,weekly,19.0,925.0,False,False,1809,1208,25.22,21,monthly,100,71.74,1606.54,598,19,1,1381.32,2916.12,True,True,True,9,850,5642,303,True,True,True,Extended_payment_plan,No,Partially kept
+C811,45,4571,0,4102,monthly,56.0,178.0,False,False,1810,4961,10.68,8,monthly,100,645.22,5261.76,34,1,1,1569.62,6186.16,True,False,True,15,490,2422,832,True,True,False,Extended_payment_plan,No,Partially kept
+C812,90,944,0,0,weekly,11.0,697.0,False,False,1811,4759,19.64,15,weekly,100,326.94,5004.1,17,2,8,406.06,2794.64,True,False,N/A,10,593,0,0,False,False,False,N/A,N/A,N/A
+C813,60,630,0,0,biweekly,10.0,41.0,False,False,1812,1903,14.22,23,monthly,100,95.01,2285.23,169,5,1,1971.2,4161.42,True,True,False,8,765,3812,0,True,True,True,Refinance,No,not kept
+C814,25,2574,0,0,weekly,3.0,38.0,False,False,1813,287,17.67,18,weekly,50,16.46,346.28,98,14,2,282.02,595.38,True,True,True,18,478,773,53,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C815,59,4835,0,0,biweekly,120.0,247.0,False,False,1814,1388,26.62,15,monthly,100,109.79,1746.85,348,11,2,1374.54,2901.81,True,True,False,6,385,2927,0,True,False,True,Refinance,Yes,not kept
+C816,73,3143,0,0,biweekly,18.0,553.0,False,False,1815,1321,20.58,18,biweekly,100,79.03,1522.54,1,0,12,5.74,579.92,False,False,N/A,2,449,0,0,False,False,False,N/A,N/A,N/A
+C817,98,4784,0,0,biweekly,51.0,242.0,False,False,1816,4484,19.99,9,weekly,100,507.85,4670.65,48,6,1,1998.14,6160.94,True,False,N/A,17,429,0,0,False,False,False,N/A,N/A,N/A
+C818,36,0,799,3476,,,,False,False,1817,1773,24.91,20,weekly,100,93.18,1963.6,107,15,2,1599.52,3376.76,True,True,False,9,699,7176,0,True,True,True,Refinance,No,not kept
+C819,79,2688,0,0,biweekly,59.0,233.0,False,False,1818,1682,15.73,15,monthly,100,124.25,1963.75,256,8,7,984.6,2078.6,True,True,True,16,650,9800,2176,True,False,False,Refinance,Yes,Partially kept
+C820,93,0,1164,570,,,,False,False,1819,1010,28.47,19,biweekly,100,59.17,1224.23,175,12,4,888.8,1876.35,True,True,N/A,12,845,0,0,False,False,False,N/A,N/A,N/A
+C821,91,2880,0,0,monthly,67.0,745.0,False,False,1820,3346,10.42,20,weekly,100,170.84,3516.8,43,6,1,1438.76,4784.72,True,False,N/A,19,398,0,0,False,False,False,N/A,N/A,N/A
+C822,75,4484,0,0,biweekly,85.0,358.0,False,False,1821,2628,25.3,25,weekly,100,111.9,2897.5,34,4,7,718.83,2833.03,True,False,False,10,584,4393,0,True,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C823,67,0,2584,0,,,,False,False,1822,2897,22.58,25,biweekly,100,129.42,3335.5,222,15,0,3001.95,6337.45,True,True,N/A,3,353,0,0,False,False,False,N/A,N/A,N/A
+C824,73,917,0,0,weekly,78.0,166.0,False,True,1823,1362,11.81,9,biweekly,100,154.79,1493.11,19,1,1,254.28,1592.6,True,False,True,17,600,1409,882,True,False,True,Refinance,Yes,Partially kept
+C825,41,4668,0,0,weekly,201.0,209.0,False,False,1824,212,29.64,8,weekly,50,27.18,267.44,40,5,0,106.98,374.42,True,False,False,16,494,8120,0,True,False,True,Settlement_plans_with_waive_off,No,not kept
+C826,85,4269,0,3322,biweekly,38.0,737.0,False,False,1825,107,25.75,19,weekly,50,5.91,162.29,48,6,5,63.72,196.46,True,False,False,9,662,8190,0,False,True,False,Extended_payment_plan,Yes,not kept
+C827,99,3693,0,0,monthly,37.0,68.0,False,False,1826,2888,22.14,10,biweekly,100,302.5,3125.0,133,9,0,2812.5,5937.5,True,True,False,5,347,3071,0,True,True,False,Extended_payment_plan,Yes,not kept
+C828,37,3746,0,0,weekly,34.0,130.0,False,False,1827,4260,10.99,13,monthly,100,349.08,4638.04,71,2,11,566.69,1364.85,True,False,True,17,399,4907,2977,False,True,True,Extended_payment_plan,Yes,Partially kept
+C829,66,3973,0,0,weekly,82.0,477.0,False,False,1828,2736,14.3,6,weekly,100,460.4,2862.4,31,4,2,601.9,2543.5,True,False,N/A,13,482,0,0,False,False,False,N/A,N/A,N/A
+C830,22,4553,0,0,monthly,21.0,24.0,False,False,1829,4233,20.63,21,biweekly,100,219.63,4712.23,78,5,2,3332.92,7605.89,True,False,True,17,512,5350,801,True,False,False,Refinance,No,Partially kept
+C831,98,0,763,320,,,,False,False,1830,4944,12.91,13,biweekly,100,393.66,5217.58,81,5,7,1994.19,4456.15,True,False,True,18,643,9326,2072,True,True,False,Refinance,Yes,Partially kept
+C832,68,2295,0,0,weekly,88.0,252.0,False,False,1831,1421,12.85,9,monthly,100,166.46,1598.14,210,7,0,1438.33,3036.47,True,True,N/A,19,790,0,0,False,False,False,N/A,N/A,N/A
+C833,55,0,3610,4833,,,,False,False,1832,1720,24.92,14,biweekly,100,131.87,1946.18,143,10,4,1276.83,2695.53,True,True,True,14,320,5150,369,False,True,False,Extended_payment_plan,No,Partially kept
+C834,71,4927,0,0,weekly,379.0,442.0,False,False,1833,744,22.77,12,weekly,50,63.78,815.36,63,9,0,513.68,1329.04,True,False,True,6,745,5122,2887,True,True,False,Refinance,Yes,Partially kept
+C835,30,3672,0,3883,weekly,3.0,125.0,False,False,1834,1636,25.78,25,biweekly,100,74.21,1955.25,156,11,13,891.47,1881.99,True,True,N/A,16,563,0,0,False,False,False,N/A,N/A,N/A
+C836,51,1641,0,0,biweekly,18.0,83.0,False,False,1835,2111,12.53,23,weekly,100,94.46,2272.58,25,3,10,332.0,1659.98,True,False,False,17,762,5054,0,True,False,False,Refinance,No,not kept
+C837,98,3510,0,2855,weekly,39.0,820.0,False,False,1836,3369,11.46,9,biweekly,100,382.63,3543.67,28,2,1,885.09,4046.13,True,False,N/A,17,360,0,0,False,False,False,N/A,N/A,N/A
+C838,23,2753,0,0,monthly,5.0,18.0,False,False,1837,2145,10.98,14,monthly,100,163.94,2395.16,67,2,4,1165.4,2904.8,True,False,True,7,734,4526,1800,True,False,False,Refinance,Yes,Partially kept
+C839,88,846,0,0,biweekly,7.0,629.0,False,False,1838,1568,20.74,7,weekly,100,227.59,1693.13,9,1,0,152.38,1845.51,True,False,N/A,6,803,0,0,False,False,False,N/A,N/A,N/A
+C840,33,1932,0,0,biweekly,7.0,36.0,False,False,1839,1273,17.04,9,biweekly,100,146.12,1415.08,60,4,2,673.7,1796.54,True,False,True,18,792,1354,8,True,False,True,Refinance,No,Partially kept
+C841,22,1107,0,0,monthly,10.0,30.0,False,False,1840,2477,22.02,21,weekly,100,123.52,2693.92,29,4,0,781.24,3475.16,True,False,True,17,513,5777,5233,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C842,41,0,1340,1780,,,,False,False,1841,1025,17.72,11,monthly,100,101.64,1218.04,165,5,6,547.38,1155.58,True,True,False,16,358,4814,0,False,True,True,Extended_payment_plan,No,not kept
+C843,78,0,3414,0,,,,False,False,1842,2488,14.57,16,weekly,100,159.23,2647.68,35,5,8,480.84,1854.68,True,False,False,16,798,9708,0,True,False,False,Refinance,Yes,not kept
+C844,99,0,2437,492,,,,False,True,1843,4680,11.88,9,biweekly,100,531.95,4887.55,120,8,0,4398.8,9286.35,True,True,True,12,694,1347,1063,False,True,False,Extended_payment_plan,Yes,Partially kept
+C845,81,2253,0,4055,biweekly,21.0,691.0,False,False,1844,4479,19.76,10,monthly,100,489.46,4994.6,253,8,2,3614.11,7629.79,True,True,N/A,1,402,0,0,False,False,False,N/A,N/A,N/A
+C846,93,4472,0,0,monthly,39.0,765.0,False,False,1845,1947,20.85,11,weekly,100,181.29,2094.19,14,2,1,267.81,2180.71,True,False,N/A,11,476,0,0,False,False,False,N/A,N/A,N/A
+C847,98,2326,0,1233,monthly,79.0,212.0,False,False,1846,758,21.94,16,monthly,50,55.07,931.12,468,15,0,838.01,1769.13,True,True,False,9,656,2325,0,False,True,True,Extended_payment_plan,No,not kept
+C848,90,2040,0,0,weekly,28.0,388.0,False,False,1847,1482,16.76,10,biweekly,100,153.5,1635.0,7,0,5,60.73,928.23,False,False,N/A,12,303,0,0,False,False,False,N/A,N/A,N/A
+C849,80,0,3324,0,,,,False,False,1848,3330,19.52,24,weekly,100,145.35,3588.4,42,6,18,408.28,1380.38,True,False,N/A,18,610,0,0,False,False,False,N/A,N/A,N/A
+C850,30,3511,0,0,monthly,42.0,141.0,False,False,1849,2447,19.92,9,biweekly,100,282.41,2641.69,124,8,1,2123.35,4482.63,True,True,True,8,617,2724,2041,False,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C851,66,4759,0,0,monthly,2.0,77.0,False,True,1850,2179,11.51,17,weekly,100,130.74,2322.58,117,16,1,1972.66,4164.5,True,True,N/A,2,429,0,0,False,False,False,N/A,N/A,N/A
+C852,82,3965,0,4087,biweekly,55.0,490.0,False,False,1851,2369,17.41,21,weekly,100,117.01,2557.21,26,3,4,543.18,2632.35,True,False,N/A,7,358,0,0,False,False,False,N/A,N/A,N/A
+C853,72,4038,0,0,weekly,33.0,466.0,False,False,1852,3451,19.12,11,weekly,100,320.69,3627.59,34,4,2,1015.31,4001.52,True,False,True,9,453,9831,9794,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C854,79,1472,0,2344,biweekly,30.0,182.0,False,False,1853,3886,16.18,20,biweekly,100,207.25,4245.0,5,0,5,160.44,3369.19,False,False,N/A,8,401,0,0,False,False,False,N/A,N/A,N/A
+C855,44,3005,0,0,monthly,2.0,172.0,False,False,1854,4166,23.64,18,monthly,100,277.15,5088.7,183,6,9,2334.92,4929.27,True,True,N/A,2,438,0,0,False,False,False,N/A,N/A,N/A
+C856,98,2958,0,0,weekly,591.0,630.0,False,True,1855,1147,23.15,19,weekly,100,63.09,1298.71,124,17,0,1168.84,2467.55,True,True,N/A,19,324,0,0,False,False,False,N/A,N/A,N/A
+C857,89,2302,0,0,biweekly,60.0,560.0,False,False,1856,574,19.79,25,monthly,50,28.2,755.0,144,4,12,374.94,791.54,True,True,True,4,404,4431,3186,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C858,98,0,1684,0,,,,False,False,1857,3147,13.4,21,biweekly,100,158.5,3428.5,38,2,3,1122.14,4075.14,True,False,False,1,640,8942,0,True,True,False,Refinance,No,not kept
+C859,51,4725,0,0,biweekly,89.0,208.0,False,False,1858,2372,28.79,6,monthly,100,429.19,2675.14,50,1,3,693.78,2081.35,True,False,True,9,837,4373,2121,True,False,False,Refinance,No,Partially kept
+C860,29,4767,0,0,weekly,11.0,97.0,False,False,1859,355,16.3,10,weekly,50,36.11,411.1,63,9,1,236.24,611.23,True,False,False,19,781,5907,0,False,True,True,Settlement_plans_with_waive_off,No,not kept
+C861,40,3281,0,0,weekly,45.0,156.0,False,False,1860,3082,12.85,20,biweekly,100,162.22,3344.4,120,8,7,1987.97,4196.83,True,True,N/A,11,830,0,0,False,False,False,N/A,N/A,N/A
+C862,99,4716,0,0,weekly,13.0,442.0,False,False,1861,2816,22.35,24,monthly,100,146.58,3617.92,213,7,12,1673.06,3532.02,True,True,True,13,578,7921,5881,True,True,True,Refinance,Yes,Partially kept
+C863,33,564,0,0,weekly,38.0,97.0,False,False,1862,404,19.88,13,monthly,50,34.8,502.4,133,4,5,295.56,623.96,True,True,N/A,15,372,0,0,False,False,False,N/A,N/A,N/A
+C864,48,3145,0,3858,biweekly,71.0,204.0,False,False,1863,2966,14.89,18,monthly,100,184.88,3427.84,142,4,13,921.96,1946.36,True,True,False,2,671,9552,0,False,True,False,Extended_payment_plan,No,not kept
+C865,33,0,4965,0,,,,False,False,1864,690,28.79,22,biweekly,50,35.51,831.22,134,9,3,652.22,1376.91,True,True,N/A,4,688,0,0,False,False,False,N/A,N/A,N/A
+C866,76,566,0,0,monthly,62.0,467.0,True,True,1865,848,12.93,10,monthly,50,89.91,949.1,26,0,6,106.51,516.15,False,False,N/A,19,841,0,0,False,False,False,N/A,N/A,N/A
+C867,84,4997,0,0,monthly,62.0,750.0,False,False,1866,4336,17.1,10,biweekly,100,449.44,4594.4,40,2,2,1478.21,5173.73,True,False,N/A,14,633,0,0,False,False,False,N/A,N/A,N/A
+C868,29,1046,0,0,biweekly,101.0,114.0,False,False,1867,917,24.63,22,weekly,50,43.99,1017.78,118,16,3,797.23,1683.04,True,True,N/A,3,575,0,0,False,False,False,N/A,N/A,N/A
+C869,55,1462,0,0,biweekly,55.0,331.0,False,True,1868,533,18.36,12,monthly,50,48.96,637.52,341,11,1,529.7,1118.26,True,True,N/A,14,585,0,0,False,False,False,N/A,N/A,N/A
+C870,67,763,0,489,biweekly,22.0,380.0,False,False,1869,3857,22.91,7,weekly,100,560.75,4025.25,5,0,4,89.11,1871.36,False,False,True,11,426,9744,3746,True,True,False,Refinance,No,Partially kept
+C871,32,4332,0,0,biweekly,19.0,148.0,False,False,1870,182,24.72,11,biweekly,50,17.5,242.5,57,4,2,118.28,325.78,True,False,N/A,7,736,0,0,False,False,False,N/A,N/A,N/A
+C872,89,0,583,4648,,,,False,False,1871,545,25.84,24,biweekly,50,25.64,665.36,170,12,8,414.22,874.46,True,True,False,14,844,5712,0,False,True,False,Extended_payment_plan,No,not kept
+C873,98,2372,0,1836,monthly,27.0,778.0,False,True,1872,3420,11.78,14,biweekly,100,252.67,3637.38,110,7,5,2136.63,4510.66,True,True,False,7,512,3854,0,True,True,False,Refinance,No,not kept
+C874,90,1094,0,0,weekly,76.0,852.0,False,False,1873,3334,25.35,25,weekly,100,141.98,3649.5,59,8,12,1147.99,3093.73,True,False,N/A,13,543,0,0,False,False,False,N/A,N/A,N/A
+C875,76,1013,0,596,weekly,70.0,150.0,False,False,1874,3437,20.08,13,biweekly,100,278.9,3725.7,142,10,0,3353.13,7078.83,True,True,True,7,539,6246,6161,True,False,True,Refinance,Yes,Partially kept
+C876,82,893,0,0,monthly,89.0,665.0,False,False,1875,3319,13.15,15,biweekly,100,230.32,3554.8,40,2,7,777.02,2719.58,True,False,False,14,333,2542,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C877,72,0,3308,0,,,,False,False,1876,2427,13.96,7,biweekly,100,354.2,2579.4,70,5,2,1309.7,3180.7,True,False,N/A,7,380,0,0,False,False,False,N/A,N/A,N/A
+C878,81,0,2391,0,,,,False,False,1877,4274,20.7,19,monthly,100,265.74,5149.06,367,12,0,4634.15,9783.21,True,True,True,7,361,6931,5550,True,False,False,Refinance,Yes,Partially kept
+C879,62,4874,0,2013,weekly,36.0,336.0,False,True,1878,2045,10.1,10,weekly,100,206.69,2166.9,12,1,5,136.01,1269.46,True,False,N/A,4,721,0,0,False,False,False,N/A,N/A,N/A
+C880,20,0,2973,475,,,,False,False,1879,4777,18.95,12,monthly,100,440.12,5381.44,345,11,1,4447.19,9388.51,True,True,N/A,0,622,0,0,False,False,False,N/A,N/A,N/A
+C881,29,0,2929,0,,,,False,False,1880,3286,13.68,6,monthly,100,569.72,3518.32,82,2,2,1950.68,4329.56,True,False,N/A,7,728,0,0,False,False,False,N/A,N/A,N/A
+C882,50,0,2098,0,,,,False,False,1881,1367,10.58,17,weekly,100,81.89,1492.13,66,9,1,930.76,2341.0,True,False,False,10,355,2422,0,True,True,False,Refinance,No,not kept
+C883,27,1493,0,0,monthly,38.0,41.0,False,False,1882,1035,20.05,7,monthly,100,157.9,1205.3,128,4,2,800.55,1690.05,True,True,False,18,434,8709,0,True,True,False,Extended_payment_plan,No,not kept
+C884,83,4007,0,0,weekly,54.0,652.0,False,False,1883,2433,15.45,21,weekly,100,119.68,2613.28,12,1,10,169.98,1586.46,True,False,True,7,844,3816,2162,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C885,67,4500,0,0,weekly,19.0,27.0,False,False,1884,3871,22.04,23,weekly,100,177.0,4171.0,157,22,1,3594.6,7588.6,True,True,True,5,777,5478,4919,True,False,True,Refinance,Yes,Partially kept
+C886,55,1621,0,4812,weekly,20.0,411.0,False,False,1885,2991,11.48,7,monthly,100,443.79,3206.53,53,1,2,1229.04,3547.99,True,False,False,8,846,107,0,False,False,True,Settlement_plans_with_waive_off,No,not kept
+C887,39,4918,0,0,biweekly,5.0,8.0,False,False,1886,1122,11.57,15,weekly,100,76.14,1242.1,16,2,6,125.64,910.9,True,False,N/A,7,487,0,0,False,False,False,N/A,N/A,N/A
+C888,97,1831,0,0,biweekly,75.0,704.0,False,False,1887,1170,12.43,20,monthly,100,65.07,1401.4,349,11,4,1027.01,2168.13,True,True,N/A,0,300,0,0,False,False,False,N/A,N/A,N/A
+C889,40,4320,0,4367,weekly,69.0,171.0,False,False,1888,4213,26.54,7,biweekly,100,626.68,4486.76,29,2,5,392.47,1745.83,True,False,N/A,12,493,0,0,False,False,False,N/A,N/A,N/A
+C890,53,0,4196,0,,,,False,False,1889,3976,26.16,20,biweekly,100,220.47,4509.4,80,5,9,2020.14,4545.31,True,False,True,12,556,4805,2635,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C891,79,4334,0,0,monthly,58.0,285.0,False,False,1890,4886,11.44,11,monthly,100,469.99,5269.89,106,3,5,2627.95,5547.89,True,True,N/A,6,814,0,0,False,False,False,N/A,N/A,N/A
+C892,97,3548,0,0,weekly,12.0,27.0,False,False,1891,1491,17.33,18,biweekly,100,88.18,1687.24,220,15,2,1359.79,2870.67,True,True,True,1,670,2138,1672,True,False,False,Refinance,No,Partially kept
+C893,38,2180,0,4430,weekly,58.0,186.0,False,False,1892,3695,28.31,19,monthly,100,243.55,4727.45,542,18,0,4254.7,8982.15,True,True,N/A,11,825,0,0,False,False,False,N/A,N/A,N/A
+C894,93,1920,0,0,weekly,30.0,556.0,False,False,1893,1398,20.99,25,monthly,100,69.51,1837.75,91,3,2,1528.86,3227.59,True,True,False,4,829,5427,0,True,False,True,Refinance,No,not kept
+C895,47,3820,0,0,weekly,93.0,112.0,False,False,1894,4777,18.01,9,biweekly,100,549.33,5043.97,117,8,1,4045.18,8539.82,True,True,N/A,11,464,0,0,False,False,False,N/A,N/A,N/A
+C896,87,3763,0,2300,weekly,6.0,300.0,False,False,1895,1248,24.06,7,monthly,100,192.87,1450.09,31,1,0,449.53,1899.62,True,False,True,8,494,9618,7249,True,False,False,Refinance,No,Partially kept
+C897,78,3091,0,0,monthly,89.0,344.0,False,False,1896,2413,11.31,17,biweekly,100,147.56,2608.52,145,10,1,2214.86,4675.82,True,True,True,12,561,8124,3818,True,False,False,Refinance,Yes,Partially kept
+C898,66,0,1984,0,,,,False,False,1897,3979,15.12,22,weekly,100,186.97,4213.34,113,16,3,3287.19,6939.62,True,True,True,15,398,1372,698,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C899,60,2936,0,4944,monthly,45.0,208.0,False,False,1898,466,25.31,19,weekly,50,25.74,539.06,72,10,2,351.06,838.64,True,False,False,1,657,2996,0,False,True,False,Extended_payment_plan,No,not kept
+C900,74,3924,0,468,weekly,65.0,495.0,False,False,1899,3056,15.23,20,biweekly,100,162.37,3347.4,52,3,11,811.89,2373.22,True,False,True,4,421,8148,964,True,False,False,Refinance,Yes,Partially kept
+C901,37,4290,0,0,biweekly,5.0,6.0,False,False,1900,437,15.51,19,monthly,50,26.09,545.71,304,10,0,491.14,1036.85,True,True,N/A,16,325,0,0,False,False,False,N/A,N/A,N/A
+C902,40,2494,0,2483,biweekly,3.0,248.0,False,False,1901,333,10.29,7,monthly,50,49.22,394.54,61,2,1,210.65,555.97,True,False,N/A,15,739,0,0,False,False,False,N/A,N/A,N/A
+C903,63,0,3115,0,,,,False,False,1902,3817,20.92,18,monthly,100,248.89,4580.02,418,13,2,3674.02,7756.26,True,True,False,16,621,6238,0,True,False,False,Refinance,Yes,not kept
+C904,86,4201,0,2823,monthly,46.0,554.0,False,False,1903,4991,14.66,17,biweekly,100,308.71,5348.07,110,7,10,2034.87,4295.84,True,True,N/A,7,719,0,0,False,False,False,N/A,N/A,N/A
+C905,78,2293,0,4122,weekly,14.0,532.0,False,False,1904,4571,25.64,7,biweekly,100,679.01,4853.07,60,4,2,2097.03,5592.08,True,False,N/A,15,664,0,0,False,False,False,N/A,N/A,N/A
+C906,77,3637,0,0,biweekly,54.0,480.0,False,False,1905,3361,25.34,15,biweekly,100,241.93,3728.95,157,11,1,3138.32,6625.34,True,True,N/A,2,644,0,0,False,False,False,N/A,N/A,N/A
+C907,94,558,0,0,biweekly,87.0,105.0,False,False,1906,1591,23.67,19,biweekly,100,91.57,1839.83,40,2,1,699.3,2447.56,True,False,N/A,2,773,0,0,False,False,False,N/A,N/A,N/A
+C908,79,2285,0,0,weekly,13.0,402.0,False,False,1907,619,13.24,15,weekly,50,42.11,681.65,13,1,13,17.45,151.67,True,False,False,3,740,2632,0,True,False,True,Settlement_plans_with_waive_off,No,not kept
+C909,79,820,0,0,weekly,58.0,194.0,False,False,1908,106,21.01,10,monthly,50,11.65,166.5,89,2,2,127.45,270.65,True,False,False,5,835,8839,0,False,True,False,Extended_payment_plan,Yes,not kept
+C910,98,1857,0,0,monthly,20.0,396.0,False,False,1909,4302,12.98,9,biweekly,100,490.01,4510.09,35,2,3,1064.02,4104.08,True,False,True,16,381,8362,5677,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C911,27,4330,0,0,monthly,35.0,107.0,False,False,1910,1992,28.99,23,monthly,100,113.9,2719.7,147,4,4,2037.69,4301.79,True,True,True,13,544,3505,2352,False,True,False,Extended_payment_plan,Yes,Partially kept
+C912,27,4383,0,0,biweekly,45.0,81.0,False,False,1911,1346,19.36,12,monthly,100,124.27,1591.24,352,11,1,1320.27,2787.24,True,True,True,9,819,466,174,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C913,73,2122,0,0,weekly,55.0,577.0,False,False,1912,3676,13.93,23,biweekly,100,170.3,4016.9,181,12,4,3002.13,6337.83,True,True,N/A,1,810,0,0,False,False,False,N/A,N/A,N/A
+C914,48,0,947,2246,,,,False,False,1913,3500,25.76,15,weekly,100,242.69,3740.35,72,10,0,2693.05,6433.4,True,False,True,6,428,3765,2717,False,True,True,Extended_payment_plan,Yes,Partially kept
+C915,30,1636,0,607,biweekly,105.0,124.0,False,False,1914,2972,24.33,6,monthly,100,531.07,3286.42,121,4,2,2001.85,4226.13,True,True,False,4,750,9968,0,True,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C916,32,1168,0,143,weekly,0.0,6.0,False,False,1915,3070,12.01,22,monthly,100,156.17,3535.74,106,3,1,3041.61,6421.18,True,True,True,1,302,7176,278,True,True,True,Refinance,No,Partially kept
+C917,40,2484,0,0,monthly,148.0,225.0,False,False,1916,4344,18.54,13,biweekly,100,351.07,4663.91,160,11,2,3565.59,7527.36,True,True,N/A,10,601,0,0,False,False,False,N/A,N/A,N/A
+C918,25,3641,0,3189,monthly,6.0,19.0,False,False,1917,3034,11.77,17,biweekly,100,185.83,3259.11,223,15,1,2765.95,5839.23,True,True,True,4,442,5687,1470,False,True,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C919,86,2542,0,0,monthly,63.0,734.0,False,False,1918,918,27.06,15,monthly,50,72.81,1142.15,434,14,1,962.41,2031.75,True,True,True,0,732,7412,4914,True,False,True,Refinance,Yes,Partially kept
+C920,55,1010,0,0,weekly,27.0,158.0,False,False,1919,3217,29.11,20,weekly,100,170.47,3509.4,50,7,9,987.58,2962.75,True,False,True,4,309,5910,136,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C921,81,1226,0,0,weekly,84.0,737.0,True,True,1920,4774,13.02,16,monthly,100,326.63,5326.08,451,15,1,4499.5,9498.95,True,True,True,2,750,6423,1967,False,True,False,Extended_payment_plan,No,Partially kept
+C922,55,0,1863,0,,,,False,False,1921,2697,20.79,10,biweekly,100,281.7,2917.0,94,6,2,2118.24,4471.84,True,True,N/A,18,471,0,0,False,False,False,N/A,N/A,N/A
+C923,56,3192,0,0,monthly,79.0,181.0,False,False,1922,3168,23.32,12,monthly,100,298.52,3682.24,188,6,6,1702.01,3593.13,True,True,False,18,470,3517,0,True,False,False,Refinance,No,not kept
+C924,57,4932,0,0,weekly,21.0,36.0,False,False,1923,1096,15.38,7,biweekly,100,160.3,1222.1,44,3,4,255.6,836.5,True,False,N/A,18,361,0,0,False,False,False,N/A,N/A,N/A
+C925,36,796,0,0,biweekly,36.0,42.0,False,False,1924,1022,29.46,21,monthly,100,62.87,1420.27,386,12,3,1108.49,2340.15,True,True,N/A,8,596,0,0,False,False,False,N/A,N/A,N/A
+C926,76,2927,0,0,weekly,87.0,418.0,False,False,1925,1886,10.18,18,biweekly,100,108.72,2056.96,27,1,13,173.77,817.37,True,False,True,4,496,5931,3414,True,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C927,55,2464,0,0,biweekly,4.0,83.0,False,False,1926,2894,16.23,17,biweekly,100,179.96,3159.32,77,5,0,2432.68,5592.0,True,False,N/A,13,459,0,0,False,False,False,N/A,N/A,N/A
+C928,67,4765,0,0,biweekly,239.0,524.0,False,False,1927,1333,13.34,15,weekly,100,90.7,1460.5,82,11,2,1048.86,2327.96,True,False,N/A,14,786,0,0,False,False,False,N/A,N/A,N/A
+C929,57,2478,0,0,monthly,371.0,416.0,False,False,1928,4448,22.4,14,monthly,100,363.97,5195.58,37,1,0,1922.36,7117.94,True,False,N/A,17,474,0,0,False,False,False,N/A,N/A,N/A
+C930,69,4517,0,2552,biweekly,54.0,346.0,False,False,1929,1155,27.51,22,monthly,100,67.43,1583.46,42,1,14,268.56,908.0,True,False,N/A,1,760,0,0,False,False,False,N/A,N/A,N/A
+C931,33,0,1743,3457,,,,False,False,1930,532,21.98,16,weekly,50,34.46,601.36,14,2,14,16.65,135.57,True,False,N/A,2,420,0,0,False,False,False,N/A,N/A,N/A
+C932,100,0,2257,3048,,,,False,False,1931,2403,24.66,8,monthly,100,328.81,2730.48,192,6,0,2457.43,5187.91,True,True,N/A,4,643,0,0,False,False,False,N/A,N/A,N/A
+C933,56,1322,0,262,monthly,59.0,80.0,False,False,1932,4989,19.03,23,weekly,100,226.57,5311.11,55,7,11,1550.36,4369.2,True,False,N/A,18,745,0,0,False,False,False,N/A,N/A,N/A
+C934,61,2628,0,0,monthly,191.0,478.0,False,False,1933,2682,24.85,24,monthly,100,142.94,3530.56,636,21,3,2791.57,5893.31,True,True,True,0,503,5330,3128,False,True,False,Extended_payment_plan,Yes,Partially kept
+C935,46,4497,0,0,weekly,32.0,252.0,False,False,1934,484,27.08,10,biweekly,50,51.22,562.2,107,7,0,505.98,1068.18,True,True,True,16,734,9823,765,True,True,False,Extended_payment_plan,No,Partially kept
+C936,47,0,1495,0,,,,False,False,1935,846,13.55,18,monthly,50,52.2,989.6,276,9,1,843.66,1781.06,True,True,N/A,16,373,0,0,False,False,False,N/A,N/A,N/A
+C937,39,4980,0,1435,biweekly,10.0,39.0,False,False,1936,3844,16.68,23,biweekly,100,180.3,4246.9,155,11,3,3335.4,7041.4,True,True,False,17,400,200,0,False,True,True,Extended_payment_plan,No,not kept
+C938,35,2698,0,0,weekly,80.0,115.0,True,True,1937,2764,15.81,8,weekly,100,350.24,2901.92,14,2,3,259.17,2110.37,True,False,N/A,12,551,0,0,False,False,False,N/A,N/A,N/A
+C939,72,3088,0,2506,monthly,30.0,506.0,False,False,1938,2023,28.47,13,biweekly,100,167.8,2281.4,20,1,9,154.24,925.44,True,False,False,5,510,3582,0,True,True,False,Refinance,No,not kept
+C940,37,2004,0,0,weekly,128.0,218.0,False,False,1939,3053,20.51,22,weekly,100,145.15,3293.3,139,19,2,2702.7,5705.7,True,True,True,5,791,1523,1118,True,False,True,Refinance,Yes,Partially kept
+C941,43,3244,0,2604,weekly,14.0,29.0,False,False,1940,4234,14.37,7,biweekly,100,618.3,4428.1,57,4,3,1466.72,4039.92,True,False,True,8,453,5036,4273,True,False,True,Refinance,No,Partially kept
+C942,22,2956,0,0,weekly,16.0,33.0,False,False,1941,2967,15.76,9,biweekly,100,339.74,3157.66,31,2,7,241.64,1021.12,True,False,N/A,3,623,0,0,False,False,False,N/A,N/A,N/A
+C943,72,0,4739,0,,,,False,False,1942,2433,27.35,16,biweekly,100,166.01,2756.16,14,1,15,37.24,303.25,False,False,N/A,5,381,0,0,False,False,False,N/A,N/A,N/A
+C944,94,2299,0,313,monthly,63.0,675.0,False,False,1943,357,12.06,11,weekly,50,32.91,412.01,42,6,1,159.22,538.32,True,False,True,7,570,7498,3255,True,True,True,Extended_payment_plan,No,Partially kept
+C945,91,3854,0,0,weekly,49.0,141.0,False,False,1944,2514,28.0,13,weekly,100,200.75,2709.75,82,11,2,1892.76,4201.01,True,False,N/A,12,626,0,0,False,False,False,N/A,N/A,N/A
+C946,87,1667,0,0,biweekly,81.0,494.0,False,False,1945,1687,20.44,15,biweekly,100,119.67,1895.05,192,13,1,1597.84,3373.22,True,True,N/A,15,339,0,0,False,False,False,N/A,N/A,N/A
+C947,95,2994,0,0,monthly,126.0,165.0,False,True,1946,3638,26.17,19,weekly,100,201.26,3923.94,120,17,2,3169.28,6690.7,True,True,N/A,2,796,0,0,False,False,False,N/A,N/A,N/A
+C948,43,0,1746,0,,,,False,False,1947,3824,21.15,14,monthly,100,310.61,4448.54,77,2,11,794.51,1826.34,True,False,True,16,488,6700,5872,True,False,False,Refinance,Yes,Partially kept
+C949,79,3839,0,0,monthly,22.0,32.0,False,False,1948,1758,13.7,22,weekly,100,82.35,1911.7,37,5,11,372.16,1378.01,True,False,False,9,833,6010,0,True,True,True,Settlement_plans_with_waive_off,Yes,not kept
+C950,96,3821,0,0,monthly,12.0,376.0,False,False,1949,4867,26.64,9,biweekly,100,568.86,5219.74,45,3,5,1068.95,3444.39,True,False,N/A,10,627,0,0,False,False,False,N/A,N/A,N/A
+C951,69,4342,0,3211,biweekly,29.0,423.0,False,False,1950,1029,23.44,21,biweekly,100,54.0,1234.0,105,7,2,1013.4,2139.4,True,True,N/A,19,556,0,0,False,False,False,N/A,N/A,N/A
+C952,30,4328,0,0,weekly,1.0,2.0,False,False,1951,1565,14.03,19,biweekly,100,86.88,1750.72,194,13,0,1575.65,3326.37,True,True,True,9,632,7394,4942,True,False,False,Refinance,No,Partially kept
+C953,52,0,4948,0,,,,False,False,1952,445,29.72,17,biweekly,50,28.95,542.15,153,10,3,409.77,865.07,True,True,True,2,540,9647,508,True,False,False,Refinance,Yes,Partially kept
+C954,26,1842,0,0,weekly,18.0,75.0,False,False,1953,976,27.03,7,biweekly,50,145.29,1067.03,38,2,5,129.42,470.0,True,False,False,18,694,1021,0,False,True,False,Extended_payment_plan,No,not kept
+C955,45,1405,0,0,monthly,14.0,38.0,False,False,1954,586,10.43,10,biweekly,50,59.9,649.0,77,5,4,315.24,724.64,True,False,False,14,713,2410,0,False,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C956,98,0,1742,0,,,,False,False,1955,4548,19.32,23,monthly,100,238.17,5577.91,252,8,8,3305.3,6977.85,True,True,False,15,753,2998,0,True,False,True,Settlement_plans_with_waive_off,Yes,not kept
+C957,84,0,2954,0,,,,False,False,1956,4035,19.39,11,weekly,100,375.08,4225.88,29,4,7,464.09,2064.41,True,False,N/A,3,814,0,0,False,False,False,N/A,N/A,N/A
+C958,78,0,1348,0,,,,False,True,1957,2074,10.39,14,monthly,100,157.94,2311.16,400,13,1,1937.9,4091.12,True,True,True,16,385,3717,2569,True,True,True,Settlement_plans_with_waive_off,No,Partially kept
+C959,53,2605,0,1631,monthly,41.0,71.0,False,False,1958,1171,14.1,22,monthly,100,60.71,1435.62,233,7,5,1018.86,2150.93,True,True,N/A,13,835,0,0,False,False,False,N/A,N/A,N/A
+C960,84,3273,0,1256,monthly,24.0,52.0,False,False,1959,1464,21.96,17,biweekly,100,92.81,1677.77,152,10,1,1426.46,3011.42,True,True,True,4,338,6087,1958,True,False,True,Refinance,Yes,Partially kept
+C961,70,4839,0,0,monthly,56.0,57.0,False,False,1960,2358,22.29,17,biweekly,100,149.65,2644.05,100,7,5,1706.22,3602.02,True,True,N/A,8,367,0,0,False,False,False,N/A,N/A,N/A
+C962,56,1570,0,0,biweekly,49.0,162.0,False,False,1961,620,14.07,22,weekly,50,29.07,689.54,105,15,4,515.93,1089.19,True,True,True,18,393,240,177,True,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C963,41,0,741,0,,,,False,False,1962,3045,20.28,19,weekly,100,166.59,3265.21,15,2,3,414.82,3180.26,True,False,True,1,431,370,267,True,False,False,Refinance,No,Partially kept
+C964,72,2794,0,0,biweekly,14.0,60.0,False,False,1963,1626,22.71,23,weekly,100,74.46,1812.58,161,23,0,1631.32,3443.9,True,True,True,4,394,6022,4789,True,False,False,Refinance,No,Partially kept
+C965,51,2924,0,0,biweekly,75.0,131.0,False,False,1964,1869,26.73,22,weekly,100,90.07,2081.54,81,11,8,1102.39,2463.37,True,False,N/A,17,781,0,0,False,False,False,N/A,N/A,N/A
+C966,58,2152,0,0,biweekly,93.0,98.0,False,False,1965,2906,21.52,15,monthly,100,222.68,3440.2,217,7,6,1893.71,3997.83,True,True,N/A,13,371,0,0,False,False,False,N/A,N/A,N/A
+C967,94,868,0,2858,biweekly,6.0,788.0,False,False,1966,667,18.68,6,monthly,50,117.3,753.8,177,5,0,678.42,1432.22,True,True,True,5,343,8033,503,True,False,False,Refinance,Yes,Partially kept
+C968,44,2928,0,0,weekly,1.0,39.0,False,False,1967,1568,14.57,22,biweekly,100,75.96,1771.12,197,14,8,1047.1,2210.54,True,True,True,13,339,701,296,False,False,True,Settlement_plans_with_waive_off,No,Partially kept
+C969,20,3147,0,3235,monthly,14.0,14.0,False,False,1968,919,13.46,8,weekly,50,116.22,979.76,49,7,1,423.13,1286.67,True,False,True,10,485,9692,1820,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C970,34,2944,0,4183,biweekly,53.0,147.0,False,False,1969,1861,28.73,12,weekly,100,160.71,2028.52,51,7,0,1034.55,3063.07,True,False,False,17,339,1617,0,True,True,True,Refinance,Yes,not kept
+C971,74,0,2807,0,,,,False,False,1970,615,11.12,20,monthly,50,33.83,726.6,499,16,0,653.94,1380.54,True,True,False,4,756,7943,0,True,False,True,Settlement_plans_with_waive_off,No,not kept
+C972,58,837,0,4631,weekly,49.0,325.0,False,False,1971,1571,25.13,18,monthly,100,105.66,2001.88,407,13,1,1706.6,3602.82,True,True,False,11,673,2808,0,True,True,False,Extended_payment_plan,No,not kept
+C973,97,2062,0,2255,biweekly,29.0,149.0,False,False,1972,2968,11.25,23,weekly,100,132.42,3145.66,112,16,2,2592.74,5473.56,True,True,False,0,382,4193,0,True,True,True,Refinance,No,not kept
+C974,30,0,3072,4778,,,,False,False,1973,2855,14.41,25,biweekly,100,122.61,3165.25,237,16,5,2296.98,4849.18,True,True,N/A,9,807,0,0,False,False,False,N/A,N/A,N/A
+C975,41,4443,0,0,biweekly,23.0,24.0,False,False,1974,1545,22.13,23,monthly,100,83.03,2009.69,32,1,5,510.25,2104.79,True,False,N/A,14,640,0,0,False,False,False,N/A,N/A,N/A
+C976,22,3033,0,0,monthly,11.0,48.0,False,False,1975,1440,21.2,25,monthly,100,71.75,1893.75,478,15,9,1123.2,2371.2,True,True,False,3,554,6595,0,True,True,True,Extended_payment_plan,Yes,not kept
+C977,58,2194,0,0,biweekly,69.0,282.0,False,False,1976,4067,26.39,16,weekly,100,265.29,4344.64,30,4,1,1223.8,5303.15,True,False,False,5,402,7735,0,False,True,True,Extended_payment_plan,No,not kept
+C978,18,3614,0,0,biweekly,0.0,0.0,False,False,1977,2738,26.82,23,monthly,100,153.55,3631.65,130,4,10,1886.54,3982.69,True,True,N/A,10,402,0,0,False,False,False,N/A,N/A,N/A
+C979,18,3495,0,0,monthly,0.0,0.0,False,False,1978,3722,25.99,8,monthly,100,511.73,4193.84,38,1,7,232.46,844.19,True,False,N/A,6,649,0,0,False,False,False,N/A,N/A,N/A
+C980,79,1309,0,0,weekly,0.0,19.0,False,False,1979,1544,21.33,24,monthly,100,79.59,2010.16,488,16,7,1307.73,2760.76,True,True,False,19,429,2965,0,False,True,True,Extended_payment_plan,Yes,not kept
+C981,92,4019,0,0,weekly,16.0,699.0,False,False,1980,2527,28.61,9,weekly,100,288.56,2697.04,34,4,0,916.99,3614.03,True,False,False,19,433,3134,0,True,True,False,Extended_payment_plan,No,not kept
+C982,68,2288,0,1996,weekly,14.0,593.0,False,False,1981,4926,14.66,8,biweekly,100,631.48,5151.84,13,0,5,259.28,2253.72,False,False,N/A,6,480,0,0,False,False,False,N/A,N/A,N/A
+C983,99,4528,0,639,weekly,31.0,901.0,False,False,1982,4555,22.58,15,monthly,100,351.36,5370.4,194,6,3,3884.69,8201.01,True,True,N/A,18,749,0,0,False,False,False,N/A,N/A,N/A
+C984,91,1421,0,0,weekly,76.0,488.0,False,False,1983,2476,20.52,23,biweekly,100,118.14,2817.22,22,1,15,229.93,1275.05,True,False,True,3,503,8180,1401,False,False,True,Settlement_plans_with_waive_off,Yes,Partially kept
+C985,68,2958,0,0,monthly,9.0,28.0,False,False,1984,4606,10.51,17,monthly,100,292.79,5077.43,280,9,4,3515.64,7421.91,True,True,False,8,325,394,0,True,False,False,Refinance,Yes,not kept
+C986,79,2778,0,0,weekly,83.0,560.0,False,False,1985,4698,14.96,12,biweekly,100,406.3,4975.6,57,4,4,1909.73,5260.13,True,False,N/A,10,546,0,0,False,False,False,N/A,N/A,N/A
+C987,47,2836,0,1086,monthly,71.0,348.0,False,False,1986,3685,27.09,20,weekly,100,194.49,3989.8,127,18,0,3590.82,7580.62,True,True,False,18,573,731,0,False,True,False,Extended_payment_plan,No,not kept
+C988,46,0,3318,3934,,,,False,False,1987,3657,28.77,6,weekly,100,621.36,3828.16,40,5,1,1282.72,4489.52,True,False,True,14,643,1431,1224,False,True,False,Extended_payment_plan,No,Partially kept
+C989,91,2748,0,0,weekly,3.0,87.0,False,False,1988,4185,26.47,22,biweekly,100,213.29,4792.38,99,7,10,2393.53,5053.01,True,True,False,13,390,1472,0,False,True,True,Extended_payment_plan,Yes,not kept
+C990,75,2439,0,3079,weekly,332.0,350.0,False,False,1989,1560,29.84,11,weekly,100,146.75,1714.25,50,7,0,857.12,2571.37,True,False,N/A,0,352,0,0,False,False,False,N/A,N/A,N/A
+C991,100,1662,0,0,biweekly,59.0,605.0,False,False,1990,320,20.64,21,monthly,50,18.28,433.88,167,5,8,258.88,546.52,True,True,N/A,16,684,0,0,False,False,False,N/A,N/A,N/A
+C992,60,4314,0,0,monthly,142.0,183.0,False,False,1991,2673,17.67,15,weekly,100,183.08,2846.2,38,5,8,524.99,1906.55,True,False,False,13,420,6704,0,True,False,False,Refinance,Yes,not kept
+C993,29,4124,0,0,weekly,96.0,107.0,False,False,1992,3351,23.19,10,weekly,100,343.37,3533.7,33,4,5,599.56,2416.41,True,False,False,4,535,6297,0,False,True,True,Extended_payment_plan,No,not kept
+C994,28,3464,0,0,weekly,61.0,106.0,False,False,1993,597,18.6,13,weekly,50,47.08,662.04,49,7,0,324.4,986.44,True,False,True,4,628,5892,1391,True,False,False,Refinance,No,Partially kept
+C995,48,4235,0,0,monthly,70.0,147.0,False,False,1994,4355,13.56,20,biweekly,100,229.87,4697.4,136,9,5,3193.24,6741.29,True,True,N/A,13,814,0,0,False,False,False,N/A,N/A,N/A
+C996,73,4062,0,0,weekly,78.0,251.0,False,False,1995,4327,21.55,21,biweekly,100,225.35,4832.35,44,3,6,1531.31,5011.56,True,False,N/A,1,811,0,0,False,False,False,N/A,N/A,N/A
+C997,44,4050,0,0,monthly,51.0,58.0,False,False,1996,2772,29.56,16,monthly,100,211.73,3487.68,231,7,4,2376.68,5017.44,True,True,False,11,730,3155,0,True,False,False,Refinance,No,not kept
+C998,97,0,4058,2725,,,,False,False,1997,254,17.49,25,monthly,50,12.2,355.0,434,14,1,308.52,651.32,True,True,N/A,11,796,0,0,False,False,False,N/A,N/A,N/A
+C999,64,2752,0,0,monthly,0.0,4.0,False,False,1998,3701,18.47,24,biweekly,100,168.27,4138.48,333,23,0,3724.63,7863.11,True,True,N/A,12,791,0,0,False,False,False,N/A,N/A,N/A
+C1000,39,1193,0,0,biweekly,40.0,66.0,False,False,1999,1238,24.92,8,monthly,100,169.56,1456.48,60,2,4,466.94,1245.18,True,False,True,5,601,3659,959,False,True,False,Extended_payment_plan,No,Partially kept

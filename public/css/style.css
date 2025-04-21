@@ -315,4 +315,20 @@ input:focus {
   .button-group {
     flex-direction: column;
   }
+}
+
+.form-text {
+  color: #666;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+  display: block;
+}
+
+.form-text ul {
+  margin: 0.5rem 0 0 1.5rem;
+  padding: 0;
+}
+
+.form-text li {
+  margin-bottom: 0.25rem;
 } 
