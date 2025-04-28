@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Prediction Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>ML Prediction Test</h1>
+    
+    <div class="form-group">
+        <label for="customerId">Customer ID:</label>
+        <input type="number" id="customerId" placeholder="Enter customer ID">
+    </div>
+
+    <button onclick="getPrediction()">Get Prediction</button>
+
+    <div id="result"></div>
+
+    <script>
+        async function getPrediction() {
+            const customerId = document.getElementById('customerId').value;
+            const resultDiv = document.getElementById('result');
+            
+            if (!customerId) {
+                resultDiv.innerHTML = '<p class="error">Please enter a customer ID</p>';
+                return;
+            }
+
+            try {
+                // First, get the customer data
+                const customerResponse = await fetch(`/api/customers/${customerId}`);
+                if (!customerResponse.ok) {
+                    throw new Error('Customer not found');
+                }
+                const customerData = await customerResponse.json();
+
+                // Then, get the prediction
+                const predictionResponse = await fetch('/api/predictions', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ customerId: parseInt(customerId) })
+                });
+
+                if (!predictionResponse.ok) {
+                    throw new Error('Failed to get prediction');
+                }
+
+                const prediction = await predictionResponse.json();
+                
+                // Display results
+                resultDiv.innerHTML = `
+                    <h3>Customer Details:</h3>
+                    <pre>${JSON.stringify(customerData, null, 2)}</pre>
+                    <h3>Prediction Result:</h3>
+                    <pre>${JSON.stringify(prediction, null, 2)}</pre>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `<p class="error">Error: ${error.message}</p>`;
+            }
+        }
+    </script>
+</body>
+</html> 

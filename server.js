@@ -30,6 +30,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // Routes
 app.use('/api/users', require('./routes/userRoutes'));
 app.use('/api/customers', require('./routes/customerRoutes'));
+app.use('/api/predictions', require('./routes/predictionRoutes'));
 
 // API 404 handler - return JSON for API requests that don't match any route
 app.use('/api/*', (req, res) => {
